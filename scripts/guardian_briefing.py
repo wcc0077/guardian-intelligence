@@ -70,7 +70,7 @@ SOURCES = [
 # ── 采集 ───────────────────────────────────────────────────────────────────
 
 def fetch_rss(source):
-    """抓取RSS源，返回标题列表"""
+    """抓取RSS源，返回标题列表（处理CDATA格式链接）"""
     try:
         r = requests.get(source["url"], headers=HEADERS, timeout=TIMEOUT)
         r.encoding = "utf-8"
@@ -78,11 +78,25 @@ def fetch_rss(source):
         items = []
         for item in soup.select("item")[:8]:
             title = item.select_one("title")
-            link  = item.select_one("link")
             desc  = item.select_one("description")
+            # 链接可能在CDATA里：<link/><![CDATA[url]]>
+            article_url = ""
+            # 方案1：从CDATA字符串提取
+            import bs4
+            for child in item.children:
+                if isinstance(child, bs4.NavigableString) and not isinstance(child, bs4.Comment):
+                    s = str(child).strip()
+                    if s.startswith("http"):
+                        article_url = s
+                        break
+            # 方案2：如果CDATA没找到，用link标签文字
+            if not article_url:
+                link_elem = item.select_one("link")
+                if link_elem:
+                    article_url = link_elem.text.strip()
             items.append({
                 "title":    title.text.strip() if title else "",
-                "url":      link.text.strip()  if link  else "",
+                "url":      article_url,
                 "desc":     re.sub(r'<[^>]+>', '', desc.text.strip() if desc else "")[:100],
                 "source":   source["name"],
                 "sourceUrl": source["url"],
