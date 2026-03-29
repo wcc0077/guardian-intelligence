@@ -372,14 +372,28 @@ def _write_web_json(signals, digest, total_count):
         "updateTimeStr": f"{today} {now}",
         "sourceCount":  len(sources),
         "totalCount":   total_count,
+        "totalSignalsAll": total_signals_all,
         "signalCount":  len(signals),
         "signals":      sections["highlights"] + sections["deepDive"] + sections["tools"],
     }
 
     # 确定数据目录
-    repo_data = Path("/tmp/guardian-intelligence/data")
     local_data = BASE_DIR / "intelligence_data"
+    repo_data  = Path("/tmp/guardian-intelligence/data")
     local_data.mkdir(parents=True, exist_ok=True)
+    repo_data.mkdir(parents=True, exist_ok=True)
+
+    # 统计历史累计信号总数
+    total_signals_all = len(signals)  # 本批
+    for f in local_data.glob("????-??-??.json"):
+        if f.name == f"{today}.json":
+            continue
+        try:
+            with open(f) as fh:
+                d = json.load(fh)
+                total_signals_all += len(d.get("signals", []))
+        except Exception:
+            pass
 
     # 1. 保存每日归档（永不覆盖旧文件）
     daily_file = local_data / f"{today}.json"

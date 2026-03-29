@@ -173,7 +173,7 @@ function updateHeaderMeta(data) {
   if (!data) return;
   document.getElementById('mTemp').textContent    = data.temperature || '--';
   document.getElementById('mSignals').textContent = data.signalCount || '--';
-  document.getElementById('mTotal').textContent   = data.totalCount || '--';
+  document.getElementById('mTotal').textContent   = data.totalSignalsAll || '--';
   document.getElementById('mSources').textContent = data.sourceCount || '--';
   document.getElementById('mTime').textContent    = (data.updateTimeStr || '').slice(-5) || '--';
 }
