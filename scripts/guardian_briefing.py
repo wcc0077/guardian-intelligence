@@ -299,6 +299,10 @@ def main():
         else:
             s["section"] = "tools"
 
+    # 取分最高的10条
+    scored = sorted(scored, key=lambda x: -x["score"])[:10]
+    signalCount = len(scored)
+
     # 保存
     ts = datetime.now().strftime("%Y%m%d_%H%M")
     report_file = BASE_DIR / f"briefing_{ts}.md"
