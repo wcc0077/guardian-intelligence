@@ -399,8 +399,7 @@ def _write_web_json(signals, digest):
     else:
         archives.insert(0, entry)  # 最新的排前面
 
-    # 最多保留90天
-    archives = archives[:90]
+    # 永久保留，不做删除
     with open(archives_file, "w") as f:
         json.dump(archives, f, ensure_ascii=False, indent=2)
 
