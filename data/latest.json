@@ -1,0 +1,72 @@
+{
+  "title": "AI科技情报简报",
+  "timeStr": "2026-03-29 23:41",
+  "label": "LATEST BRIEFING · 2026-03-29",
+  "temperature": 78,
+  "updateTimeStr": "23:41",
+  "sourceCount": 6,
+  "signalCount": 11,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "ScienceDaily",
+      "title": "量子计算突破：实时追踪量子位波动，稳定性提升",
+      "summary": "量子计算领域在 qubit 稳定性追踪方面取得重要进展，对行业有深远影响"
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "title": "亮亮视野发布全球首创AR+AI会议翻译系统",
+      "summary": "部署中关村论坛，变革传统同传设备"
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "title": "幺正量子获吉利等数亿投资，对标国际巨头Quantinuum",
+      "summary": "量子计算投资热持续，国内团队获大额融资"
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily",
+      "title": "AI数秒读取脑部MRI并标记紧急情况",
+      "summary": "AI医疗影像分析进入临床阶段，速度和准确性双突破"
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily",
+      "title": "AI采摘机器人研发获突破性进展",
+      "summary": "农业AI进入实用化阶段，劳动力替代加速"
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "title": "AI短剧规模化：内容过饱和危机隐现",
+      "summary": "\"一人一天一部剧\"时代降临，供给过剩风险需关注"
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily",
+      "title": "AI聊天机器人充当治疗师存在严重伦理隐患",
+      "summary": "ChatGPT心理治疗场景应用面临监管空白"
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily",
+      "title": "神经形态计算：受大脑启发的计算机数学能力超预期",
+      "summary": "新型计算范式在数学任务上展现惊人能力"
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily",
+      "title": "传统电池公司纷纷押注AI赛道",
+      "summary": "能源企业转型AI成趋势，产业格局正在重塑"
+    },
+    {
+      "section": "tools",
+      "source": "GitHub",
+      "title": "OpenSpace：HKUDS开源AI代理，支持低成本自我进化",
+      "summary": "⭐ 2318 · AI Agent 新项目值得关注"
+    }
+  ],
+  "archives": []
+}

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>👁️ 守护神情报局</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #0a0e17;
+      color: #e2e8f0;
+      font-family: -apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+      min-height: 100vh;
+    }
+    .hero {
+      background: linear-gradient(135deg, #0f1923 0%, #1a2744 100%);
+      border-bottom: 1px solid #1e3a5f;
+      padding: 60px 20px 40px;
+      text-align: center;
+    }
+    .hero .logo { font-size: 48px; margin-bottom: 16px; }
+    .hero h1 { font-size: 32px; font-weight: 700; color: #f1f5f9; margin-bottom: 8px; }
+    .hero p { color: #64748b; font-size: 14px; }
+    .temp-bar {
+      display: flex; align-items: center; justify-content: center; gap: 16px;
+      margin-top: 28px;
+    }
+    .temp-label { font-size: 14px; color: #94a3b8; }
+    .temp-score { font-size: 52px; font-weight: 800;
+      background: linear-gradient(135deg, #f97316, #ef4444);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .temp-suffix { font-size: 20px; color: #f97316; margin-left: 4px; }
+
+    .status-row {
+      display: flex; justify-content: center; gap: 32px; margin-top: 24px;
+      flex-wrap: wrap;
+    }
+    .status-item { text-align: center; }
+    .status-item .num { font-size: 24px; font-weight: 700; color: #38bdf8; }
+    .status-item .lbl { font-size: 12px; color: #64748b; margin-top: 2px; }
+
+    .main { max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+
+    .latest-label {
+      font-size: 11px; text-transform: uppercase; letter-spacing: 2px;
+      color: #f97316; margin-bottom: 16px; font-weight: 600;
+    }
+    .latest-title { font-size: 26px; font-weight: 700; color: #f1f5f9; margin-bottom: 8px; }
+    .latest-time { font-size: 13px; color: #475569; margin-bottom: 32px; }
+
+    .section-title {
+      font-size: 13px; text-transform: uppercase; letter-spacing: 2px;
+      color: #475569; margin: 40px 0 16px; font-weight: 600;
+      border-left: 3px solid #f97316; padding-left: 10px;
+    }
+
+    .card {
+      background: #111827;
+      border: 1px solid #1f2937;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 12px;
+      transition: border-color 0.2s;
+    }
+    .card:hover { border-color: #f97316; }
+    .card .source { font-size: 11px; color: #f97316; font-weight: 600; letter-spacing: 1px; }
+    .card .title { font-size: 16px; font-weight: 600; color: #e2e8f0; margin: 6px 0; line-height: 1.4; }
+    .card .summary { font-size: 13px; color: #64748b; line-height: 1.6; }
+    .card .meta { display: flex; gap: 16px; margin-top: 10px; }
+    .card .badge {
+      font-size: 11px; padding: 2px 8px; border-radius: 4px;
+      background: #1e293b; color: #38bdf8;
+    }
+
+    .divider { border: none; border-top: 1px solid #1f2937; margin: 40px 0; }
+
+    .archive { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+    .archive-item {
+      background: #111827; border: 1px solid #1f2937; border-radius: 10px;
+      padding: 16px; text-decoration: none; color: inherit;
+      transition: all 0.2s; display: block;
+    }
+    .archive-item:hover { border-color: #f97316; transform: translateY(-2px); }
+    .archive-item .date { font-size: 12px; color: #38bdf8; font-weight: 600; }
+    .archive-item .count { font-size: 13px; color: #94a3b8; margin-top: 4px; }
+    .archive-item .prev { font-size: 11px; color: #475569; margin-top: 4px; }
+
+    .footer {
+      text-align: center; padding: 40px 20px;
+      color: #334155; font-size: 12px;
+      border-top: 1px solid #1f2937; margin-top: 60px;
+    }
+    .footer a { color: #475569; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="logo">👁️</div>
+  <h1>守护神情报局</h1>
+  <p>AI科技情报 · 自动采集 · 实时更新</p>
+  <div class="temp-bar">
+    <span class="temp-label">今日行业温度</span>
+    <span class="temp-score" id="temp">--</span>
+    <span class="temp-suffix">/100</span>
+  </div>
+  <div class="status-row">
+    <div class="status-item"><div class="num" id="sourceCount">--</div><div class="lbl">情报来源</div></div>
+    <div class="status-item"><div class="num" id="signalCount">--</div><div class="lbl">有效信号</div></div>
+    <div class="status-item"><div class="num" id="updateTime">--</div><div class="lbl">最后更新</div></div>
+  </div>
+</div>
+
+<div class="main">
+  <div class="latest-label" id="latestLabel">LATEST BRIEFING</div>
+  <h2 class="latest-title" id="latestTitle">加载中...</h2>
+  <div class="latest-time" id="latestTime"></div>
+
+  <div id="cards"></div>
+
+  <hr class="divider">
+
+  <div class="section-title">📁 历史简报</div>
+  <div class="archive" id="archive"></div>
+</div>
+
+<div class="footer">
+  <p>👁️ 守护神情报局 · 全自动运行 · <a href="https://github.com/wcc0077/guardian-intelligence">Source</a></p>
+</div>
+
+<script>
+async function loadData() {
+  const resp = await fetch('data/latest.json');
+  const data = await resp.json();
+
+  document.getElementById('temp').textContent = data.temperature || '--';
+  document.getElementById('sourceCount').textContent = data.sourceCount || data.sources?.length || '--';
+  document.getElementById('signalCount').textContent = data.signalCount || data.signals?.length || '--';
+  document.getElementById('updateTime').textContent = data.updateTimeStr || '--';
+  document.getElementById('latestLabel').textContent = data.label || 'LATEST BRIEFING';
+  document.getElementById('latestTitle').textContent = data.title || '今日情报简报';
+  document.getElementById('latestTime').textContent = data.timeStr || '';
+
+  const cards = document.getElementById('cards');
+  if (data.signals && data.signals.length) {
+    // Sections
+    ['highlights', 'deepDive', 'tools'].forEach(section => {
+      const items = data.signals.filter(s => s.section === section);
+      if (!items.length) return;
+      const titles = { highlights: '【今日要点】', deepDive: '【值得深挖】', tools: '【工具/开源】' };
+      const h3 = document.createElement('div');
+      h3.className = 'section-title';
+      h3.textContent = titles[section];
+      cards.appendChild(h3);
+      items.forEach(s => {
+        const div = document.createElement('div');
+        div.className = 'card';
+        div.innerHTML = `
+          <div class="source">${s.source || 'SIGNAL'}</div>
+          <div class="title">${s.title}</div>
+          ${s.summary ? `<div class="summary">${s.summary}</div>` : ''}
+          ${s.url ? `<div class="meta"><a class="badge" href="${s.url}" target="_blank">🔗 查看原文</a></div>` : ''}
+        `;
+        cards.appendChild(div);
+      });
+    });
+  }
+
+  // Archive
+  const archive = document.getElementById('archive');
+  (data.archives || []).forEach(a => {
+    const link = document.createElement('a');
+    link.className = 'archive-item';
+    link.href = a.url;
+    link.innerHTML = `<div class="date">${a.date}</div><div class="count">${a.signalCount} 条信号</div>`;
+    archive.appendChild(link);
+  });
+}
+
+loadData().catch(e => {
+  document.querySelector('.main').innerHTML = `<p style="color:#64748b;text-align:center;margin-top:40px">暂无数据，请稍后刷新</p>`;
+});
+</script>
+
+</body>
+</html>
