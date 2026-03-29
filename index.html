@@ -77,6 +77,11 @@
     .card-link { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; color: var(--accent); text-decoration: none; opacity: 0.75; transition: opacity 0.2s; }
     .card-link:hover { opacity: 1; }
 
+    .score-tag { display: inline-flex; align-items: center; font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 4px; }
+    .score-high { background: rgba(249,115,22,0.15); color: var(--accent); }
+    .score-mid  { background: rgba(56,189,248,0.1);  color: var(--accent2); }
+    .score-low  { background: rgba(52,211,153,0.1);  color: var(--green); }
+
     /* ── Archive ── */
     .archive-intro { font-size: 13px; color: var(--muted); margin-bottom: 14px; }
     .archive-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
@@ -213,7 +218,10 @@ function buildCard(s, badgeCls, tagLabel) {
         <a href="${esc(s.sourceUrl || '#')}" target="_blank" class="src-tag" onclick="event.stopPropagation()">${icon} ${esc(s.source)}</a>
         ${s.pubTime ? `<span class="time-chip">${s.pubTime}</span>` : ''}
       </div>
-      <span class="section-badge ${badgeCls}">${tagLabel}</span>
+      <div class="src-row" style="gap:6px">
+        <span class="section-badge ${badgeCls}">${tagLabel}</span>
+        ${s.score ? scoreTag(s.score) : ''}
+      </div>
     </div>
     <div class="card-title">${esc(s.title)}</div>
     ${s.summary ? `<div class="card-summary">${esc(s.summary)}</div>` : ''}
@@ -285,6 +293,11 @@ function backToArchive() {
 // ── Helpers ─────────────────────────────────────────────────────────────
 function esc(s) {
   return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function scoreTag(score) {
+  const cls = score >= 75 ? 'score-high' : score >= 60 ? 'score-mid' : 'score-low';
+  return `<span class="score-tag ${cls}">AI ${score}</span>`;
 }
 
 function srcIcon(src) {
