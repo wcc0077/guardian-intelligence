@@ -81,12 +81,13 @@ def fetch_rss(source):
             link  = item.select_one("link")
             desc  = item.select_one("description")
             items.append({
-                "title":  title.text.strip() if title else "",
-                "url":    link.text.strip()  if link  else "",
-                "desc":   re.sub(r'<[^>]+>', '', desc.text.strip() if desc else "")[:100],
-                "source": source["name"],
-                "tags":   source["tags"],
-                "weight": source["weight"],
+                "title":    title.text.strip() if title else "",
+                "url":      link.text.strip()  if link  else "",
+                "desc":     re.sub(r'<[^>]+>', '', desc.text.strip() if desc else "")[:100],
+                "source":   source["name"],
+                "sourceUrl": source["url"],
+                "tags":     source["tags"],
+                "weight":   source["weight"],
             })
         return items
     except Exception as e:
@@ -102,12 +103,13 @@ def fetch_hackernews():
             s = requests.get(f"https://hacker-news.firebaseio.com/v0/item/{hid}.json", headers=HEADERS, timeout=TIMEOUT).json()
             if s:
                 items.append({
-                    "title":  s.get("title", ""),
-                    "url":    s.get("url", f"https://news.ycombinator.com/item?id={hid}"),
-                    "desc":   s.get("text", "")[:100],
-                    "source": "HackerNews",
-                    "tags":   ["科技", "创业", "AI"],
-                    "weight": 8,
+                    "title":    s.get("title", ""),
+                    "url":      s.get("url", f"https://news.ycombinator.com/item?id={hid}"),
+                    "desc":     s.get("text", "")[:100],
+                    "source":   "HackerNews",
+                    "sourceUrl": "https://news.ycombinator.com",
+                    "tags":     ["科技", "创业", "AI"],
+                    "weight":   8,
                 })
         return items
     except Exception as e:
@@ -124,12 +126,13 @@ def fetch_github_trending():
         )
         items = r.json().get("items", [])
         return [{
-            "title": f"[GitHub] {i['full_name']} ⭐{i.get('stargazers_count',0)}",
-            "url":   i.get("html_url", ""),
-            "desc":  i.get("description", "")[:100],
-            "source": "GitHub",
-            "tags":  ["AI", "开源", "工具"],
-            "weight": 8,
+            "title":    f"[GitHub] {i['full_name']} ⭐{i.get('stargazers_count',0)}",
+            "url":      i.get("html_url", ""),
+            "desc":     i.get("description", "")[:100],
+            "source":   "GitHub",
+            "sourceUrl": "https://github.com/trending",
+            "tags":     ["AI", "开源", "工具"],
+            "weight":   8,
         } for i in items[:10]]
     except Exception as e:
         return [{"title": f"[GitHub抓取失败] {e}", "url": "", "desc": "", "source": "GitHub", "tags": [], "weight": 0}]
@@ -273,6 +276,15 @@ def main():
     print("\n生成结构化简报...")
     digest = llm_digest(scored)
 
+    # 给信号分类：75+=要点，60-74=深挖，其余归工具
+    for s in scored:
+        if s["score"] >= 75:
+            s["section"] = "highlights"
+        elif s["score"] >= 60:
+            s["section"] = "deepDive"
+        else:
+            s["section"] = "tools"
+
     # 保存
     ts = datetime.now().strftime("%Y%m%d_%H%M")
     report_file = BASE_DIR / f"briefing_{ts}.md"
@@ -282,9 +294,70 @@ def main():
         f.write("\n\n---\n*由守护神雷达 v2 自动生成*\n")
 
     print(f"\n✅ 简报已保存: {report_file}")
+
+    # 生成 web JSON（供 GitHub Pages 使用）
+    _write_web_json(scored, digest)
+
     print("\n" + "="*50)
     print(digest)
     return digest, scored
+
+
+def _write_web_json(signals, digest):
+    """生成 data/latest.json 供 GitHub Pages 展示"""
+    today = datetime.now().strftime("%Y-%m-%d")
+    now   = datetime.now().strftime("%H:%M")
+
+    # 从digest里提取温度
+    temp_m = re.search(r'(\d+)/100', digest)
+    temperature = int(temp_m.group(1)) if temp_m else 50
+
+    # 收集来源
+    sources = list({s["source"] for s in signals})
+
+    # 按section分组
+    sections = {"highlights": [], "deepDive": [], "tools": []}
+    for s in sorted(signals, key=lambda x: -x["score"]):
+        sec = s.get("section", "highlights")
+        if sec not in sections:
+            sections[sec] = []
+        sections[sec].append({
+            "section": sec,
+            "source":   s.get("source", ""),
+            "sourceUrl": s.get("sourceUrl", ""),
+            "title":    s.get("title", ""),
+            "summary":  s.get("summary", ""),
+            "url":      s.get("url", ""),
+            "pubTime":  s.get("pubTime", today),
+            "score":    s.get("score", 0),
+        })
+
+    data = {
+        "title":        "AI科技情报简报",
+        "date":         today,
+        "time":         now,
+        "label":        "LATEST BRIEFING",
+        "temperature":  temperature,
+        "updateTimeStr": f"{today} {now}",
+        "sourceCount":  len(sources),
+        "signalCount":  len(signals),
+        "signals":      sections["highlights"] + sections["deepDive"] + sections["tools"],
+        "archives":     [],
+    }
+
+    # 写入本地副本
+    out = BASE_DIR / "intelligence_data" / "latest.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    with open(out, "w") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    # 如果在git仓库里也更新
+    repo_data = Path("/tmp/guardian-intelligence/data")
+    if repo_data.exists():
+        with open(repo_data / "latest.json", "w") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+        print(f"[🌐] web JSON 已更新: {out}")
+
 
 if __name__ == "__main__":
     digest, signals = main()
