@@ -1,71 +1,83 @@
 {
   "title": "AI科技情报简报",
-  "timeStr": "2026-03-29 23:41",
-  "label": "LATEST BRIEFING · 2026-03-29",
-  "temperature": 78,
-  "updateTimeStr": "23:41",
+  "timeStr": "2026-03-30 00:01",
+  "label": "LATEST BRIEFING · 2026-03-30",
+  "temperature": 85,
+  "updateTimeStr": "00:01",
   "sourceCount": 6,
-  "signalCount": 11,
+  "signalCount": 13,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily",
-      "title": "量子计算突破：实时追踪量子位波动，稳定性提升",
-      "summary": "量子计算领域在 qubit 稳定性追踪方面取得重要进展，对行业有深远影响"
+      "source": "36氪",
+      "title": "量子计算公司幺正量子获蚂蚁、吉利数亿投资，对标Quantinuum",
+      "summary": "国内量子计算团队获大额融资，商业化进程加速"
     },
     {
       "section": "highlights",
       "source": "36氪",
-      "title": "亮亮视野发布全球首创AR+AI会议翻译系统",
-      "summary": "部署中关村论坛，变革传统同传设备"
+      "title": "AI短剧规模化落地，\"一人一天一部剧\"时代来临",
+      "summary": "AI生成视频进入实用阶段，内容产业格局生变"
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily",
+      "title": "量子计算突破：实时追踪量子位波动技术问世",
+      "summary": "量子稳定性追踪取得重要进展，实用量子计算更近一步"
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily",
+      "title": "神经形态计算机数学能力超预期，AI硬件新方向",
+      "summary": "类脑计算在数学任务上展现惊人能力，新硬件范式崛起"
     },
     {
       "section": "highlights",
       "source": "36氪",
-      "title": "幺正量子获吉利等数亿投资，对标国际巨头Quantinuum",
-      "summary": "量子计算投资热持续，国内团队获大额融资"
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily",
-      "title": "AI数秒读取脑部MRI并标记紧急情况",
-      "summary": "AI医疗影像分析进入临床阶段，速度和准确性双突破"
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily",
-      "title": "AI采摘机器人研发获突破性进展",
-      "summary": "农业AI进入实用化阶段，劳动力替代加速"
+      "title": "亮亮视野联合智谱AI推出全球首创AR+AI会议翻译系统",
+      "summary": "AR+AI同传落地，会议翻译进入新时代"
     },
     {
       "section": "deepDive",
       "source": "36氪",
-      "title": "AI短剧规模化：内容过饱和危机隐现",
-      "summary": "\"一人一天一部剧\"时代降临，供给过剩风险需关注"
+      "title": "欧洲多国抵制Palantir扩张，数据主权议题升温",
+      "summary": "大数据公司跨境扩张引发监管担忧，数据本地化成趋势"
     },
     {
       "section": "deepDive",
       "source": "ScienceDaily",
-      "title": "AI聊天机器人充当治疗师存在严重伦理隐患",
-      "summary": "ChatGPT心理治疗场景应用面临监管空白"
+      "title": "ChatGPT用于心理治疗的伦理风险研究",
+      "summary": "AI心理治疗面临监管空白，伦理边界待厘清"
     },
     {
       "section": "deepDive",
       "source": "ScienceDaily",
-      "title": "神经形态计算：受大脑启发的计算机数学能力超预期",
-      "summary": "新型计算范式在数学任务上展现惊人能力"
+      "title": "AI医疗应用：密歇根大学数秒读取脑部MRI系统",
+      "summary": "AI影像分析进入临床，诊断效率大幅提升"
     },
     {
       "section": "deepDive",
       "source": "ScienceDaily",
-      "title": "传统电池公司纷纷押注AI赛道",
-      "summary": "能源企业转型AI成趋势，产业格局正在重塑"
+      "title": "平头哥镇岳510芯片出货超50万片，国产AI芯片加速",
+      "summary": "国产AI芯片量产突破，供应链自主可控提速"
+    },
+    {
+      "section": "tools",
+      "source": "36氪",
+      "title": "平头哥镇岳510 - 高性能AI芯片方案",
+      "summary": "国产AI芯片已达量产规模，值得关注"
     },
     {
       "section": "tools",
       "source": "GitHub",
-      "title": "OpenSpace：HKUDS开源AI代理，支持低成本自我进化",
-      "summary": "⭐ 2318 · AI Agent 新项目值得关注"
+      "title": "智谱AI GLM系列 - 国产大语言模型",
+      "summary": "国产开源大模型，持续迭代中"
+    },
+    {
+      "section": "tools",
+      "source": "GitHub",
+      "title": "猎户星空AI Agent服务机器人平台",
+      "summary": "具身智能落地平台，商用机器人新探索"
     }
   ],
   "archives": []
