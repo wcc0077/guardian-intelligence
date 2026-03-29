@@ -34,6 +34,7 @@
     .meta-item { text-align: center; }
     .meta-item .val { font-size: 18px; font-weight: 800; color: var(--accent); line-height: 1; }
     .meta-item .lbl { font-size: 9px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; margin-top: 2px; }
+    .meta-item .val-sm { font-size: 14px; }
     .meta-div { width: 1px; height: 24px; background: var(--border); }
 
     /* ── Nav tabs ── */
@@ -121,7 +122,9 @@
     <div class="meta-pill">
       <div class="meta-item"><div class="val" id="mTemp">--</div><div class="lbl">温度℃</div></div>
       <div class="meta-div"></div>
-      <div class="meta-item"><div class="val" id="mSignals">--</div><div class="lbl">信号</div></div>
+      <div class="meta-item"><div class="val" id="mSignals">--</div><div class="lbl">展示</div></div>
+      <div class="meta-div"></div>
+      <div class="meta-item"><div class="val val-sm" id="mTotal">--</div><div class="lbl">总数</div></div>
       <div class="meta-div"></div>
       <div class="meta-item"><div class="val" id="mSources">--</div><div class="lbl">来源</div></div>
       <div class="meta-div"></div>
@@ -170,8 +173,9 @@ function updateHeaderMeta(data) {
   if (!data) return;
   document.getElementById('mTemp').textContent    = data.temperature || '--';
   document.getElementById('mSignals').textContent = data.signalCount || '--';
+  document.getElementById('mTotal').textContent   = data.totalCount || '--';
   document.getElementById('mSources').textContent = data.sourceCount || '--';
-  document.getElementById('mTime').textContent     = (data.updateTimeStr || '').slice(-5) || '--';
+  document.getElementById('mTime').textContent    = (data.updateTimeStr || '').slice(-5) || '--';
 }
 
 // ── Load ────────────────────────────────────────────────────────────────

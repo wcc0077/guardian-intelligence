@@ -314,14 +314,14 @@ def main():
     print(f"\n✅ 简报已保存: {report_file}")
 
     # 生成 web JSON（供 GitHub Pages 使用）
-    _write_web_json(scored, digest)
+    _write_web_json(scored, digest, len(all_items))
 
     print("\n" + "="*50)
     print(digest)
     return digest, scored
 
 
-def _write_web_json(signals, digest):
+def _write_web_json(signals, digest, total_count):
     """
     生成 GitHub Pages 数据文件：
     - data/YYYY-MM-DD.json   → 每日归档（永久保存）
@@ -371,6 +371,7 @@ def _write_web_json(signals, digest):
         "temperature":  temperature,
         "updateTimeStr": f"{today} {now}",
         "sourceCount":  len(sources),
+        "totalCount":   total_count,
         "signalCount":  len(signals),
         "signals":      sections["highlights"] + sections["deepDive"] + sections["tools"],
     }
