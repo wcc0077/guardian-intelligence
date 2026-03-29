@@ -318,7 +318,12 @@ def main():
 
 
 def _write_web_json(signals, digest):
-    """生成 data/latest.json 供 GitHub Pages 展示"""
+    """
+    生成 GitHub Pages 数据文件：
+    - data/YYYY-MM-DD.json   → 每日归档（永久保存）
+    - data/latest.json       → 最新简报（指针）
+    - data/archives.json     → 历史索引
+    """
     today = datetime.now().strftime("%Y-%m-%d")
     now   = datetime.now().strftime("%H:%M")
 
@@ -336,14 +341,14 @@ def _write_web_json(signals, digest):
         if sec not in sections:
             sections[sec] = []
         sections[sec].append({
-            "section": sec,
-            "source":   s.get("source", ""),
+            "section":   sec,
+            "source":    s.get("source", ""),
             "sourceUrl": s.get("sourceUrl", ""),
-            "title":    s.get("title", ""),
-            "summary":  s.get("summary", ""),
-            "url":      s.get("url", ""),
-            "pubTime":  s.get("pubTime", today),
-            "score":    s.get("score", 0),
+            "title":     s.get("title", ""),
+            "summary":   s.get("summary", ""),
+            "url":       s.get("url", ""),
+            "pubTime":   s.get("pubTime", today),
+            "score":     s.get("score", 0),
         })
 
     data = {
@@ -356,21 +361,56 @@ def _write_web_json(signals, digest):
         "sourceCount":  len(sources),
         "signalCount":  len(signals),
         "signals":      sections["highlights"] + sections["deepDive"] + sections["tools"],
-        "archives":     [],
     }
 
-    # 写入本地副本
-    out = BASE_DIR / "intelligence_data" / "latest.json"
-    out.parent.mkdir(parents=True, exist_ok=True)
-    with open(out, "w") as f:
+    # 确定数据目录
+    repo_data = Path("/tmp/guardian-intelligence/data")
+    local_data = BASE_DIR / "intelligence_data"
+    local_data.mkdir(parents=True, exist_ok=True)
+
+    # 1. 保存每日归档（永不覆盖旧文件）
+    daily_file = local_data / f"{today}.json"
+    with open(daily_file, "w") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    # 如果在git仓库里也更新
-    repo_data = Path("/tmp/guardian-intelligence/data")
+    # 2. 写 latest.json（指向今天的文件）
+    with open(local_data / "latest.json", "w") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    # 3. 更新 archives.json（历史索引）
+    archives_file = local_data / "archives.json"
+    archives = []
+    if archives_file.exists():
+        with open(archives_file) as f:
+            archives = json.load(f)
+
+    # 检查今天是否已有记录，有则更新，无则追加
+    existing = [a for a in archives if a["date"] == today]
+    entry = {
+        "date":    today,
+        "time":    now,
+        "filename": f"{today}.json",
+        "title":   f"AI科技情报简报 · {today}",
+        "temperature": temperature,
+        "signalCount": len(signals),
+    }
+    if existing:
+        archives = [entry if a["date"] == today else a for a in archives]
+    else:
+        archives.insert(0, entry)  # 最新的排前面
+
+    # 最多保留90天
+    archives = archives[:90]
+    with open(archives_file, "w") as f:
+        json.dump(archives, f, ensure_ascii=False, indent=2)
+
+    # 4. 如果在git仓库里也同步
     if repo_data.exists():
-        with open(repo_data / "latest.json", "w") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        print(f"[🌐] web JSON 已更新: {out}")
+        import shutil
+        shutil.copy(daily_file, repo_data / f"{today}.json")
+        shutil.copy(local_data / "latest.json",   repo_data / "latest.json")
+        shutil.copy(archives_file,                repo_data / "archives.json")
+        print(f"[🌐] web 数据已更新: {today}.json + latest.json + archives.json")
 
 
 if __name__ == "__main__":
