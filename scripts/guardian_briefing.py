@@ -334,9 +334,17 @@ def _write_web_json(signals, digest):
     # 收集来源
     sources = list({s["source"] for s in signals})
 
+    # 去重：按 title 前80字符去重，保留最高分
+    seen = {}
+    for s in signals:
+        key = s.get("title", "")[:80]
+        if key not in seen or s.get("score", 0) > seen[key].get("score", 0):
+            seen[key] = s
+    unique_signals = list(seen.values())
+
     # 按section分组
     sections = {"highlights": [], "deepDive": [], "tools": []}
-    for s in sorted(signals, key=lambda x: -x["score"]):
+    for s in sorted(unique_signals, key=lambda x: -x.get("score", 0)):
         sec = s.get("section", "highlights")
         if sec not in sections:
             sections[sec] = []

@@ -147,18 +147,34 @@
 let currentTab = 'today';
 
 // ── Tabs ────────────────────────────────────────────────────────────────
-function showTab(tab) {
+async function showTab(tab) {
   currentTab = tab;
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.getElementById(tab === 'today' ? 'tabToday' : 'tabArchive').classList.add('active');
+
   if (tab === 'today') {
-    document.getElementById('tabContent').innerHTML = buildTodayHTML();
+    document.getElementById('tabContent').innerHTML = '<div class="state-msg">加载中...</div>';
+    try {
+      const data = await loadLatest();
+      updateHeaderMeta(data);
+      document.getElementById('tabContent').innerHTML = buildTodayHTML(data);
+    } catch (e) {
+      document.getElementById('tabContent').innerHTML = '<div class="state-msg">数据加载失败，请刷新</div>';
+    }
   } else {
     loadArchive();
   }
 }
 
-// ── Load latest ─────────────────────────────────────────────────────────
+function updateHeaderMeta(data) {
+  if (!data) return;
+  document.getElementById('mTemp').textContent    = data.temperature || '--';
+  document.getElementById('mSignals').textContent = data.signalCount || '--';
+  document.getElementById('mSources').textContent = data.sourceCount || '--';
+  document.getElementById('mTime').textContent     = (data.updateTimeStr || '').slice(-5) || '--';
+}
+
+// ── Load ────────────────────────────────────────────────────────────────
 async function loadLatest() {
   const resp = await fetch('data/latest.json?t=' + Date.now());
   return resp.json();
@@ -170,13 +186,13 @@ async function loadArchives() {
 }
 
 async function loadDay(dateStr) {
-  const resp = await fetch(`data/${dateStr}.json?t=` + Date.now());
+  const resp = await fetch('data/' + dateStr + '.json?t=' + Date.now());
   return resp.json();
 }
 
 // ── Render today's briefing ──────────────────────────────────────────────
 function buildTodayHTML(data) {
-  if (!data) return '<div class="state-msg">加载中...</div>';
+  if (!data) return '<div class="state-msg">无数据</div>';
 
   const sections = { highlights: [], deepDive: [], tools: [] };
   (data.signals || []).forEach(s => {
@@ -192,7 +208,7 @@ function buildTodayHTML(data) {
   };
 
   let html = `<div style="margin-bottom:8px;display:flex;align-items:center;gap:10px">
-    <span style="font-size:13px;color:var(--muted)">${data.updateTimeStr || data.date}</span>
+    <span style="font-size:13px;color:var(--muted)">${esc(data.updateTimeStr || data.date)}</span>
     <span style="font-size:12px;color:var(--accent);font-weight:700">🔥 ${data.temperature}℃</span>
   </div>`;
 
@@ -201,9 +217,7 @@ function buildTodayHTML(data) {
     if (!items || !items.length) return;
     html += `
       <div class="sec-head"><span class="dot" style="background:${meta.dot}"></span><h2>${meta.label}</h2><span class="line"></span></div>`;
-    items.forEach(s => {
-      html += buildCard(s, meta.badge, meta.tag);
-    });
+    items.forEach(s => { html += buildCard(s, meta.badge, meta.tag); });
   });
 
   return html;
@@ -249,7 +263,7 @@ async function loadArchive() {
         <div class="arch-date">${a.date}</div>
         <div class="arch-meta">
           <span>📡 ${a.signalCount}条</span>
-          <span>📰 ${a.temperature}℃</span>
+          <span>🔥 ${a.temperature}℃</span>
         </div>
         <div class="arch-temp" style="color:${tempColor}">🔥 ${a.temperature}℃</div>
       </div>`;
@@ -266,28 +280,19 @@ async function loadDayBriefing(dateStr) {
   document.getElementById('tabContent').innerHTML = '<div class="state-msg">加载中...</div>';
   try {
     const data = await loadDay(dateStr);
-    // Update header meta
-    document.getElementById('mTemp').textContent    = data.temperature || '--';
-    document.getElementById('mSignals').textContent = data.signalCount || '--';
-    document.getElementById('mSources').textContent = data.sourceCount || '--';
-    document.getElementById('mTime').textContent     = (data.updateTimeStr || '').slice(-5);
+    updateHeaderMeta(data);
 
-    // Show day view with back button
-    const dayHTML = `<div style="margin-bottom:20px">
-      <button onclick="backToArchive()" style="background:var(--surface);border:1px solid var(--border);color:var(--muted);padding:6px 14px;border-radius:8px;cursor:pointer;font-size:12px;font-family:inherit">
-        ← 返回历史归档
+    const dayHTML = `<div style="margin-bottom:20px;display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+      <button onclick="showTab('archive')" style="background:var(--surface);border:1px solid var(--border);color:var(--muted);padding:6px 14px;border-radius:8px;cursor:pointer;font-size:12px;font-family:inherit">
+        ← 历史归档
       </button>
-      <span style="margin-left:14px;font-size:13px;color:var(--muted)">${dateStr} · ${data.temperature}℃ · ${data.signalCount}条信号</span>
+      <span style="font-size:13px;color:var(--muted)">${dateStr} · 🔥 ${data.temperature}℃ · ${data.signalCount}条信号</span>
     </div>` + buildTodayHTML(data);
 
     document.getElementById('tabContent').innerHTML = dayHTML;
   } catch (e) {
     document.getElementById('tabContent').innerHTML = '<div class="state-msg">该日数据不存在</div>';
   }
-}
-
-function backToArchive() {
-  showTab('archive');
 }
 
 // ── Helpers ─────────────────────────────────────────────────────────────
@@ -307,16 +312,7 @@ function srcIcon(src) {
 
 // ── Init ────────────────────────────────────────────────────────────────
 (async () => {
-  try {
-    const data = await loadLatest();
-    document.getElementById('mTemp').textContent    = data.temperature || '--';
-    document.getElementById('mSignals').textContent = data.signalCount || '--';
-    document.getElementById('mSources').textContent = data.sourceCount || '--';
-    document.getElementById('mTime').textContent     = (data.updateTimeStr || '').slice(-5) || '--';
-    document.getElementById('tabContent').innerHTML  = buildTodayHTML(data);
-  } catch (e) {
-    document.getElementById('tabContent').innerHTML = '<div class="state-msg">数据加载失败，请刷新重试</div>';
-  }
+  await showTab('today');
 })();
 </script>
 
