@@ -1,32 +1,22 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-03-31",
-  "time": "00:12",
+  "time": "04:14",
   "label": "LATEST BRIEFING",
-  "temperature": 78,
-  "updateTimeStr": "2026-03-31 00:12",
-  "sourceCount": 3,
-  "totalCount": 52,
+  "temperature": 50,
+  "updateTimeStr": "2026-03-31 04:14",
+  "sourceCount": 4,
+  "totalCount": 43,
   "totalSignalsAll": 31,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain inspired machines are better at math than expected",
-      "summary": "脑启发机器数学能力超预期",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
-      "pubTime": "2026-03-31",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
-      "summary": "华沿机器人IPO认购超5000倍，CEO王光能专访透露公司发展",
-      "url": "https://36kr.com/p/3744805881724928?f=rss",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "summary": "美防部对AI公司Anthropic的文化战策略失败，涉政企冲突",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
       "pubTime": "2026-03-31",
       "score": 85
     },
@@ -35,18 +25,8 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
-      "summary": "量子计算突破：实时追踪量子位波动",
+      "summary": "量子计算技术突破，可实时追踪量子位波动",
       "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
-      "pubTime": "2026-03-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI reads brain MRIs in seconds and flags emergencies",
-      "summary": "密歇根大学研发AI系统，可数秒内读取脑部MRI并自动标记紧急情况",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
       "pubTime": "2026-03-31",
       "score": 85
     },
@@ -55,8 +35,18 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
-      "summary": "全国首个万卡级全栈自主可控智算集群点亮，AI基建获突破",
+      "summary": "全国首个万卡级全栈自主可控智算集群点亮，蚂蚁集团发现OpenClaw高危漏洞",
       "url": "https://36kr.com/p/3745267391103239?f=rss",
+      "pubTime": "2026-03-31",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "AI 和机器人流量超过人类",
+      "summary": "报告显示2025年AI机器人流量首超人类，反映AI应用已广泛普及",
+      "url": "https://www.solidot.org/story?sid=83914",
       "pubTime": "2026-03-31",
       "score": 78
     },
@@ -64,29 +54,29 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
-      "summary": "微元合成获3亿元A+轮融资，布局AI生物计算平台",
-      "url": "https://36kr.com/p/3744666471088389?f=rss",
+      "title": "蚂蚁终圆券商梦",
+      "summary": "蚂蚁集团收购香港老牌券商，完成券商梦",
+      "url": "https://36kr.com/p/3745148560195846?f=rss",
       "pubTime": "2026-03-31",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists create smart synthetic skin that can hide images and change shape",
-      "summary": "Penn State研发仿生合成皮肤，可隐藏图像并变形",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260206034836.htm",
-      "pubTime": "2026-03-31",
-      "score": 78
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "杜比诉 Snapchat 挑战 AV1 的免专利费声明",
-      "summary": "杜比起诉Snapchat挑战AV1免专利费声明，涉及开放视频标准与专利费争议",
+      "summary": "杜比起诉Snapchat挑战AV1开放编解码器免专利费声明",
       "url": "https://www.solidot.org/story?sid=83915",
+      "pubTime": "2026-03-31",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "summary": "MIT Tech Review探讨AI健康工具泛滥及其实用性问题",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
       "pubTime": "2026-03-31",
       "score": 75
     },
@@ -94,21 +84,31 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-      "summary": "研究发现AI聊天机器人用于心理治疗的严重伦理风险",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "title": "Brain inspired machines are better at math than expected",
+      "summary": "类脑神经形态计算机数学能力超预期，AI计算新突破",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
       "pubTime": "2026-03-31",
       "score": 75
     },
     {
       "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "AI 和机器人流量超过人类",
-      "summary": "AI机器人流量首超人类，2025年互联网流量格局生变",
-      "url": "https://www.solidot.org/story?sid=83914",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "AI心理治疗应用研究揭示伦理风险，引发行业规范讨论",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
       "pubTime": "2026-03-31",
       "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
+      "summary": "华沿机器人秘密递表后IPO获超5000倍认购，CEO受访称想低调",
+      "url": "https://36kr.com/p/3744805881724928?f=rss",
+      "pubTime": "2026-03-31",
+      "score": 68
     }
   ]
 }
