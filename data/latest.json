@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-03-30",
-  "time": "12:39",
+  "time": "20:12",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-03-30 12:39",
-  "sourceCount": 4,
+  "temperature": 88,
+  "updateTimeStr": "2026-03-30 20:12",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 21,
   "signalCount": 10,
@@ -14,69 +14,49 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum",
-      "summary": "量子计算公司幺正量子获蚂蚁吉利数亿投资，Pre A轮融资完成",
-      "url": "https://36kr.com/p/3743360666566919?f=rss",
+      "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+      "summary": "深圳点亮全国首个万卡级全栈自主可控智算集群",
+      "url": "https://36kr.com/p/3745267391103239?f=rss",
       "pubTime": "2026-03-30",
       "score": 88
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google TurboQuant AI 压缩算法大幅减少大模型内存使用",
-      "summary": "Google发布TurboQuant AI压缩算法，大幅减少大模型内存占用并提升速度",
-      "url": "https://www.solidot.org/story?sid=83907",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
+      "summary": "微元合成获3亿元A+轮融资，发力AI生物计算平台",
+      "url": "https://36kr.com/p/3744666471088389?f=rss",
       "pubTime": "2026-03-30",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists built the hardest AI test ever and the results are surprising",
-      "summary": "科学家创建最难AI测试，结果出乎意料",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "title": "Brain inspired machines are better at math than expected",
+      "summary": "受脑启发的神经形态计算机在数学计算上表现超预期",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
       "pubTime": "2026-03-30",
-      "score": 85
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI reads brain MRIs in seconds and flags emergencies",
+      "summary": "密歇根大学研发AI快速读取脑部MRI并标记紧急情况",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
+      "pubTime": "2026-03-30",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
-      "summary": "华沿机器人IPO获超5000倍认购，机器人行业上市热度高",
+      "summary": "华沿机器人IPO获超5000倍认购，科技企业上市受资本追捧",
       "url": "https://36kr.com/p/3744805881724928?f=rss",
-      "pubTime": "2026-03-30",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
-      "summary": "亮亮视野联合智谱AI推出全球首创AR+AI会议翻译系统，部署中关村论坛",
-      "url": "https://36kr.com/p/3743855989587971?f=rss",
-      "pubTime": "2026-03-30",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫",
-      "summary": "字节跳动Seedance2.0推动AI短剧规模化落地，行业面临新变革",
-      "url": "https://36kr.com/p/3738258350817540?f=rss",
-      "pubTime": "2026-03-30",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "“黑暗”比光速更快",
-      "summary": "Nature发表研究证实暗点传播可超光速，属于基础物理重大发现",
-      "url": "https://www.solidot.org/story?sid=83903",
       "pubTime": "2026-03-30",
       "score": 78
     },
@@ -84,31 +64,51 @@
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: a battery pivot to AI, and rewriting math",
-      "summary": "科技媒体Newsletter，涵盖电池技术转向AI领域及AI重塑数学的研究趋势",
-      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "title": "Inside the stealthy startup that pitched brainless human clones",
+      "summary": "初创公司R3 Bio秘密研发无脑克隆技术引关注",
+      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
       "pubTime": "2026-03-30",
-      "score": 78
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain inspired machines are better at math than expected",
-      "summary": "类脑神经形态计算机在数学计算上表现超预期，AI技术新突破",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "AI番茄采摘机器人学会先思考后行动，提升农业自动化效率",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
       "pubTime": "2026-03-30",
-      "score": 78
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI reads brain MRIs in seconds and flags emergencies",
-      "summary": "密歇根大学研发AI系统数秒内读取脑部MRI并标记紧急情况",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "科学家打造最严AI测试，揭示系统表现令人惊讶",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
       "pubTime": "2026-03-30",
-      "score": 78
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "研究揭示AI聊天机器人提供心理治疗建议存在严重伦理风险",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "pubTime": "2026-03-30",
+      "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "蚂蚁终圆券商梦",
+      "summary": "蚂蚁集团收购香港老牌券商，完成金融版图布局",
+      "url": "https://36kr.com/p/3745148560195846?f=rss",
+      "pubTime": "2026-03-30",
+      "score": 65
     }
   ]
 }
