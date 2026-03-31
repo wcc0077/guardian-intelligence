@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-03-31",
-  "time": "16:30",
+  "time": "20:09",
   "label": "LATEST BRIEFING",
-  "temperature": 82,
-  "updateTimeStr": "2026-03-31 16:30",
-  "sourceCount": 5,
+  "temperature": 78,
+  "updateTimeStr": "2026-03-31 20:09",
+  "sourceCount": 3,
   "totalCount": 43,
   "totalSignalsAll": 31,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
+      "summary": "B站下线猜你喜欢算法，脑机接口研究院成立，苹果AI国行落地生变，LG转型机器人",
+      "url": "https://36kr.com/p/3746654452187648?f=rss",
+      "pubTime": "2026-03-31",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Google's 200M-parameter time-series foundation model with 16k context",
+      "summary": "谷歌发布2亿参数时序基础模型，支持16k上下文窗口",
+      "url": "https://github.com/google-research/timesfm",
+      "pubTime": "2026-03-31",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "summary": "Ollama集成MLX优化Apple Silicon本地AI推理性能",
+      "url": "https://ollama.com/blog/mlx",
+      "pubTime": "2026-03-31",
+      "score": 80
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-      "summary": "AI机器人学高效采摘番茄技术突破",
+      "summary": "AI采摘机器人实现技术突破，提升番茄收获效率",
       "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
       "pubTime": "2026-03-31",
-      "score": 90
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
-      "summary": "量子计算突破：实时追踪量子位波动，提升性能",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "研究揭示AI聊天机器人用于心理治疗的伦理风险",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
       "pubTime": "2026-03-31",
-      "score": 90
+      "score": 78
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "AI 和机器人流量超过人类",
-      "summary": "AI机器人流量首超人类，标志互联网流量结构重大转变",
-      "url": "https://www.solidot.org/story?sid=83914",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain inspired machines are better at math than expected",
+      "summary": "类脑计算机数学能力超预期突破",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
       "pubTime": "2026-03-31",
-      "score": 85
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "summary": "AI公司Anthropic旗下Claude Code源代码在NPM泄露",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "pubTime": "2026-03-31",
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI reads brain MRIs in seconds and flags emergencies",
-      "summary": "密歇根大学研发AI系统快速读取脑部MRI并标记紧急情况",
+      "summary": "密歇根大学研发AI系统，可秒读脑部MRI并识别紧急情况",
       "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
       "pubTime": "2026-03-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "Microsoft推出Copilot Health，AI健康工具再增",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "pubTime": "2026-03-31",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "“医药界英伟达”，花200亿买中国AI公司的减重药",
-      "summary": "英矽智能与礼来达成1.15亿美元首付款AI制药合作，涉减重药领域",
-      "url": "https://36kr.com/p/3745377703608832?f=rss",
-      "pubTime": "2026-03-31",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "将AI戒指为入口，追觅瞄准万亿智能可穿戴市场｜最前线",
-      "summary": "追觅科技发布AI戒指新品，布局万亿智能可穿戴市场",
-      "url": "https://36kr.com/p/3746508855869954?f=rss",
-      "pubTime": "2026-03-31",
       "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-      "summary": "GitHub因争议撤回Copilot代码审查广告功能",
-      "url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-      "pubTime": "2026-03-31",
-      "score": 75
-    },
-    {
-      "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "微软 Copilot 在修改 PR 中的拼写错误时添加了广告",
-      "summary": "微软Copilot在修改代码时插入广告，引发AI商业化争议",
-      "url": "https://www.solidot.org/story?sid=83918",
-      "pubTime": "2026-03-31",
-      "score": 72
     },
     {
       "section": "deepDive",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists create smart synthetic skin that can hide images and change shape",
-      "summary": "Penn State研发受章鱼启发的智能变形合成皮肤",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260206034836.htm",
+      "title": "Scientists discover AI can make humans more creative",
+      "summary": "研究发现AI可增强人类创造力",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260315004355.htm",
       "pubTime": "2026-03-31",
       "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 磷酸锰铁锂正极材料厂商再获数亿元融资，加码动力电池产能布局",
+      "summary": "磷酸锰铁锂材料厂商珩创纳米获数亿元融资，加码动力电池产能布局",
+      "url": "https://36kr.com/p/3746236378202631?f=rss",
+      "pubTime": "2026-03-31",
+      "score": 70
     }
   ]
 }
