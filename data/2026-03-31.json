@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-03-31",
-  "time": "08:10",
+  "time": "12:11",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-03-31 08:10",
+  "temperature": 78,
+  "updateTimeStr": "2026-03-31 12:11",
   "sourceCount": 4,
   "totalCount": 43,
   "totalSignalsAll": 31,
@@ -12,41 +12,21 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "微软推出Copilot Health，拓展AI健康工具",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "pubTime": "2026-03-31",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
-      "summary": "全国首个万卡级全栈自主可控智算集群点亮，AI算力基础设施获重大突破",
-      "url": "https://36kr.com/p/3745267391103239?f=rss",
-      "pubTime": "2026-03-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作平台 | 36氪首发",
-      "summary": "微元合成获3亿元A+轮融资，联合发布AI生物计算平台",
-      "url": "https://36kr.com/p/3744666471088389?f=rss",
-      "pubTime": "2026-03-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "AI 和机器人流量超过人类",
-      "summary": "AI和机器人流量首次超过人类流量，反映AI渗透率显著提升",
+      "summary": "AI机器人流量首超人类，标志AI应用规模重大转折",
       "url": "https://www.solidot.org/story?sid=83914",
+      "pubTime": "2026-03-31",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
+      "summary": "首次实现子宫体外存活，医学技术突破",
+      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
       "pubTime": "2026-03-31",
       "score": 85
     },
@@ -55,28 +35,38 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
-      "summary": "量子计算突破：实时追踪量子位波动",
+      "summary": "量子计算突破：实时追踪量子比特波动获进展",
       "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
       "pubTime": "2026-03-31",
       "score": 85
     },
     {
       "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+      "summary": "深圳点亮全国首个万卡级全栈自主可控智算集群，AI算力基础设施建设获重大突破",
+      "url": "https://36kr.com/p/3745267391103239?f=rss",
+      "pubTime": "2026-03-31",
+      "score": 82
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain inspired machines are better at math than expected",
-      "summary": "类脑计算机数学解题超预期",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "title": "AI reads brain MRIs in seconds and flags emergencies",
+      "summary": "密歇根大学研发AI系统，可在数秒内读取脑部MRI并标记紧急情况",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
       "pubTime": "2026-03-31",
-      "score": 85
+      "score": 82
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "蚂蚁终圆券商梦",
-      "summary": "蚂蚁集团完成收购香港券商，进军证券业务",
-      "url": "https://36kr.com/p/3745148560195846?f=rss",
+      "title": "电池企业EnerVenue完成3亿美元新融资，将在华建首条吉瓦级生产线｜36氪独家",
+      "summary": "电池企业EnerVenue获3亿美元融资，拟在华建吉瓦级生产线",
+      "url": "https://36kr.com/p/3745335802790147?f=rss",
       "pubTime": "2026-03-31",
       "score": 78
     },
@@ -84,31 +74,41 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪专访 | 秘密递表后认购超5000倍，华沿机器人CEO说想再低调一点",
-      "summary": "华沿机器人IPO获5000倍认购，机器人行业融资热度高涨",
-      "url": "https://36kr.com/p/3744805881724928?f=rss",
+      "title": "追觅生态链多了家清华系公司，要用AI储能融入智能家居体系｜硬氪专访",
+      "summary": "追觅生态链新增AI储能公司，布局智能家居能源管理",
+      "url": "https://36kr.com/p/3743753252061189?f=rss",
       "pubTime": "2026-03-31",
-      "score": 78
+      "score": 75
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Inside the stealthy startup that pitched brainless human clones",
-      "summary": "生物科技初创公司R3 Bio秘密研发无脑克隆技术引发关注",
-      "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "杜比诉 Snapchat 挑战 AV1 的免专利费声明",
+      "summary": "杜比起诉Snapchat挑战AV1免专利声明，涉及开放标准专利争议",
+      "url": "https://www.solidot.org/story?sid=83915",
       "pubTime": "2026-03-31",
-      "score": 78
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "summary": "五角大楼对AI公司Anthropic的策略适得其反，涉美国政府与AI行业政策博弈",
+      "summary": "五角大楼对AI公司Anthropic的文化战策略失败",
       "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
       "pubTime": "2026-03-31",
       "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "“医药界英伟达”，花200亿买中国AI公司的减重药",
+      "summary": "英矽智能与礼来达成AI制药合作，首付款1.15亿美元，总规模近200亿人民币",
+      "url": "https://36kr.com/p/3745377703608832?f=rss",
+      "pubTime": "2026-03-31",
+      "score": 72
     }
   ]
 }
