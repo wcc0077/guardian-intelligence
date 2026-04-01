@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-01",
-  "time": "08:08",
+  "time": "12:28",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-01 08:08",
-  "sourceCount": 4,
+  "temperature": 85,
+  "updateTimeStr": "2026-04-01 12:28",
+  "sourceCount": 5,
   "totalCount": 43,
   "totalSignalsAll": 41,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
-      "summary": "",
-      "url": "https://36kr.com/p/3747503534899976?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI reads brain MRIs in seconds and flags emergencies",
+      "summary": "密歇根大学研发AI系统，快速分析脑部MRI并自动标记紧急情况",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
       "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "vivo发布X300系列两款机型，主打专业影像和均衡参数丨最前线",
-      "summary": "",
-      "url": "https://36kr.com/p/3746862709686786?f=rss",
-      "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-      "summary": "",
-      "url": "https://36kr.com/p/3746654452187648?f=rss",
-      "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "将AI戒指为入口，追觅瞄准万亿智能可穿戴市场｜最前线",
-      "summary": "",
-      "url": "https://36kr.com/p/3746508855869954?f=rss",
-      "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-      "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "pubTime": "2026-04-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "OpenAI closes funding round at an $852B valuation",
-      "summary": "",
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "pubTime": "2026-04-01",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "title": "Brain inspired machines are better at math than expected",
+      "summary": "受脑启发机器数学能力超预期",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
       "pubTime": "2026-04-01",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
+      "summary": "00后团队获数千万天使轮，做高尔夫AI Agent硬件",
+      "url": "https://36kr.com/p/3746252355535622?f=rss",
+      "pubTime": "2026-04-01",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "AI agent入口的最短路径，全球首款AI笔记戒指 Vocci Ring开启预售|最前线",
+      "summary": "全球首款AI笔记戒指Vocci Ring在CES 2026亮相获4项大奖，开启AI可穿戴新方向",
+      "url": "https://36kr.com/p/3746892878480132?f=rss",
+      "pubTime": "2026-04-01",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "微软计划为 Windows 11 构建更多原生应用",
+      "summary": "微软调整Windows 11策略，转向开发低内存占用的原生应用",
+      "url": "https://www.solidot.org/story?sid=83925",
+      "pubTime": "2026-04-01",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "summary": "TinyLoRA仅用13参数实现推理学习，展示AI模型极简压缩突破",
+      "url": "https://arxiv.org/abs/2602.04118",
+      "pubTime": "2026-04-01",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "科学家研发最严苛AI测试，传统基准已无法衡量AI能力",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "pubTime": "2026-04-01",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+      "summary": "四家机器人厂商联合投资具身智能数据基础设施公司",
+      "url": "https://36kr.com/p/3746889894461960?f=rss",
+      "pubTime": "2026-04-01",
+      "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "研究揭示AI聊天机器人充当治疗师存在严重伦理风险",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "pubTime": "2026-04-01",
+      "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "summary": "五角大楼对AI公司Anthropic的文化战策略反噬",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "pubTime": "2026-04-01",
+      "score": 70
     }
   ]
 }
