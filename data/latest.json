@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-01",
-  "time": "04:11",
+  "time": "08:08",
   "label": "LATEST BRIEFING",
-  "temperature": 78,
-  "updateTimeStr": "2026-04-01 04:11",
+  "temperature": 50,
+  "updateTimeStr": "2026-04-01 08:08",
   "sourceCount": 4,
   "totalCount": 43,
   "totalSignalsAll": 41,
@@ -12,103 +12,103 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
-      "summary": "量子计算机突破：实时追踪量子位波动",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
+      "summary": "",
+      "url": "https://36kr.com/p/3747503534899976?f=rss",
       "pubTime": "2026-04-01",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "MIT Tech Review探讨AI基准测试缺陷，呼吁建立新的评估标准",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "pubTime": "2026-04-01",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "杜比诉 Snapchat 挑战 AV1 的免专利费声明",
-      "summary": "杜比起诉Snapchat挑战AV1免专利费声明，涉及主要科技公司的开放视频标准专利纠纷",
-      "url": "https://www.solidot.org/story?sid=83915",
-      "pubTime": "2026-04-01",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI reads brain MRIs in seconds and flags emergencies",
-      "summary": "密歇根大学AI读脑MRI秒级标记紧急",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
-      "pubTime": "2026-04-01",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
-      "summary": "四家机器人厂商联合投资具身智能数据基础设施公司",
-      "url": "https://36kr.com/p/3746889894461960?f=rss",
+      "title": "vivo发布X300系列两款机型，主打专业影像和均衡参数丨最前线",
+      "summary": "",
+      "url": "https://36kr.com/p/3746862709686786?f=rss",
       "pubTime": "2026-04-01",
-      "score": 78
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜B站官宣将下线猜你喜欢算法；北京前沿脑机接口研究院正式成立；​国行版苹果AI突然上线后又被撤回，苹果回应：正在积极推进落地中国",
-      "summary": "多则AI/科技行业动态，涉及B站算法变动、脑机接口研究院成立、苹果AI落地及韩企转型",
+      "summary": "",
       "url": "https://36kr.com/p/3746654452187648?f=rss",
       "pubTime": "2026-04-01",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "AI模型定制化成为架构转型趋势，LLM发展方向引关注",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "pubTime": "2026-04-01",
-      "score": 78
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "将AI戒指为入口，追觅瞄准万亿智能可穿戴市场｜最前线",
-      "summary": "追觅科技推出AI戒指新品，布局万亿智能可穿戴市场",
+      "summary": "",
       "url": "https://36kr.com/p/3746508855869954?f=rss",
       "pubTime": "2026-04-01",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "pubTime": "2026-04-01",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "pubTime": "2026-04-01",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "AI benchmarks are broken. Here’s what we need instead.",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "pubTime": "2026-04-01",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "pubTime": "2026-04-01",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "summary": "",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "pubTime": "2026-04-01",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-      "summary": "研究揭示AI聊天机器人用于心理治疗存在严重伦理风险",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
       "pubTime": "2026-04-01",
-      "score": 75
-    },
-    {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "MIT Tech Review探讨AI健康工具泛滥及效果存疑问题",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "pubTime": "2026-04-01",
-      "score": 72
+      "score": 80
     }
   ]
 }
