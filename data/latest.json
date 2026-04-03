@@ -1,22 +1,22 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-03",
-  "time": "08:09",
+  "time": "12:14",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-04-03 08:09",
-  "sourceCount": 4,
+  "temperature": 50,
+  "updateTimeStr": "2026-04-03 12:14",
+  "sourceCount": 5,
   "totalCount": 43,
   "totalSignalsAll": 51,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
-      "summary": "甲骨文裁员3万人，SpaceX秘密提交IPO估值1.75万亿美元",
-      "url": "https://36kr.com/p/3748927500387072?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算机技术突破，实现实时追踪量子比特波动",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
       "pubTime": "2026-04-03",
       "score": 88
     },
@@ -24,9 +24,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%",
-      "summary": "AI大模型奇趣获千万融资，阶跃星辰上线新模型",
-      "url": "https://36kr.com/p/3749518049739271?f=rss",
+      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利",
+      "summary": "量子计算公司量旋科技完成近10亿C+轮融资，已实现规模化盈利",
+      "url": "https://36kr.com/p/3750411191550467?f=rss",
       "pubTime": "2026-04-03",
       "score": 85
     },
@@ -35,7 +35,7 @@
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "亚马逊洽谈收购 Globalstar 以挑战 Starlink",
-      "summary": "亚马逊洽谈收购卫星公司Globalstar以挑战Starlink",
+      "summary": "亚马逊拟收购Globalstar对抗Starlink，加码卫星宽带竞争",
       "url": "https://www.solidot.org/story?sid=83949",
       "pubTime": "2026-04-03",
       "score": 85
@@ -45,7 +45,7 @@
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "SpaceX 申请 IPO",
-      "summary": "SpaceX秘密递交上市申请，史上最大IPO开启",
+      "summary": "SpaceX秘密递交上市申请，史上最大IPO拉开帷幕",
       "url": "https://www.solidot.org/story?sid=83946",
       "pubTime": "2026-04-03",
       "score": 85
@@ -55,7 +55,7 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "AI模型定制成为架构必要趋势",
+      "summary": "AI模型定制化成为架构演进关键趋势",
       "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
       "pubTime": "2026-04-03",
       "score": 85
@@ -65,8 +65,38 @@
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
       "title": "Google releases Gemma 4 open models",
-      "summary": "Google发布Gemma 4开源模型，AI行业重要动态",
+      "summary": "Google发布Gemma 4开源模型，AI开源生态竞争加剧",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "pubTime": "2026-04-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "summary": "阿里发布Qwen3.6-Plus大模型，推进AI代理现实应用",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "pubTime": "2026-04-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "AI机器人学习高效采摘西红柿技术突破，展示AI农业应用新进展",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "pubTime": "2026-04-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain inspired machines are better at math than expected",
+      "summary": "类脑Neuromorphic计算机在数学上超越预期",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
       "pubTime": "2026-04-03",
       "score": 85
     },
@@ -74,41 +104,11 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "轻舟、元戎秘交上市资料，和Momenta冲刺港股IPO | 36氪独家",
-      "summary": "轻舟智航、元戎启行冲刺港股IPO，AI自动驾驶融资潮升温",
-      "url": "https://36kr.com/p/3748118174335747?f=rss",
-      "pubTime": "2026-04-03",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”",
-      "summary": "小牛电动宣布全面转型AI，两轮电动车行业迎AI变革",
-      "url": "https://36kr.com/p/3748233045541637?f=rss",
+      "title": "36氪晚报｜AI大模型产品“奇趣”完成千万级融资；阶跃星辰上线Step 3.5 Flash 2603模型；沃尔沃汽车第一季度全球销量同比下降11%",
+      "summary": "AI大模型奇趣获千万融资，阶跃星辰发布新模型",
+      "url": "https://36kr.com/p/3749518049739271?f=rss",
       "pubTime": "2026-04-03",
       "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "summary": "AMD开源本地LLM服务器Lemonade，支持GPU和NPU加速",
-      "url": "https://lemonade-server.ai",
-      "pubTime": "2026-04-03",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "获韶音投资，一家AI公司做了“硬件版OpenClaw” | 36氪独家",
-      "summary": "韶音投资AI公司无界方舟，打造硬件版OpenClaw，AI硬件化趋势明显",
-      "url": "https://36kr.com/p/3749149674439169?f=rss",
-      "pubTime": "2026-04-03",
-      "score": 78
     }
   ]
 }
