@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-04",
-  "time": "00:08",
+  "time": "04:09",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-04 00:08",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-04-04 04:09",
+  "sourceCount": 4,
   "totalCount": 43,
   "totalSignalsAll": 61,
   "signalCount": 10,
@@ -52,16 +52,6 @@
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google 发布开放权重模型 Gemma 4",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=83951",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: gig workers training humanoids, and better AI benchmarks",
@@ -102,11 +92,21 @@
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "There are more AI health tools than ever—but how well do they work?",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
       "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "pubTime": "2026-04-04",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
       "pubTime": "2026-04-04",
       "score": 80
     }
