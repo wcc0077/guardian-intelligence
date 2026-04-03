@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-03",
-  "time": "16:12",
+  "time": "20:11",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-03 16:12",
-  "sourceCount": 3,
+  "temperature": 85,
+  "updateTimeStr": "2026-04-03 20:11",
+  "sourceCount": 5,
   "totalCount": 43,
   "totalSignalsAll": 51,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
-      "summary": "",
-      "url": "https://36kr.com/p/3750704146072326?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI reads brain MRIs in seconds and flags emergencies",
+      "summary": "AI快速读脑MRI并标记紧急情况",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
       "pubTime": "2026-04-03",
-      "score": 80
+      "score": 95
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3750417621795588?f=rss",
-      "pubTime": "2026-04-03",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "叽伴：用「共同经历」重新定义AI社交",
-      "summary": "",
-      "url": "https://36kr.com/p/3749816005657093?f=rss",
-      "pubTime": "2026-04-03",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并已规模化盈利",
-      "summary": "",
+      "title": "36氪首发 | 3个月融资近10亿，深圳量子计算公司完成C+轮融资，并���规模化盈利",
+      "summary": "深圳量旋科技完成C+轮6亿元融资，三个月融资近10亿，实现规模化盈利",
       "url": "https://36kr.com/p/3750411191550467?f=rss",
       "pubTime": "2026-04-03",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google 发布开放权重模型 Gemma 4",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=83951",
-      "pubTime": "2026-04-03",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "pubTime": "2026-04-03",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "",
+      "summary": "MIT Tech Review分析AI模型定制化成为架构转型必然趋势",
       "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
       "pubTime": "2026-04-03",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-      "pubTime": "2026-04-03",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "",
+      "summary": "MIT Tech Review探讨AI基准测试缺陷及改进方案",
       "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "pubTime": "2026-04-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "亚马逊洽谈收购 Globalstar 以挑战 Starlink",
+      "summary": "亚马逊拟收购Globalstar对抗Starlink布局卫星宽带",
+      "url": "https://www.solidot.org/story?sid=83949",
+      "pubTime": "2026-04-03",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Google releases Gemma 4 open models",
+      "summary": "Google发布Gemma 4开源AI模型，增强开源大模型生态",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
       "pubTime": "2026-04-03",
       "score": 80
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "研究揭示ChatGPT等AI聊天机器人在心理治疗中的伦理风险",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
       "pubTime": "2026-04-03",
       "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "'Fatal decision': EU slammed for caving to US pressure on digital rules",
+      "summary": "欧盟数字规则受美施压，科技政策博弈加剧",
+      "url": "https://www.politico.eu/article/fatal-decision-eu-slammed-for-caving-to-us-pressure-on-digital-rules/",
+      "pubTime": "2026-04-03",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "summary": "DNA机器人可编程药物递送和病毒检测，技术突破显著",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "pubTime": "2026-04-03",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
+      "summary": "阅文举办AI拟真人剧讲堂，探讨视频生成大模型在内容行业的应用趋势",
+      "url": "https://36kr.com/p/3750704146072326?f=rss",
+      "pubTime": "2026-04-03",
+      "score": 75
     }
   ]
 }
