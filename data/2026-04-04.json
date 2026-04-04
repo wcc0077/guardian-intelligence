@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-04",
-  "time": "16:07",
+  "time": "20:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-04 16:07",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-04-04 20:05",
+  "sourceCount": 0,
   "totalCount": 43,
-  "totalSignalsAll": 61,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-      "summary": "",
-      "url": "https://36kr.com/p/3751046517129735?f=rss",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
-      "summary": "",
-      "url": "https://36kr.com/p/3750704146072326?f=rss",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3750417621795588?f=rss",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists discover AI can make humans more creative",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260315004355.htm",
-      "pubTime": "2026-04-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists built the hardest AI test ever and the results are surprising",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
-      "pubTime": "2026-04-04",
-      "score": 80
-    }
-  ]
+  "totalSignalsAll": 51,
+  "signalCount": 0,
+  "signals": []
 }
