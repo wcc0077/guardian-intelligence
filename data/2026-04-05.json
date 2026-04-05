@@ -1,15 +1,25 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-05",
-  "time": "12:04",
+  "time": "20:07",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-05 12:04",
+  "updateTimeStr": "2026-04-05 20:07",
   "sourceCount": 4,
   "totalCount": 43,
   "totalSignalsAll": 61,
   "signalCount": 10,
   "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
+      "summary": "",
+      "url": "https://36kr.com/p/3753526848897792?f=rss",
+      "pubTime": "2026-04-05",
+      "score": 80
+    },
     {
       "section": "highlights",
       "source": "36氪",
@@ -37,16 +47,6 @@
       "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
       "summary": "",
       "url": "https://36kr.com/p/3750704146072326?f=rss",
-      "pubTime": "2026-04-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3750417621795588?f=rss",
       "pubTime": "2026-04-05",
       "score": 80
     },
@@ -102,11 +102,11 @@
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Writing Lisp Is AI Resistant and I'm Sad",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
       "summary": "",
-      "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
       "pubTime": "2026-04-05",
       "score": 80
     }
