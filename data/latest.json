@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-06",
-  "time": "00:09",
+  "time": "04:18",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-06 00:09",
+  "temperature": 88,
+  "updateTimeStr": "2026-04-06 04:18",
   "sourceCount": 4,
   "totalCount": 43,
   "totalSignalsAll": 71,
@@ -12,103 +12,103 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3753526848897792?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算突破：实时追踪量子比特波动",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
       "pubTime": "2026-04-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3752260051616512?f=rss",
-      "pubTime": "2026-04-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-      "summary": "",
-      "url": "https://36kr.com/p/3751046517129735?f=rss",
-      "pubTime": "2026-04-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
-      "summary": "",
-      "url": "https://36kr.com/p/3750704146072326?f=rss",
-      "pubTime": "2026-04-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "律师滥用 AI 生成虚假案例的事件激增",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=83961",
-      "pubTime": "2026-04-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "pubTime": "2026-04-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "pubTime": "2026-04-06",
-      "score": 80
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "summary": "",
+      "summary": "AI健康工具与五角大楼内部AI文化冲突",
       "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
       "pubTime": "2026-04-06",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "summary": "DNA机器人可编程递送药物和检测病毒，技术突破显著",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "pubTime": "2026-04-06",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "科学家打造最难AI测试，结果出乎意料",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "pubTime": "2026-04-06",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain inspired machines are better at math than expected",
+      "summary": "脑启发的机器数学能力超预期",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "pubTime": "2026-04-06",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
+      "summary": "霍里思特完成近2亿元C轮融资，研发矿石AI智能分选机",
+      "url": "https://36kr.com/p/3753526848897792?f=rss",
+      "pubTime": "2026-04-06",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+      "summary": "神州数码2025年营收1438亿元，AI相关业务增长近五成",
+      "url": "https://36kr.com/p/3751046517129735?f=rss",
+      "pubTime": "2026-04-06",
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "AI模型定制化成为行业架构转型关键趋势",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
       "pubTime": "2026-04-06",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "Eight years of wanting, three months of building with AI",
-      "summary": "",
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "title": "Running Google Gemma 4 Locally with LM Studio's New Headless CLI and Claude Code",
+      "summary": "Google Gemma 4本地运行教程发布，AI模型本地化趋势持续",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
       "pubTime": "2026-04-06",
-      "score": 80
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "summary": "开源项目用JAX在TPU上复现Claude Code，$200成本实现AI编程",
+      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "pubTime": "2026-04-06",
+      "score": 75
     }
   ]
 }
