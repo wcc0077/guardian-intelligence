@@ -1,52 +1,92 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-05",
-  "time": "04:04",
+  "time": "08:10",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-05 04:04",
-  "sourceCount": 4,
+  "updateTimeStr": "2026-04-05 08:10",
+  "sourceCount": 3,
   "totalCount": 43,
   "totalSignalsAll": 61,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-      "summary": "",
-      "url": "https://36kr.com/p/3751046517129735?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI reads brain MRIs in seconds and flags emergencies",
+      "summary": "密歇根大学研发AI系统秒读脑MRI并预警急诊",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
       "pubTime": "2026-04-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "阅文“AI拟真人大讲堂”：好故事才是AI时代的未来",
-      "summary": "",
-      "url": "https://36kr.com/p/3750704146072326?f=rss",
-      "pubTime": "2026-04-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发丨前赛默飞员工创业黑灯实验室，实现国内100%交付，获近亿融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3750417621795588?f=rss",
-      "pubTime": "2026-04-05",
-      "score": 80
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "律师滥用 AI 生成虚假案例的事件激增",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=83961",
+      "title": "美国近半数计划中的数据中心项目推迟或取消",
+      "summary": "美国数据中心项目因电力设备短缺半数推迟，影响AI基础设施扩张",
+      "url": "https://www.solidot.org/story?sid=83962",
+      "pubTime": "2026-04-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "AI模型定制成为架构必要趋势",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "pubTime": "2026-04-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "summary": "DNA机器人可递送药物并追杀体内病毒",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "pubTime": "2026-04-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "科学家创建最高难度AI测试，结果出人意料",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "pubTime": "2026-04-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算突破实现实时监测量子比特波动",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "pubTime": "2026-04-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain inspired machines are better at math than expected",
+      "summary": "脑启发机器数学能力超预期",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "pubTime": "2026-04-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "微软更新服务条款声明 Copilot 仅供娱乐",
+      "summary": "微软更新Copilot服务条款，声明仅供娱乐不承担重要用途责任",
+      "url": "https://www.solidot.org/story?sid=83959",
       "pubTime": "2026-04-05",
       "score": 80
     },
@@ -55,48 +95,8 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "summary": "",
+      "summary": "零工培训人形机器人，提升AI基准测试",
       "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "pubTime": "2026-04-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-      "pubTime": "2026-04-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-      "pubTime": "2026-04-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "pubTime": "2026-04-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
       "pubTime": "2026-04-05",
       "score": 80
     },
@@ -105,7 +105,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Scientists discover AI can make humans more creative",
-      "summary": "",
+      "summary": "研究证实AI可增强人类创造力，开辟AI应用新方向",
       "url": "https://www.sciencedaily.com/releases/2026/03/260315004355.htm",
       "pubTime": "2026-04-05",
       "score": 80
