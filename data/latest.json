@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-06",
-  "time": "16:14",
+  "time": "16:18",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-04-06 16:14",
+  "temperature": 82,
+  "updateTimeStr": "2026-04-06 16:18",
   "sourceCount": 5,
   "totalCount": 43,
   "totalSignalsAll": 71,
@@ -12,91 +12,71 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists built the hardest AI test ever and the results are surprising",
-      "summary": "科学家研发最艰难AI测试 结果出人意料",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "AI模型定制化成为架构必要趋势",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
       "pubTime": "2026-04-06",
-      "score": 88
+      "score": 90
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain inspired machines are better at math than expected",
-      "summary": "类脑计算机数学能力超出预期",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+      "summary": "AI硬件新品Agent盒子众筹300万美元，解决算力焦虑问题",
+      "url": "https://36kr.com/p/3754812277998083?f=rss",
       "pubTime": "2026-04-06",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI reads brain MRIs in seconds and flags emergencies",
-      "summary": "密歇根大学研发AI系统，可数秒读取脑部MRI并标记紧急情况",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
-      "pubTime": "2026-04-06",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-      "summary": "浏览器本地运行Gemma AI模型的技术展示，WebGPU应用突破",
-      "url": "https://github.com/kessler/gemma-gem",
-      "pubTime": "2026-04-06",
-      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
-      "summary": "霍里思特获近2亿元C轮融资，推进矿石AI智能分选设备",
+      "summary": "清华系AI矿石分选机获近2亿元C轮融资，招商局资本领投",
       "url": "https://36kr.com/p/3753526848897792?f=rss",
       "pubTime": "2026-04-06",
-      "score": 78
+      "score": 82
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-      "summary": "研究揭示AI聊天机器人提供心理治疗建议存在严重伦理风险",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算突破：实现量子比特实时追踪波动监测技术",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
       "pubTime": "2026-04-06",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "美国近半数计划中的数据中心项目推迟或取消",
-      "summary": "数据中心建设因电力设备短缺受阻，AI基础设施发展面临挑战",
-      "url": "https://www.solidot.org/story?sid=83962",
-      "pubTime": "2026-04-06",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "AI基准测试存在问题，需重新制定评估标准",
+      "summary": "MIT Tech Review指出AI基准测试存在缺陷，呼吁建立新的评估标准。",
       "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
       "pubTime": "2026-04-06",
-      "score": 75
+      "score": 78
     },
     {
       "section": "deepDive",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
-      "summary": "AI硬件Agent盒子众筹300万美元，解决算力焦虑问题",
-      "url": "https://36kr.com/p/3754812277998083?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+      "summary": "研究揭示AI聊天机器人充当治疗师存在严重伦理风险",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "pubTime": "2026-04-06",
+      "score": 70
+    },
+    {
+      "section": "deepDive",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "summary": "Gemma Gem浏览器扩展实现本地运行Gemma 4 AI模型",
+      "url": "https://github.com/kessler/gemma-gem",
       "pubTime": "2026-04-06",
       "score": 68
     },
@@ -105,8 +85,28 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
-      "summary": "神州数码2025年营收1438亿，AI业务增长近50%，体现AI商业化加速趋势",
+      "summary": "神州数码2025年营收1438亿，AI业务增长近五成",
       "url": "https://36kr.com/p/3751046517129735?f=rss",
+      "pubTime": "2026-04-06",
+      "score": 65
+    },
+    {
+      "section": "deepDive",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "微软更新服务条款声明 Copilot 仅供娱乐",
+      "summary": "微软更新Copilot服务条款，声明仅供娱乐不可依赖",
+      "url": "https://www.solidot.org/story?sid=83959",
+      "pubTime": "2026-04-06",
+      "score": 65
+    },
+    {
+      "section": "deepDive",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Four things we’d need to put data centers in space",
+      "summary": "MIT探讨太空数据中心可行性，属科技趋势讨论",
+      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
       "pubTime": "2026-04-06",
       "score": 65
     }
