@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-07",
-  "time": "00:04",
+  "time": "04:07",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-07 00:04",
+  "updateTimeStr": "2026-04-07 04:07",
   "sourceCount": 4,
   "totalCount": 43,
   "totalSignalsAll": 81,
@@ -64,6 +64,16 @@
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "pubTime": "2026-04-07",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "AI is changing how small online sellers decide what to make",
       "summary": "",
       "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
@@ -92,21 +102,11 @@
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
       "summary": "",
-      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-      "pubTime": "2026-04-07",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "url": "https://www.freestyle.sh",
       "pubTime": "2026-04-07",
       "score": 80
     }
