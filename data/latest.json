@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-06",
-  "time": "12:14",
+  "time": "16:14",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-04-06 12:14",
-  "sourceCount": 4,
+  "temperature": 85,
+  "updateTimeStr": "2026-04-06 16:14",
+  "sourceCount": 5,
   "totalCount": 43,
   "totalSignalsAll": 71,
   "signalCount": 10,
@@ -14,29 +14,19 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
-      "summary": "量子计算机突破：实时追踪量子位波动",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "科学家研发最艰难AI测试 结果出人意料",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
       "pubTime": "2026-04-06",
-      "score": 92
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain inspired machines are better at math than expected",
-      "summary": "类脑计算机数学能力超预期",
+      "summary": "类脑计算机数学能力超出预期",
       "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
-      "pubTime": "2026-04-06",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "AI模型定制成架构必选，趋势显著",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
       "pubTime": "2026-04-06",
       "score": 85
     },
@@ -45,48 +35,28 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI reads brain MRIs in seconds and flags emergencies",
-      "summary": "密歇根大学研发AI系统快速读取脑部MRI并标记紧急情况",
+      "summary": "密歇根大学研发AI系统，可数秒读取脑部MRI并标记紧急情况",
       "url": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
       "pubTime": "2026-04-06",
-      "score": 85
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+      "summary": "浏览器本地运行Gemma AI模型的技术展示，WebGPU应用突破",
+      "url": "https://github.com/kessler/gemma-gem",
+      "pubTime": "2026-04-06",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
-      "summary": "清华系团队AI矿石分选机获近2亿C轮融资，招商局资本领投",
+      "summary": "霍里思特获近2亿元C轮融资，推进矿石AI智能分选设备",
       "url": "https://36kr.com/p/3753526848897792?f=rss",
-      "pubTime": "2026-04-06",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "美国近半数计划中的数据中心项目推迟或取消",
-      "summary": "美数据中心因电力部件短缺半数项目受阻，影响AI基础设施扩张",
-      "url": "https://www.solidot.org/story?sid=83962",
-      "pubTime": "2026-04-06",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "summary": "文章批评现有AI基准测试存在缺陷，呼吁行业建立更科学的评估体系。",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "pubTime": "2026-04-06",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists built the hardest AI test ever and the results are surprising",
-      "summary": "科学家创建最难AI测试 结果出乎意料",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
       "pubTime": "2026-04-06",
       "score": 78
     },
@@ -95,20 +65,50 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-      "summary": "AI聊天机器人心理治疗研究揭示严重伦理风险",
+      "summary": "研究揭示AI聊天机器人提供心理治疗建议存在严重伦理风险",
       "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
       "pubTime": "2026-04-06",
       "score": 78
     },
     {
       "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "美国近半数计划中的数据中心项目推迟或取消",
+      "summary": "数据中心建设因电力设备短缺受阻，AI基础设施发展面临挑战",
+      "url": "https://www.solidot.org/story?sid=83962",
+      "pubTime": "2026-04-06",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "AI benchmarks are broken. Here’s what we need instead.",
+      "summary": "AI基准测试存在问题，需重新制定评估标准",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "pubTime": "2026-04-06",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
-      "summary": "AI硬件新赛：Agent盒子众筹300万美元解决算力焦虑",
+      "summary": "AI硬件Agent盒子众筹300万美元，解决算力焦虑问题",
       "url": "https://36kr.com/p/3754812277998083?f=rss",
       "pubTime": "2026-04-06",
-      "score": 75
+      "score": 68
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+      "summary": "神州数码2025年营收1438亿，AI业务增长近50%，体现AI商业化加速趋势",
+      "url": "https://36kr.com/p/3751046517129735?f=rss",
+      "pubTime": "2026-04-06",
+      "score": 65
     }
   ]
 }
