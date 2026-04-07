@@ -1,41 +1,61 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-07",
-  "time": "12:14",
+  "time": "16:16",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-07 12:14",
-  "sourceCount": 5,
+  "temperature": 87,
+  "updateTimeStr": "2026-04-07 16:16",
+  "sourceCount": 4,
   "totalCount": 43,
   "totalSignalsAll": 81,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
-      "summary": "量子计算突破：实现实时追踪量子位波动",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Artemis II 创下了人类太空飞行最遥远纪录",
+      "summary": "Artemis II 创造人类最远太空飞行纪录",
+      "url": "https://www.solidot.org/story?sid=83972",
       "pubTime": "2026-04-07",
-      "score": 92
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
+      "summary": "前迪士尼工程师与Midjourney联创合作开发仿生机器人项目",
+      "url": "https://36kr.com/p/3754821568578050?f=rss",
+      "pubTime": "2026-04-07",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨胖东来再回应“鸡蛋被检出角黄素”；苹果首款折叠屏手机已在试产；2026清明档电影票房已破2.8亿元",
+      "summary": "苹果折叠屏手机试产，行业关注",
+      "url": "https://36kr.com/p/3755994793280000?f=rss",
+      "pubTime": "2026-04-07",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Shifting to AI model customization is an architectural imperative",
-      "summary": "AI模型定制成为架构必要趋势",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "MIT Tech Review分析AI对就业影响，探讨工作与AI关系",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
       "pubTime": "2026-04-07",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
-      "summary": "AI技术突破：能效提升百倍且准确率提高",
+      "summary": "AI突破实现能耗降低百倍并提升准确性",
       "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
       "pubTime": "2026-04-07",
       "score": 85
@@ -44,49 +64,39 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists built the hardest AI test ever and the results are surprising",
-      "summary": "科学家创建最严格AI测试，结果出人意料",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算机技术突破，实现实时追踪量子比特波动状态",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
       "pubTime": "2026-04-07",
-      "score": 85
+      "score": 82
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain inspired machines are better at math than expected",
-      "summary": "类脑Neuromorphic计算机在数学任务上表现超出预期",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "AI模型定制化成为架构必要趋势",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
       "pubTime": "2026-04-07",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 清华系团队研发矿石AI智能分选机，完成近2亿元C轮融资",
-      "summary": "清华系团队AI矿石分选机获近2亿C轮融资",
-      "url": "https://36kr.com/p/3753526848897792?f=rss",
+      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
+      "summary": "红熊AI获2.1亿元A轮融资，布局物理AI赛道，估值超15亿元",
+      "url": "https://36kr.com/p/3750675963904513?f=rss",
       "pubTime": "2026-04-07",
-      "score": 82
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
-      "summary": "AR显示技术企业赛富乐斯完成3亿元C轮融资，推进全彩AR微显示屏产品化。",
+      "summary": "AR显示技术企业赛富乐斯完成3亿元C轮融资",
       "url": "https://36kr.com/p/3756111263384071?f=rss",
-      "pubTime": "2026-04-07",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "美国近半数计划中的数据中心项目推迟或取消",
-      "summary": "美数据中心项目因电力零部件短缺近半数延期，影响AI基础设施布局",
-      "url": "https://www.solidot.org/story?sid=83962",
       "pubTime": "2026-04-07",
       "score": 78
     },
@@ -94,21 +104,11 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
-      "summary": "前迪士尼工程师与Midjourney联创合作开发仿生机器人，朱圣杰曾2亿美元卖掉创业公司",
-      "url": "https://36kr.com/p/3754821568578050?f=rss",
+      "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+      "summary": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品众筹近2000万美金",
+      "url": "https://36kr.com/p/3752260051616512?f=rss",
       "pubTime": "2026-04-07",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "summary": "AI公司Anthropic扩展与Google、Broadcom合作开发下一代计算技术",
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "pubTime": "2026-04-07",
-      "score": 75
+      "score": 78
     }
   ]
 }
