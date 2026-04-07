@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-08",
-  "time": "00:09",
+  "time": "04:19",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-08 00:09",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-04-08 04:19",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 91,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 钠电正极材料厂商完成数千万元融资，千吨级产能将进一步扩展",
-      "summary": "",
-      "url": "https://36kr.com/p/3756486340199170?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "AI技术突破，能效提升百倍同时提高准确性",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 92
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "早期项目 | 前苹果员工做了只AI“肩上宠物”，奇绩创坛孵化，要切年轻人潮玩市场",
-      "summary": "",
-      "url": "https://36kr.com/p/3756484693967619?f=rss",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Enabling agent-first process redesign",
+      "summary": "MIT Tech Review探讨AI代理如何革新流程设计，区别于传统规则系统",
+      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
       "pubTime": "2026-04-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3750675963904513?f=rss",
-      "pubTime": "2026-04-08",
-      "score": 80
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
-      "summary": "",
+      "summary": "赛富乐斯完成3亿元C轮融资，推进全彩AR微显示屏产品化",
       "url": "https://36kr.com/p/3756111263384071?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "summary": "",
+      "summary": "AI对就业影响及太空数据中心发展探讨",
       "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "summary": "智谱发布GLM-5.1大模型，提升长时域任务处理能力",
+      "url": "https://z.ai/blog/glm-5.1",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 75
     },
     {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI is changing how small online sellers decide what to make",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
+      "summary": "红熊AI完成2.1亿元A轮融资，估值超15亿元",
+      "url": "https://36kr.com/p/3750675963904513?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 70
     },
     {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "section": "deepDive",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] milla-jovovich/mempalace ⭐14656",
+      "summary": "GitHub开源AI记忆系统获1.5万星，号称基准测试最高分",
+      "url": "https://github.com/milla-jovovich/mempalace",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 68
     },
     {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
+      "summary": "潘兴广场拟收购环球音乐，高盛看好科技股，苹果折叠屏手机推进",
+      "url": "https://36kr.com/p/3756523983536905?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 65
     },
     {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 钠电正极材料厂商完成数千万元融资，千吨级产能将进一步扩展",
+      "summary": "钠电正极材料厂商兴荣新源完成数千万元融资，将扩展千吨级产能",
+      "url": "https://36kr.com/p/3756486340199170?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 65
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "早期项目 | 前苹果员工做了只AI“肩上宠物”，奇绩创坛孵化，要切年轻人潮玩市场",
+      "summary": "前苹果员工创AI肩上宠物获奇绩创坛孵化，切入年轻人潮玩市场",
+      "url": "https://36kr.com/p/3756484693967619?f=rss",
+      "pubTime": "2026-04-08",
+      "score": 65
     }
   ]
 }
