@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-08",
-  "time": "08:11",
+  "time": "08:14",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-08 08:11",
+  "temperature": 82,
+  "updateTimeStr": "2026-04-08 08:14",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 91,
@@ -12,103 +12,103 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
-      "summary": "",
-      "url": "https://36kr.com/p/3757404054930182?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算机技术突破，实现量子比特实时追踪",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 92
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新芯片耐700°C高温，重大技术突破或改变AI计算",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-08",
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 钠电正极材料厂商完成数千万元融资，千吨级产能将进一步扩展",
-      "summary": "",
-      "url": "https://36kr.com/p/3756486340199170?f=rss",
+      "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+      "summary": "马斯克诉OpenAI欲罢免奥特曼，苹果折叠屏手机下半年发布，宁德时代聘请陈景河",
+      "url": "https://36kr.com/p/3757404054930182?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "早期项目 | 前苹果员工做了只AI“肩上宠物”，奇绩创坛孵化，要切年轻人潮玩市场",
-      "summary": "",
+      "summary": "前苹果员工创AI肩上宠物获奇绩创坛孵化，瞄准年轻人潮玩市场",
       "url": "https://36kr.com/p/3756484693967619?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "红熊AI完成2.1亿元A轮融资，切入物理AI赛道｜36氪首发",
-      "summary": "",
+      "summary": "AI企业红熊AI完成2.1亿元A轮融资，估值超15亿元切入物理AI赛道",
       "url": "https://36kr.com/p/3750675963904513?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3756111263384071?f=rss",
+      "title": "前迪士尼工程师和Midjourney联创，要做一款“会呼吸”的DIY仿生机器人｜硬氪专访",
+      "summary": "前迪士尼工程师与Midjourney联创合作研发可呼吸DIY仿生机器人",
+      "url": "https://36kr.com/p/3754821568578050?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "流行 NPM 软件包维护者成为 AI 深度伪造攻击目标",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=83979",
-      "pubTime": "2026-04-08",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "summary": "",
+      "summary": "AI对就业影响及太空数据中心",
       "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
+      "summary": "重大并购与科技股投资机会并存，苹果折叠屏手机进展受关注",
+      "url": "https://36kr.com/p/3756523983536905?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 82
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI is changing how small online sellers decide what to make",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 领跑全彩AR微显示屏产品化落地，赛富乐斯完成3亿元C轮融资",
+      "summary": "赛富乐斯完成3亿元C轮融资，推进AR全彩微显示屏产品化",
+      "url": "https://36kr.com/p/3756111263384071?f=rss",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 78
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "summary": "",
-      "url": "https://www.anthropic.com/glasswing",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Sam Altman 能被信任吗？",
+      "summary": "《纽约客》长文披露OpenAI CEO Altman信任危机及内部治理问题",
+      "url": "https://www.solidot.org/story?sid=83976",
       "pubTime": "2026-04-08",
-      "score": 80
+      "score": 78
     }
   ]
 }
