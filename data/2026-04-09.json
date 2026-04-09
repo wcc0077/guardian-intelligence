@@ -1,62 +1,102 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-09",
-  "time": "20:12",
+  "time": "20:20",
   "label": "LATEST BRIEFING",
-  "temperature": 78,
-  "updateTimeStr": "2026-04-09 20:12",
-  "sourceCount": 4,
+  "temperature": 88,
+  "updateTimeStr": "2026-04-09 20:20",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 101,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+      "summary": "AI+器官芯片获2亿融资，推动新药研发替代动物实验",
+      "url": "https://36kr.com/p/3758982738641670?f=rss",
+      "pubTime": "2026-04-09",
+      "score": 85
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
-      "summary": "AI突破实现能效百倍提升并提高准确性",
+      "summary": "AI突破实现能效百倍提升，解决行业能耗痛点",
       "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
       "pubTime": "2026-04-09",
-      "score": 92
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算突破：实时追踪量子位波动",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "pubTime": "2026-04-09",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "科学家研发最难AI测试，结果出人意料",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "pubTime": "2026-04-09",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "美工程师研发700°C高温仍可运作的突破性存储芯片，或将改变AI发展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-09",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
+      "summary": "美团GN06团队开发AI浏览器，探索AI Native增长点",
+      "url": "https://36kr.com/p/3759372854706953?f=rss",
+      "pubTime": "2026-04-09",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
+      "summary": "北京亦庄AI未来大会召开，释放AI行业重磅消息",
+      "url": "https://36kr.com/p/3759269095113219?f=rss",
+      "pubTime": "2026-04-09",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "summary": "DNA机器人可编程递送药物或成医疗AI突破",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "pubTime": "2026-04-09",
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
-      "summary": "INAIR完成千万美元A+轮融资，进军AR空间计算平台",
+      "summary": "INAIR获千万美元A+轮融资，布局AR移动计算平台",
       "url": "https://36kr.com/p/3759045427937793?f=rss",
-      "pubTime": "2026-04-09",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
-      "summary": "机器人传感器公司智子力控完成融资，光学重构力觉感知技术获资本关注",
-      "url": "https://36kr.com/p/3758900416348934?f=rss",
-      "pubTime": "2026-04-09",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Enabling agent-first process redesign",
-      "summary": "MIT Tech Review探讨AI代理如何革新企业流程设计",
-      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
-      "pubTime": "2026-04-09",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
-      "summary": "AI+器官芯片获2亿融资，替代动物实验成新药研发趋势",
-      "url": "https://36kr.com/p/3758982738641670?f=rss",
       "pubTime": "2026-04-09",
       "score": 75
     },
@@ -64,51 +104,11 @@
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "大电芯降本、AI算力“施压”，谁来替储能系统兜底这笔“物理账”？",
-      "summary": "AI算力需求激增倒逼储能系统降本增效，技术路线面临变革",
-      "url": "https://www.solidot.org/story?sid=84000",
+      "title": "微软考虑加固数据中心以抵御战火",
+      "summary": "微软评估冲突区数据中心建设安全策略",
+      "url": "https://www.solidot.org/story?sid=83995",
       "pubTime": "2026-04-09",
       "score": 75
-    },
-    {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "summary": "AI影响就业及太空数据中心趋势Newsletter",
-      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
-      "pubTime": "2026-04-09",
-      "score": 72
-    },
-    {
-      "section": "deepDive",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
-      "summary": "美团GN06团队解析AI浏览器战略，探索AI Native增长点",
-      "url": "https://36kr.com/p/3759372854706953?f=rss",
-      "pubTime": "2026-04-09",
-      "score": 70
-    },
-    {
-      "section": "deepDive",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
-      "summary": "DNA机器人可用于体内药物递送和病毒检测",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
-      "pubTime": "2026-04-09",
-      "score": 65
-    },
-    {
-      "section": "deepDive",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
-      "summary": "AI机器人学会更高效采摘番茄，展示农业自动化新进展",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
-      "pubTime": "2026-04-09",
-      "score": 65
     }
   ]
 }
