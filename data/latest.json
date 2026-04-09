@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-09",
-  "time": "08:07",
+  "time": "12:13",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-09 08:07",
-  "sourceCount": 3,
+  "temperature": 88,
+  "updateTimeStr": "2026-04-09 12:13",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 101,
   "signalCount": 10,
@@ -15,100 +15,100 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
-      "summary": "",
+      "summary": "TikTok欧洲建数据中心+谷歌CEO论AI拐点+三星半导体重组",
       "url": "https://36kr.com/p/3756524566610437?f=rss",
       "pubTime": "2026-04-09",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
-      "summary": "",
-      "url": "https://36kr.com/p/3748018292802309?f=rss",
-      "pubTime": "2026-04-09",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
-      "summary": "",
-      "url": "https://36kr.com/p/3757589543813893?f=rss",
-      "pubTime": "2026-04-09",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
-      "summary": "",
-      "url": "https://36kr.com/p/3757404054930182?f=rss",
-      "pubTime": "2026-04-09",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "亚马逊停止支持 2012 年前发布的旧型号 Kindle",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=83990",
+      "title": "Cloudflare 计划到 2029 年全面实现后量子加密",
+      "summary": "Cloudflare加速推进后量子加密，预计2029年全面部署",
+      "url": "https://www.solidot.org/story?sid=83988",
       "pubTime": "2026-04-09",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "OpenAI 提议四天工作制应对 AI 对社会的冲击",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=83989",
-      "pubTime": "2026-04-09",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "pubTime": "2026-04-09",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
-      "pubTime": "2026-04-09",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: AI’s impact on jobs, and data centres in space",
-      "summary": "",
+      "summary": "AI对就业影响及太空数据中心前景分析",
       "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
+      "pubTime": "2026-04-09",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新型耐700°C高温存储芯片诞生，或将革新AI硬件",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-09",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "AI技术突破实现节能百倍同时提升准确率",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "pubTime": "2026-04-09",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "阿里电商 AI 新动向：围绕 Token 重构电商，组织迎来新一轮调整｜独家",
+      "summary": "阿里电商事业群AI转型，Token重构电商业务并调整组织架构",
+      "url": "https://36kr.com/p/3748018292802309?f=rss",
+      "pubTime": "2026-04-09",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] milla-jovovich/mempalace ⭐28575",
+      "summary": "AI记忆系统mempalace开源获高分 benchmark，开源免费",
+      "url": "https://github.com/milla-jovovich/mempalace",
       "pubTime": "2026-04-09",
       "score": 80
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The one piece of data that could actually shed light on your job and AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+      "summary": "INAIR完成千万美元A+轮融资，布局下一代移动计算平台",
+      "url": "https://36kr.com/p/3759045427937793?f=rss",
       "pubTime": "2026-04-09",
-      "score": 80
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum computer breakthrough tracks qubit fluctuations in real time",
+      "summary": "量子计算新突破：实时追踪量子比特波动",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040756.htm",
+      "pubTime": "2026-04-09",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+      "summary": "耀速科技获2亿融资，AI+器官芯片加速新药研发替代动物实验",
+      "url": "https://36kr.com/p/3758982738641670?f=rss",
+      "pubTime": "2026-04-09",
+      "score": 75
     }
   ]
 }
