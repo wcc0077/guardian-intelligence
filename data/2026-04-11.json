@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-11",
-  "time": "04:11",
+  "time": "16:07",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-11 04:11",
+  "updateTimeStr": "2026-04-11 16:07",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 121,
@@ -12,31 +12,11 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "美研发700°C耐高温AI芯片，或革新AI硬件发展",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
-      "pubTime": "2026-04-11",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AstroTurf wars and exponential AI growth",
-      "summary": "AI指数增长与舆论争议",
-      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
-      "pubTime": "2026-04-11",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Scientists built the hardest AI test ever and the results are surprising",
-      "summary": "科学家创最难AI测试 结果令人惊讶",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "拿下豪华种子轮，一家明星AI公司宣布倒闭",
+      "summary": "",
+      "url": "https://36kr.com/p/3762088319484419?f=rss",
       "pubTime": "2026-04-11",
       "score": 80
     },
@@ -44,71 +24,91 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
-      "summary": "小马智行发布PonyWorld世界模型2.0",
-      "url": "https://36kr.com/p/3760914298651400?f=rss",
+      "title": "36氪首发 | 打破日本工业镜头垄断，松山湖团队融资数千万",
+      "summary": "",
+      "url": "https://36kr.com/p/3761739153081096?f=rss",
       "pubTime": "2026-04-11",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
-      "summary": "北京亦庄AI未来大会启幕，发布AI重磅消息",
-      "url": "https://36kr.com/p/3759269095113219?f=rss",
+      "title": "36氪首发 | 深大教授AI芯片项目再融资近亿，主动式散热微系统服务传音",
+      "summary": "",
+      "url": "https://36kr.com/p/3761737030894342?f=rss",
       "pubTime": "2026-04-11",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "pubTime": "2026-04-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "pubTime": "2026-04-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "pubTime": "2026-04-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+      "pubTime": "2026-04-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "AI assistance when contributing to the Linux kernel",
+      "summary": "",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "pubTime": "2026-04-11",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip could slash data center energy waste",
-      "summary": "UC San Diego研发新芯片设计，可显著降低数据中心能耗",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-11",
-      "score": 75
+      "score": 80
     },
     {
-      "section": "deepDive",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
-      "summary": "美团GN06团队推出AI浏览器，探索AI Native产品方向",
-      "url": "https://36kr.com/p/3759372854706953?f=rss",
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
       "pubTime": "2026-04-11",
-      "score": 72
-    },
-    {
-      "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "法国政府将从 Windows 工作站迁移到 Linux 工作站",
-      "summary": "法国政府决定从Windows迁移至Linux，强化数字主权远离微软",
-      "url": "https://www.solidot.org/story?sid=84014",
-      "pubTime": "2026-04-11",
-      "score": 72
-    },
-    {
-      "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "NASA 如何构建 Artemis II 的容错计算机",
-      "summary": "NASA为Artemis II研发容错计算机，涉及航天科技重要进展",
-      "url": "https://www.solidot.org/story?sid=84012",
-      "pubTime": "2026-04-11",
-      "score": 68
-    },
-    {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-      "summary": "MIT Tech Review报道AI模型因安全性考虑未发布",
-      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
-      "pubTime": "2026-04-11",
-      "score": 68
+      "score": 80
     }
   ]
 }
