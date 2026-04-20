@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-20",
-  "time": "16:05",
+  "time": "20:10",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-20 16:05",
-  "sourceCount": 3,
+  "temperature": 85,
+  "updateTimeStr": "2026-04-20 20:10",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 211,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3774692365206280?f=rss",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%｜独家",
-      "summary": "",
-      "url": "https://36kr.com/p/3774566936216064?f=rss",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "自变量机器人完成近20亿元B轮融资，小米战投、红杉中国领投丨智能涌现独家",
-      "summary": "",
-      "url": "https://36kr.com/p/3774502008963841?f=rss",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Making AI operational in constrained public sector environments",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Treating enterprise AI as an operating layer",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Why having “humans in the loop” in an AI war is an illusion",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
-      "pubTime": "2026-04-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "",
+      "summary": "量子AI显著提升混沌预测能力",
       "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
       "pubTime": "2026-04-20",
-      "score": 80
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+      "summary": "研究利用巨型超原子突破量子计算稳定性难题",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+      "pubTime": "2026-04-20",
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "",
+      "summary": "新型耐700°C高温芯片研发成功，突破性内存设备或改变AI发展",
       "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-20",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
+      "summary": "AI玩具品牌灵机天赐获数千万元融资",
+      "url": "https://36kr.com/p/3774692365206280?f=rss",
+      "pubTime": "2026-04-20",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%｜独家",
+      "summary": "字节跳动海外营收增50%占比创新高，AI高投入致净利骤降70%",
+      "url": "https://36kr.com/p/3774566936216064?f=rss",
+      "pubTime": "2026-04-20",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Figma's woes compound with Claude Design",
+      "summary": "AI设计工具Claude冲击Figma，竞争格局生变",
+      "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+      "pubTime": "2026-04-20",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "summary": "中国科技工作者被要求训练AI替身，引发职场反弹",
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "pubTime": "2026-04-20",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Treating enterprise AI as an operating layer",
+      "summary": "MIT Tech Review探讨企业AI作为操作层的新趋势",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "pubTime": "2026-04-20",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "summary": "NSA被曝使用Anthropic的Mythos AI工具，涉及其在黑名单限制下",
+      "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
+      "pubTime": "2026-04-20",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "AI能效突破提升百倍，准确性同步增强",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "pubTime": "2026-04-20",
+      "score": 75
     }
   ]
 }
