@@ -1,0 +1,114 @@
+{
+  "title": "AI科技情报简报",
+  "date": "2026-04-10",
+  "time": "20:04",
+  "label": "LATEST BRIEFING",
+  "temperature": 50,
+  "updateTimeStr": "2026-04-10 20:04",
+  "sourceCount": 4,
+  "totalCount": 52,
+  "totalSignalsAll": 111,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜无印良品：2026财年第二季度营收196.1亿元，同比增长14.8%；小马智行发布PonyWorld世界模型2.0",
+      "summary": "",
+      "url": "https://36kr.com/p/3760914298651400?f=rss",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "早期项目 | 字节、OPPO、一加三重背景产品人，将软硬一体写入底层，要让AI看懂世界",
+      "summary": "",
+      "url": "https://36kr.com/p/3760310709174784?f=rss",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪｜“张雪峰.skill”上线GitHub引争议；康师傅“再来一瓶”被曝多店不兑换；微信回应“夫妻用AI写公众号年赚200万”",
+      "summary": "",
+      "url": "https://36kr.com/p/3760260422648327?f=rss",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "对话美团GN06刘炯：美团为什么做了一款AI浏览器？",
+      "summary": "",
+      "url": "https://36kr.com/p/3759372854706953?f=rss",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "一个225平方公里的“庄”，如何成为AI“顶流”",
+      "summary": "",
+      "url": "https://36kr.com/p/3759269095113219?f=rss",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Mozilla 指控微软使用 AI 限制用户选择",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84008",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+      "pubTime": "2026-04-10",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-10",
+      "score": 80
+    }
+  ]
+}

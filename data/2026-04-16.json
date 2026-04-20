@@ -1,0 +1,114 @@
+{
+  "title": "AI科技情报简报",
+  "date": "2026-04-16",
+  "time": "20:04",
+  "label": "LATEST BRIEFING",
+  "temperature": 50,
+  "updateTimeStr": "2026-04-16 20:04",
+  "sourceCount": 4,
+  "totalCount": 52,
+  "totalSignalsAll": 171,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
+      "summary": "",
+      "url": "https://36kr.com/p/3769360179298818?f=rss",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "新加坡的AI征途：孕育下一个“硅谷”",
+      "summary": "",
+      "url": "https://36kr.com/p/3768997634130434?f=rss",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "要做电商Agent OS，前钉钉最年轻副总裁创立的「攀峰智能」再次完成数千万天使轮融资",
+      "summary": "",
+      "url": "https://36kr.com/p/3768320373441281?f=rss",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "IPv6 普及度突破 50%",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84062",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Cal.com 因 AI 从开源转为闭源",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84059",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Building trust in the AI era with privacy-led UX",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "pubTime": "2026-04-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "pubTime": "2026-04-16",
+      "score": 80
+    }
+  ]
+}

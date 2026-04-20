@@ -1,0 +1,114 @@
+{
+  "title": "AI科技情报简报",
+  "date": "2026-04-14",
+  "time": "20:11",
+  "label": "LATEST BRIEFING",
+  "temperature": 88,
+  "updateTimeStr": "2026-04-14 20:11",
+  "sourceCount": 3,
+  "totalCount": 52,
+  "totalSignalsAll": 151,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "AI突破实现能效百倍提升，攻克AI高能耗难题",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "pubTime": "2026-04-14",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "美工程师研发耐1300°F高温存储芯片，可改变AI发展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-14",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "AI机器人学高效采摘番茄",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "pubTime": "2026-04-14",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "宁德时代、智元、银河通用联合投资，六维力传感器头部企业「蓝点触控」完成超亿元C+轮融资 | 36氪首发",
+      "summary": "宁德时代等联合投资蓝点触控超亿元，布局机器人六维力传感器领域",
+      "url": "https://36kr.com/p/3766434507440903?f=rss",
+      "pubTime": "2026-04-14",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
+      "summary": "远见智存发布HBM3/3e存储芯片，带宽800GB/s",
+      "url": "https://36kr.com/p/3765986197684736?f=rss",
+      "pubTime": "2026-04-14",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+      "summary": "图速科技发布具身打磨机器人新品，效率达人工3-4倍",
+      "url": "https://36kr.com/p/3765207394009602?f=rss",
+      "pubTime": "2026-04-14",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] Gitlawb/openclaude ⭐21349",
+      "summary": "开源AI编程CLI工具OpenClaude获2万+星标",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "pubTime": "2026-04-14",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "summary": "DNA机器人可编程机器问世，可用于体内药物递送和病毒检测",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "pubTime": "2026-04-14",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "科学家研发新型AI测试基准，测试结果令人意外",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002650.htm",
+      "pubTime": "2026-04-14",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
+      "summary": "高德具身机器人将亮相，日产削减车型转型，OpenAI估值遭质疑",
+      "url": "https://36kr.com/p/3766487517594377?f=rss",
+      "pubTime": "2026-04-14",
+      "score": 75
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "AI科技情报简报",
+  "date": "2026-04-15",
+  "time": "20:11",
+  "label": "LATEST BRIEFING",
+  "temperature": 82,
+  "updateTimeStr": "2026-04-15 20:11",
+  "sourceCount": 5,
+  "totalCount": 52,
+  "totalSignalsAll": 161,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "亚马逊收购 Globalstar",
+      "summary": "亚马逊收购卫星公司Globalstar以扩展LEO宽带网络",
+      "url": "https://www.solidot.org/story?sid=84048",
+      "pubTime": "2026-04-15",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新型耐700°C高温存储芯片诞生，或将颠覆AI硬件发展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-15",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "宁德时代、智元、银河通用联合投资，六维力传感器头部企业「蓝点触控」完成超亿元C+轮融资 | 36氪首发",
+      "summary": "宁德时代等联合投资蓝点触控超亿元，布局机器人传感器领域",
+      "url": "https://36kr.com/p/3766434507440903?f=rss",
+      "pubTime": "2026-04-15",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Redefining the future of software engineering",
+      "summary": "MIT Tech Review探讨软件工程重大变革与未来趋势",
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "pubTime": "2026-04-15",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜高德首款具身机器人将亮相；日产发布转型计划：削减20%车型，冲刺中美百万销量；随着战略转向，OpenAI的8520亿美元估值遭投资者质疑",
+      "summary": "高德具身机器人将亮相，OpenAI估值遭质疑",
+      "url": "https://36kr.com/p/3766487517594377?f=rss",
+      "pubTime": "2026-04-15",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Google 将惩罚“后退按钮劫持”行为",
+      "summary": "Google将对后退按钮劫持网站降权，6月15日起执行",
+      "url": "https://www.solidot.org/story?sid=84046",
+      "pubTime": "2026-04-15",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+      "summary": "NASA研发核动力星际飞船，实现太空探索重大技术突破",
+      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+      "pubTime": "2026-04-15",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "summary": "AI行业动态与无人机保护熊类应用",
+      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+      "pubTime": "2026-04-15",
+      "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] MemPalace/mempalace ⭐46286",
+      "summary": "开源AI内存系统MemPalace获高关注度",
+      "url": "https://github.com/MemPalace/mempalace",
+      "pubTime": "2026-04-15",
+      "score": 68
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+      "summary": "DNA机器人可编程，能在体内递送药物、追踪病毒，属生物技术前沿突破。",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "pubTime": "2026-04-15",
+      "score": 68
+    }
+  ]
+}

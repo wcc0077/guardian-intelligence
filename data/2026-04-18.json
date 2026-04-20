@@ -1,0 +1,114 @@
+{
+  "title": "AI科技情报简报",
+  "date": "2026-04-18",
+  "time": "20:19",
+  "label": "LATEST BRIEFING",
+  "temperature": 78,
+  "updateTimeStr": "2026-04-18 20:19",
+  "sourceCount": 5,
+  "totalCount": 52,
+  "totalSignalsAll": 191,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "英伟达 CEO 反对进一步限制向中国出口芯片",
+      "summary": "英伟达CEO反对美对华芯片出口限制，影响AI芯片供应链格局",
+      "url": "https://www.solidot.org/story?sid=84078",
+      "pubTime": "2026-04-18",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "AI技术突破：能效提升100倍且准确性提高，解决AI高能耗问题",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "pubTime": "2026-04-18",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+      "summary": "研究巨型超原子或解决量子计算难题",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+      "pubTime": "2026-04-18",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+      "summary": "荣耀AI专家称端侧AI方向未收敛，AI手机成为最佳载体",
+      "url": "https://36kr.com/p/3770819743728131?f=rss",
+      "pubTime": "2026-04-18",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "智元机器人，要做AI大模型平台和开放生态",
+      "summary": "智元机器人转型做AI大模型平台与开放生态",
+      "url": "https://36kr.com/p/3770721219035649?f=rss",
+      "pubTime": "2026-04-18",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
+      "summary": "享刻智能聚焦餐饮场景具身智能落地，探索人形机器人以外的技术商业化路径",
+      "url": "https://36kr.com/p/3770651778761481?f=rss",
+      "pubTime": "2026-04-18",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Why having “humans in the loop” in an AI war is an illusion",
+      "summary": "MIT Tech Review探讨AI战争中人机协作的局限性",
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "pubTime": "2026-04-18",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "AI农业机器人学会智能采摘番茄，展现AI在农业领域的应用突破",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "pubTime": "2026-04-18",
+      "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+      "summary": "荣耀发布AI PC新品MagicBook，布局AI电脑市场",
+      "url": "https://36kr.com/p/3770787623404293?f=rss",
+      "pubTime": "2026-04-18",
+      "score": 68
+    },
+    {
+      "section": "deepDive",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Claude Design",
+      "summary": "Claude Design可能指Anthropic的Claude新设计功能发布",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "pubTime": "2026-04-18",
+      "score": 65
+    }
+  ]
+}

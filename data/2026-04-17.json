@@ -1,0 +1,114 @@
+{
+  "title": "AI科技情报简报",
+  "date": "2026-04-17",
+  "time": "20:12",
+  "label": "LATEST BRIEFING",
+  "temperature": 82,
+  "updateTimeStr": "2026-04-17 20:12",
+  "sourceCount": 5,
+  "totalCount": 52,
+  "totalSignalsAll": 181,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+      "summary": "AI技术突破实现能效百倍提升，准确率同步提高",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "pubTime": "2026-04-17",
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+      "summary": "荣耀AI专家称端侧AI方向未收敛，AI手机为最佳载体",
+      "url": "https://36kr.com/p/3770819743728131?f=rss",
+      "pubTime": "2026-04-17",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "美工程师研发出耐700°C高温的突破性存储芯片，或将改变AI发展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-17",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This simple change stops robot swarms from getting stuck",
+      "summary": "简单改动防止机器人群体卡顿",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
+      "pubTime": "2026-04-17",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | “华为天才少年”创业连融超4亿元，做新一代推理芯片重构显存成本",
+      "summary": "华为天才少年创业获投4亿元，研发AI推理芯片重构显存成本",
+      "url": "https://36kr.com/p/3770363954954755?f=rss",
+      "pubTime": "2026-04-17",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Codex for almost everything",
+      "summary": "OpenAI Codex或将扩展至更多应用领域",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "pubTime": "2026-04-17",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "SpaceX 将发射 ESA 的 Rosalind Franklin 火星漫游车",
+      "summary": "SpaceX获ESA火星漫游车发射合同，使用Falcon Heavy执行任务",
+      "url": "https://www.solidot.org/story?sid=84072",
+      "pubTime": "2026-04-17",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Treating enterprise AI as an operating layer",
+      "summary": "MIT Tech Review探讨企业AI作为运营层的新趋势",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "pubTime": "2026-04-17",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Claude Opus 4.7",
+      "summary": "Anthropic发布Claude Opus 4.7新版本AI模型",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "pubTime": "2026-04-17",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
+      "summary": "小米汽车任命胡峥楠为CTO、宋钢为参谋长，彰显技术研发与战略管理布局。",
+      "url": "https://36kr.com/p/3770688595214857?f=rss",
+      "pubTime": "2026-04-17",
+      "score": 70
+    }
+  ]
+}
