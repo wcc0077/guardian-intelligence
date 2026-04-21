@@ -1,15 +1,55 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-21",
-  "time": "08:04",
+  "time": "16:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-21 08:04",
-  "sourceCount": 4,
+  "updateTimeStr": "2026-04-21 16:05",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 221,
   "signalCount": 10,
   "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+      "summary": "",
+      "url": "https://36kr.com/p/3774891479712514?f=rss",
+      "pubTime": "2026-04-21",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "智能锂电园林公司完成数千万元融资，出货量破万台｜硬氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3774707915440897?f=rss",
+      "pubTime": "2026-04-21",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+      "summary": "",
+      "url": "https://36kr.com/p/3775892441301511?f=rss",
+      "pubTime": "2026-04-21",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入驻仅代表有接洽意愿；日本修正震级为7.7级",
+      "summary": "",
+      "url": "https://36kr.com/p/3775833331286530?f=rss",
+      "pubTime": "2026-04-21",
+      "score": 80
+    },
     {
       "section": "highlights",
       "source": "36氪",
@@ -22,11 +62,11 @@
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 首创“玩偶+主机”模式，多智能体儿童AI玩具品牌获数千万元融资",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Deezer 称 44% 的新上传音乐是 AI 生成的",
       "summary": "",
-      "url": "https://36kr.com/p/3774692365206280?f=rss",
+      "url": "https://www.solidot.org/story?sid=84103",
       "pubTime": "2026-04-21",
       "score": 80
     },
@@ -67,46 +107,6 @@
       "title": "Making AI operational in constrained public sector environments",
       "summary": "",
       "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-      "pubTime": "2026-04-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-      "summary": "",
-      "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-      "pubTime": "2026-04-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
-      "pubTime": "2026-04-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
-      "pubTime": "2026-04-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-21",
       "score": 80
     }
