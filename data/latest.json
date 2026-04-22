@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-22",
-  "time": "04:16",
+  "time": "08:11",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-22 04:16",
+  "temperature": 85,
+  "updateTimeStr": "2026-04-22 08:11",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 231,
@@ -12,51 +12,71 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入驻仅代表有接洽意愿；日本修正震级为7.7级",
-      "summary": "苹果CEO库克将卸任，爱奇艺回应AI艺人库，字节跳动AI投入致净利大降70%",
-      "url": "https://36kr.com/p/3775833331286530?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新型耐700°C高温存储芯片突破，或将改变AI技术发展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-22",
-      "score": 90
+      "score": 92
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "ChatGPT Images 2.0",
+      "summary": "OpenAI发布ChatGPT图像生成2.0版本，通过直播活动展示重大升级",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "pubTime": "2026-04-22",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "summary": "SpaceX宣布600亿美元收购AI编程工具Cursor",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "pubTime": "2026-04-22",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "新型耐高温芯片可承受700°C，或将彻底改变AI技术",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "美西北大学实现人工神经元与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-04-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Palantir 发表受争议的技术共和国宣言",
-      "summary": "Palantir CEO发表技术共和国宣言，涉科技与政治议题引发争议",
-      "url": "https://www.solidot.org/story?sid=84107",
-      "pubTime": "2026-04-22",
-      "score": 78
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "荣耀人形机器人如何成为半马冠军",
-      "summary": "荣耀人形机器人包揽半马前六名，凸显科技大厂技术实力",
+      "summary": "荣耀人形机器人半马包揽前六，展现AI技术新突破",
       "url": "https://www.solidot.org/story?sid=84104",
       "pubTime": "2026-04-22",
-      "score": 78
+      "score": 82
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-      "summary": "AI影响中国劳动力市场及合成生物学mirror细菌技术突破",
-      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Deezer 称 44% 的新上传音乐是 AI 生成的",
+      "summary": "流媒体平台AI生成音乐已占新上传44%，音乐产业面临重大变革",
+      "url": "https://www.solidot.org/story?sid=84103",
+      "pubTime": "2026-04-22",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
+      "summary": "AI母婴智能硬件公司奇世智能获天使轮融资，重点投入AI技术研发",
+      "url": "https://36kr.com/p/3774891479712514?f=rss",
       "pubTime": "2026-04-22",
       "score": 78
     },
@@ -64,51 +84,31 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "奇世智能CheeChips完成天使轮融资，专注AI+母婴智能硬件生态｜最前线",
-      "summary": "奇世智能完成天使轮融资，专注AI+母婴智能硬件生态",
-      "url": "https://36kr.com/p/3774891479712514?f=rss",
+      "title": "专访Eight Sleep CTO：被马斯克们买爆的AI床垫，进中国先砍一刀订阅费",
+      "summary": "AI睡眠独角兽Eight Sleep入华，估值15亿美元",
+      "url": "https://36kr.com/p/3775892441301511?f=rss",
+      "pubTime": "2026-04-22",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "summary": "Vercel平台OAuth漏洞导致环境变量泄露安全事件",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
       "pubTime": "2026-04-22",
       "score": 75
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
-      "summary": "中国科技员工被要求训练AI代理，引发职场变革讨论",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "summary": "LLM代理安全工具发布，助力生产环境AI应用保护",
+      "url": "https://www.brex.com/crabtrap",
       "pubTime": "2026-04-22",
       "score": 75
-    },
-    {
-      "section": "deepDive",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "AI人格渗透网络社区或影响民主制度运行",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-04-22",
-      "score": 68
-    },
-    {
-      "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Deezer 称 44% 的新上传音乐是 AI 生成的",
-      "summary": "Deezer报告44%新上传音乐为AI生成，反映AI内容创作趋势",
-      "url": "https://www.solidot.org/story?sid=84103",
-      "pubTime": "2026-04-22",
-      "score": 65
-    },
-    {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Building agent-first governance and security",
-      "summary": "MIT Tech Review探讨AI代理在组织中的治理与安全问题",
-      "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
-      "pubTime": "2026-04-22",
-      "score": 65
     }
   ]
 }
