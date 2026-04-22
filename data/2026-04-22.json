@@ -1,82 +1,72 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-22",
-  "time": "16:07",
+  "time": "20:12",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-22 16:07",
-  "sourceCount": 4,
+  "temperature": 85,
+  "updateTimeStr": "2026-04-22 20:12",
+  "sourceCount": 5,
   "totalCount": 52,
-  "totalSignalsAll": 229,
-  "signalCount": 8,
+  "totalSignalsAll": 231,
+  "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3777491215913736?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新型耐700°C高温存储芯片突破，或将革新AI计算领域",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "PettiChat获百万美元种子投资，造出宠物穿戴AI翻译器",
-      "summary": "",
-      "url": "https://36kr.com/p/3769659305427459?f=rss",
-      "pubTime": "2026-04-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Meta 开始记录员工鼠标移动和按键用于 AI 训练",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84112",
-      "pubTime": "2026-04-22",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-      "summary": "",
+      "summary": "MIT Tech Review列出当前AI十大关键趋势",
       "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
       "pubTime": "2026-04-22",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "人工神经元成功与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-04-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
-      "pubTime": "2026-04-22",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "",
+      "summary": "量子AI在预测混沌系统方面取得重大突破",
       "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "pubTime": "2026-04-22",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "SpaceX 达成协议可选以 600 亿美元收购 Cursor",
+      "summary": "SpaceX达成600亿美元收购Cursor的选择权协议",
+      "url": "https://www.solidot.org/story?sid=84110",
+      "pubTime": "2026-04-22",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "ChatGPT Images 2.0",
+      "summary": "OpenAI发布ChatGPT图像生成功能2.0版本",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "pubTime": "2026-04-22",
       "score": 80
     },
@@ -84,11 +74,41 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "title": "This new chip could slash data center energy waste",
+      "summary": "UC San Diego研发新型芯片，可大幅降低数据中心能耗",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
       "pubTime": "2026-04-22",
       "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
+      "summary": "具微科技完成数亿元A+++轮融资，产业资本天团联合领投",
+      "url": "https://36kr.com/p/3777491215913736?f=rss",
+      "pubTime": "2026-04-22",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究",
+      "summary": "礼来24亿美元押注细胞与基因治疗，西湖云谷智药布局AAV体内CAR-T",
+      "url": "https://36kr.com/p/3774632804057607?f=rss",
+      "pubTime": "2026-04-22",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "All your agents are going async",
+      "summary": "AI代理架构正转向异步模式的技术趋势讨论",
+      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
+      "pubTime": "2026-04-22",
+      "score": 75
     }
   ]
 }
