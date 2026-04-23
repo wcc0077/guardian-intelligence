@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-23",
-  "time": "12:04",
+  "time": "16:07",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-23 12:04",
+  "updateTimeStr": "2026-04-23 16:07",
   "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 241,
@@ -24,7 +24,7 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
+      "title": "36氪首发 | 电磁零部件厂商获数千万元融资，产品已规模化上车，同时布局具身智能机器人",
       "summary": "",
       "url": "https://36kr.com/p/3778732502095106?f=rss",
       "pubTime": "2026-04-23",
@@ -82,16 +82,6 @@
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "印度男子用 AI 生成的 MAGA 女孩骗美国保守派男性",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84119",
-      "pubTime": "2026-04-23",
-      "score": 80
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
@@ -107,6 +97,16 @@
       "title": "AI needs a strong data fabric to deliver business value",
       "summary": "",
       "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "pubTime": "2026-04-23",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
       "pubTime": "2026-04-23",
       "score": 80
     }
