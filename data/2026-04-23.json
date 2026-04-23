@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-23",
-  "time": "04:14",
+  "time": "12:04",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-04-23 04:14",
-  "sourceCount": 5,
+  "temperature": 50,
+  "updateTimeStr": "2026-04-23 12:04",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 241,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "美工程团队研发700°C耐高温AI芯片，突破存储器技术极限",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪官方AI专属社群，正式开放招募！",
+      "summary": "",
+      "url": "https://36kr.com/p/3777870287737860?f=rss",
       "pubTime": "2026-04-23",
-      "score": 88
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
-      "summary": "快手618启动、OpenAI拟投15亿美元、特斯拉语音AI获备案",
-      "url": "https://36kr.com/p/3774776026874375?f=rss",
+      "title": "36氪首发 | 电磁零部件厂商完成数千万元融资，核心团队来自德企，产品已规模化上车",
+      "summary": "",
+      "url": "https://36kr.com/p/3778732502095106?f=rss",
       "pubTime": "2026-04-23",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google 发布第八代自研 AI 芯片  TPU 8t 和 TPU 8i",
-      "summary": "Google发布第八代TPU芯片，专为大模型训练推理设计",
-      "url": "https://www.solidot.org/story?sid=84122",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+      "summary": "",
+      "url": "https://36kr.com/p/3778730451391751?f=rss",
       "pubTime": "2026-04-23",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "美国西北大学实现人工神经元与活体脑细胞成功通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨张雪机车发布召回通告；哪吒汽车创始人已被列为“老赖”；英国新法案规定08后终身不得购烟",
+      "summary": "",
+      "url": "https://36kr.com/p/3778660962505989?f=rss",
       "pubTime": "2026-04-23",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip could slash data center energy waste",
-      "summary": "新芯片设计可大幅降低数据中心能耗",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
-      "pubTime": "2026-04-23",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "最前线｜华为猛士深化战略合作，新技术将逐步落地4款以上全新车型",
-      "summary": "华为与猛士深化战略合作，智能越野技术将落地4款以上新车",
+      "summary": "",
       "url": "https://36kr.com/p/3777981126644745?f=rss",
       "pubTime": "2026-04-23",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "押注AAV体内CAR-T，「西湖云谷智药」即将启动IIT研究",
-      "summary": "礼来24亿美元收购布局细胞与基因治疗，西湖云谷启动AAV体内CAR-T研究",
-      "url": "https://36kr.com/p/3774632804057607?f=rss",
+      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
+      "summary": "",
+      "url": "https://36kr.com/p/3774776026874375?f=rss",
       "pubTime": "2026-04-23",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "summary": "阿里发布Qwen3.6-27B模型，27B参数实现旗舰级编程能力",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Google 发布第八代自研 AI 芯片  TPU 8t 和 TPU 8i",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84122",
       "pubTime": "2026-04-23",
-      "score": 75
+      "score": 80
     },
     {
-      "section": "deepDive",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] Gitlawb/openclaude ⭐23587",
-      "summary": "开源coding-agent项目获2.3万星，支持多AI模型编程",
-      "url": "https://github.com/Gitlawb/openclaude",
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "印度男子用 AI 生成的 MAGA 女孩骗美国保守派男性",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84119",
       "pubTime": "2026-04-23",
-      "score": 72
+      "score": 80
     },
     {
-      "section": "deepDive",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
-      "summary": "具微科技两月获4轮数亿元融资，产业资本联合入局智能机器人赛道",
-      "url": "https://36kr.com/p/3777491215913736?f=rss",
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
       "pubTime": "2026-04-23",
-      "score": 70
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "pubTime": "2026-04-23",
+      "score": 80
     }
   ]
 }
