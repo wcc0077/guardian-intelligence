@@ -1,15 +1,35 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-23",
-  "time": "16:07",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-23 16:07",
+  "updateTimeStr": "2026-04-23 20:06",
   "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 241,
   "signalCount": 10,
   "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+      "summary": "",
+      "url": "https://36kr.com/p/3774776226923272?f=rss",
+      "pubTime": "2026-04-23",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "固态激光雷达“像素竞赛”加速，速腾聚创VGA大面阵SPAD-SoC产品发布｜最前线",
+      "summary": "",
+      "url": "https://36kr.com/p/3779194648876292?f=rss",
+      "pubTime": "2026-04-23",
+      "score": 80
+    },
     {
       "section": "highlights",
       "source": "36氪",
@@ -42,31 +62,11 @@
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨张雪机车发布召回通告；哪吒汽车创始人已被列为“老赖”；英国新法案规定08后终身不得购烟",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "高收入人群的 AI 普及率远高于低收入人群",
       "summary": "",
-      "url": "https://36kr.com/p/3778660962505989?f=rss",
-      "pubTime": "2026-04-23",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "最前线｜华为猛士深化战略合作，新技术将逐步落地4款以上全新车型",
-      "summary": "",
-      "url": "https://36kr.com/p/3777981126644745?f=rss",
-      "pubTime": "2026-04-23",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜快手618商家大会于杭州启动 ；OpenAI据悉正洽谈向一家私募股权合资企业投资至多15亿美元；事关节能降碳工作，中办、国办重磅文件对外发布",
-      "summary": "",
-      "url": "https://36kr.com/p/3774776026874375?f=rss",
+      "url": "https://www.solidot.org/story?sid=84128",
       "pubTime": "2026-04-23",
       "score": 80
     },
