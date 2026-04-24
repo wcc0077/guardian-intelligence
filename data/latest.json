@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-24",
-  "time": "08:09",
+  "time": "12:14",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-24 08:09",
-  "sourceCount": 5,
+  "updateTimeStr": "2026-04-24 12:14",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 251,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "DeepSeek v4",
+      "summary": "DeepSeek发布v4新版本，AI模型能力再升级",
+      "url": "https://api-docs.deepseek.com/",
+      "pubTime": "2026-04-24",
+      "score": 88
+    },
+    {
+      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
-      "summary": "",
+      "summary": "AI4S企业奥明星程获超亿元A轮融资，深创投、复星医药等知名机构参与",
       "url": "https://36kr.com/p/3778831119897600?f=rss",
       "pubTime": "2026-04-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
-      "summary": "",
-      "url": "https://36kr.com/p/3779369343144965?f=rss",
-      "pubTime": "2026-04-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
-      "summary": "",
-      "url": "https://36kr.com/p/3774776226923272?f=rss",
-      "pubTime": "2026-04-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "固态激光雷达“像素竞赛”加速，速腾聚创VGA大面阵SPAD-SoC产品发布｜最前线",
-      "summary": "",
-      "url": "https://36kr.com/p/3779194648876292?f=rss",
-      "pubTime": "2026-04-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪官方AI专属社群，正式开放招募！",
-      "summary": "",
-      "url": "https://36kr.com/p/3777870287737860?f=rss",
-      "pubTime": "2026-04-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "高收入人群的 AI 普及率远高于低收入人群",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84128",
-      "pubTime": "2026-04-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-      "pubTime": "2026-04-24",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "AI needs a strong data fabric to deliver business value",
-      "summary": "",
+      "summary": "MIT Tech Review探讨企业AI应用需强数据基础架构支撑",
       "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
       "pubTime": "2026-04-24",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "summary": "",
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "title": "GPT-5.5",
+      "summary": "OpenAI或正研发GPT-5.5，AI模型持续迭代",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
       "pubTime": "2026-04-24",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "title": "Quantum AI just got shockingly good at predicting chaos",
+      "summary": "量子AI在预测混沌方面实现重大技术突破",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
       "pubTime": "2026-04-24",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新型耐高温芯片突破，可承受700°C或将革新AI计算",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-24",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家",
+      "summary": "知名VC联手投资AI超便携电子纸项目超亿元，开辟新硬件赛道",
+      "url": "https://36kr.com/p/3778175428777218?f=rss",
+      "pubTime": "2026-04-24",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
+      "summary": "ThinkPad发布AI主机可一键部署，量化投资先驱警告AI交易风险，2025年授权发明专利97.2万件",
+      "url": "https://36kr.com/p/3774776226923272?f=rss",
+      "pubTime": "2026-04-24",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "summary": "密码管理工具Bitwarden CLI遭供应链攻击，安全威胁",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "pubTime": "2026-04-24",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+      "summary": "PyTorch现可在Google TPU上原生运行，实现框架与硬件深度整合",
+      "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "pubTime": "2026-04-24",
+      "score": 78
     }
   ]
 }
