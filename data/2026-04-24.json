@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-24",
-  "time": "16:12",
+  "time": "20:17",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-24 16:12",
+  "updateTimeStr": "2026-04-24 20:17",
   "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 251,
@@ -12,61 +12,31 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "美西北大学实现人工神经元与活脑细胞通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "深度求索发布 DeepSeek-V4 预览版",
+      "summary": "深度求索发布1.6万亿参数DeepSeek-V4预览版",
+      "url": "https://www.solidot.org/story?sid=84139",
       "pubTime": "2026-04-24",
-      "score": 92
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-      "summary": "DeepSeek发布V4版本，AI行业重大技术进展引关注",
-      "url": "https://36kr.com/p/3780375304312072?f=rss",
-      "pubTime": "2026-04-24",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "打造生物智能基础设施，AI4S企业「奥明星程」获超亿元A轮融资｜36氪首发",
-      "summary": "AI4S企业奥明星程获超亿元A轮融资，深创投、复星医药等参投",
-      "url": "https://36kr.com/p/3778831119897600?f=rss",
-      "pubTime": "2026-04-24",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "GPT-5.5",
-      "summary": "OpenAI可能发布GPT-5.5新模型",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "pubTime": "2026-04-24",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Meta tells staff it will cut 10% of jobs",
-      "summary": "Meta宣布裁员10%约万人，科技行业寒冬持续",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-      "pubTime": "2026-04-24",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
-      "summary": "巨型超原子或解决量子计算稳定性难题",
+      "summary": "巨型超原子或解决量子计算核心难题",
       "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+      "pubTime": "2026-04-24",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+      "summary": "DeepSeek V4正式发布，AI领域重要产品迭代",
+      "url": "https://36kr.com/p/3780375304312072?f=rss",
       "pubTime": "2026-04-24",
       "score": 85
     },
@@ -75,7 +45,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "This new chip could slash data center energy waste",
-      "summary": "加州大学圣地亚哥分校研发新芯片，可大幅降低数据中心能耗，提升能效。",
+      "summary": "UC San Diego研发新型节能芯片助力数据中心降耗",
       "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
       "pubTime": "2026-04-24",
       "score": 85
@@ -85,30 +55,60 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "美研发耐700°C高温存储芯片，可永久改变AI",
+      "summary": "新型耐700°C高温存储芯片突破或革新AI芯片技术",
       "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-24",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "DeepSeek v4",
-      "summary": "DeepSeek发布V4-Pro模型，AI行业重大技术更新",
-      "url": "https://api-docs.deepseek.com/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+      "summary": "美团大模型开放测试用国产算力，央行发金融产品网销管理办法",
+      "url": "https://36kr.com/p/3777694346548482?f=rss",
       "pubTime": "2026-04-24",
-      "score": 80
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "博裕、经纬、顺为等投资前新石器COO超亿元，押注AI超便携电子纸｜硬氪独家",
+      "summary": "多家知名机构投资AI超便携电子纸项目超亿元",
+      "url": "https://36kr.com/p/3778175428777218?f=rss",
+      "pubTime": "2026-04-24",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum AI just got shockingly good at predicting chaos",
+      "summary": "量子AI在预测混沌方面实现突破，展现量子计算与AI融合的重大技术进展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "pubTime": "2026-04-24",
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-      "summary": "AI视频编辑公司获投2000万美金，ARR达2000万，发布视频编辑工具Buzzy",
+      "summary": "AI视频编辑公司Buzzy获投2000万美元，ARR亦达2000万美元",
       "url": "https://36kr.com/p/3780352721851397?f=rss",
       "pubTime": "2026-04-24",
-      "score": 78
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "AI 漏洞报告大增促使内核移除缺乏维护的代码",
+      "summary": "AI生成漏洞报告泛滥，Linux内核移除缺乏维护代码",
+      "url": "https://www.solidot.org/story?sid=84135",
+      "pubTime": "2026-04-24",
+      "score": 75
     }
   ]
 }
