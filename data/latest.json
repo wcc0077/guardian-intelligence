@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-25",
-  "time": "16:16",
+  "time": "20:07",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-04-25 16:16",
-  "sourceCount": 5,
+  "temperature": 50,
+  "updateTimeStr": "2026-04-25 20:07",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 261,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "DeepSeek发布V4预览，AI模型突破引关注",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "summary": "",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
       "pubTime": "2026-04-25",
-      "score": 90
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "summary": "谷歌拟向AI公司Anthropic投资400亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "summary": "",
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
       "pubTime": "2026-04-25",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "AI逼真人格可渗透在线社区，威胁民主进程",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-04-25",
-      "score": 88
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
-      "summary": "中科天塔推AI+激光通信太空智驾体系，提升卫星管理能力",
+      "summary": "",
       "url": "https://36kr.com/p/3780910411193602?f=rss",
       "pubTime": "2026-04-25",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-      "summary": "DeepSeek V4发布，AI领域重要进展",
-      "url": "https://36kr.com/p/3780375304312072?f=rss",
+      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
+      "summary": "",
+      "url": "https://36kr.com/p/3777694346548482?f=rss",
       "pubTime": "2026-04-25",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This simple change stops robot swarms from getting stuck",
-      "summary": "简变防止机器人集群卡顿",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
+      "summary": "",
+      "url": "https://36kr.com/p/3780556402531330?f=rss",
       "pubTime": "2026-04-25",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
-      "summary": "瑞典团队用巨型超原子突破量子计算稳定性难题",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
-      "pubTime": "2026-04-25",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "深度求索发布 DeepSeek-V4 预览版",
-      "summary": "深度求索发布1.6万亿参数DeepSeek-V4预览版",
-      "url": "https://www.solidot.org/story?sid=84139",
+      "title": "韩国逮捕一名发布逃跑公狼 AI 照片的男子",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84147",
       "pubTime": "2026-04-25",
-      "score": 82
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "量子AI突破性提升混沌预测能力，融合量子计算与AI技术获重大进展",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
       "pubTime": "2026-04-25",
-      "score": 82
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "新型耐1300°F高温芯片诞生，或将永久改变AI行业格局",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
       "pubTime": "2026-04-25",
-      "score": 82
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "pubTime": "2026-04-25",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "pubTime": "2026-04-25",
+      "score": 80
     }
   ]
 }
