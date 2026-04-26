@@ -1,12 +1,12 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-26",
-  "time": "04:12",
+  "time": "08:13",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-04-26 04:12",
-  "sourceCount": 3,
-  "totalCount": 52,
+  "temperature": 89,
+  "updateTimeStr": "2026-04-26 08:13",
+  "sourceCount": 4,
+  "totalCount": 43,
   "totalSignalsAll": 271,
   "signalCount": 10,
   "signals": [
@@ -15,28 +15,18 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "DeepSeek发布V4预览模型，展示中国AI技术新突破",
+      "summary": "DeepSeek发布V4模型预览版，AI技术竞争加剧",
       "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "pubTime": "2026-04-26",
-      "score": 90
+      "score": 92
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
-      "summary": "巨型超原子或解决量子计算难题",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
-      "pubTime": "2026-04-26",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip could slash data center energy waste",
-      "summary": "UC San Diego研发节能芯片可大幅降低数据中心能耗",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新型耐700°C高温存储芯片诞生，可望永久改变AI发展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-26",
       "score": 88
     },
@@ -44,9 +34,19 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
-      "summary": "美团万亿参数大模型开放测试，国产算力训练完成",
-      "url": "https://36kr.com/p/3777694346548482?f=rss",
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "summary": "马斯克4000亿收购00后公司，创年度最大并购",
+      "url": "https://36kr.com/p/3781532841581576?f=rss",
+      "pubTime": "2026-04-26",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] ultraworkers/claw-code ⭐188363",
+      "summary": "GitHub超188K星开源项目解锁，号称史上最快仓库",
+      "url": "https://github.com/ultraworkers/claw-code",
       "pubTime": "2026-04-26",
       "score": 85
     },
@@ -55,7 +55,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活脑细胞通信",
+      "summary": "人工神经元成功与活体脑细胞通信",
       "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-04-26",
       "score": 85
@@ -64,9 +64,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "量子计算与AI结合大幅提升混沌预测能力的技术突破",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+      "summary": "巨型超原子或解决量子计算稳定性难题",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
       "pubTime": "2026-04-26",
       "score": 85
     },
@@ -74,41 +74,41 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "美工程师研发700°C高温存储芯片，可望颠覆AI硬件",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "title": "This new chip could slash data center energy waste",
+      "summary": "加州大学研发新型节能芯片可降低数据中心能耗",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
       "pubTime": "2026-04-26",
-      "score": 85
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "summary": "润芯微发布国产软硬一体AI智能基座，解决芯片+系统+AI稀缺难题",
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "pubTime": "2026-04-26",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "summary": "海康机器人2025年营收64亿+，宣布推进AI融合与具身智能布局",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
+      "pubTime": "2026-04-26",
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-      "summary": "工业AI公司智用开物获近亿元天使+轮融资，核心团队来自微软",
+      "summary": "工业智能体公司智用开物获近亿元融资，核心团队来自微软",
       "url": "https://36kr.com/p/3781548853533959?f=rss",
       "pubTime": "2026-04-26",
       "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
-      "summary": "AI+激光通信技术应用于卫星管理，推动太空交通安全管理创新",
-      "url": "https://36kr.com/p/3780910411193602?f=rss",
-      "pubTime": "2026-04-26",
-      "score": 75
-    },
-    {
-      "section": "deepDive",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-      "summary": "马斯克4000亿收购00后公司，涉及科技行业重大投资并购",
-      "url": "https://36kr.com/p/3781532841581576?f=rss",
-      "pubTime": "2026-04-26",
-      "score": 65
     }
   ]
 }
