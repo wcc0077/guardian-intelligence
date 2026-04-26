@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-26",
-  "time": "12:15",
+  "time": "16:18",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-04-26 12:15",
+  "temperature": 76,
+  "updateTimeStr": "2026-04-26 16:18",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 271,
@@ -14,49 +14,79 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum AI just got shockingly good at predicting chaos",
+      "summary": "量子AI在预测混沌上获突破",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "pubTime": "2026-04-26",
+      "score": 92
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "summary": "DeepSeek发布V4模型预览，彰显中国AI技术突破",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "pubTime": "2026-04-26",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
-      "summary": "巨型超原子或能解决量子计算稳定性难题",
+      "summary": "巨型超原子突破量子计算稳定性瓶颈",
       "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
       "pubTime": "2026-04-26",
-      "score": 90
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "科学家研发出耐700°C高温内存芯片，可改变AI发展",
+      "summary": "新型耐700°C高温芯片问世，可永久改变AI运算模式",
       "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-26",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "量子计算与AI结合实现重大突破，预测混沌能力显著提升",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "summary": "中国公司突破微米级磁悬浮魔毯技术，实现工业柔性化生产",
+      "url": "https://36kr.com/p/3782960065108996?f=rss",
       "pubTime": "2026-04-26",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "summary": "AI医疗研究加速，警惕AI诈骗升级",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "pubTime": "2026-04-26",
-      "score": 80
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-      "summary": "润芯微发布国产AI智能基座解决方案，破解芯片+系统+AI稀缺难题",
+      "summary": "润芯微发布国产AI智能基座解决方案，破解行业稀缺难题",
       "url": "https://36kr.com/p/3782901034785801?f=rss",
+      "pubTime": "2026-04-26",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+      "summary": "海康机器人2025年营收超64亿，推进AI融合与具身智能布局",
+      "url": "https://36kr.com/p/3782137908403457?f=rss",
+      "pubTime": "2026-04-26",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+      "summary": "马斯克4000亿收购00后公司，科技投资并购引关注",
+      "url": "https://36kr.com/p/3781532841581576?f=rss",
       "pubTime": "2026-04-26",
       "score": 78
     },
@@ -65,50 +95,20 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "This new chip could slash data center energy waste",
-      "summary": "UC San Diego研发新芯片设计，可大幅降低数据中心能耗",
+      "summary": "UC San Diego研发新芯片可大幅降低数据中心能耗",
       "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
       "pubTime": "2026-04-26",
       "score": 78
     },
     {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "summary": "中国突破微米级磁悬浮输送技术，实现大规模量产，解决工业柔性与效率矛盾",
-      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "section": "deepDive",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "summary": "GnuPG将后量子密码学集成至主线版本",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
       "pubTime": "2026-04-26",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-      "summary": "海康机器人2025年营收64亿，推进AI融合与具身智能布局",
-      "url": "https://36kr.com/p/3782137908403457?f=rss",
-      "pubTime": "2026-04-26",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "summary": "医疗AI应用广泛但效果存疑，引发行业关注",
-      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "pubTime": "2026-04-26",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] MemPalace/mempalace ⭐49671",
-      "summary": "开源AI记忆系统MemPalace获近5万星，突破性技术获社区认可",
-      "url": "https://github.com/MemPalace/mempalace",
-      "pubTime": "2026-04-26",
-      "score": 75
+      "score": 68
     }
   ]
 }
