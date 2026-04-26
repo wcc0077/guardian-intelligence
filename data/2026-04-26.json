@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-26",
-  "time": "16:18",
+  "time": "20:21",
   "label": "LATEST BRIEFING",
-  "temperature": 76,
-  "updateTimeStr": "2026-04-26 16:18",
+  "temperature": 50,
+  "updateTimeStr": "2026-04-26 20:21",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 271,
@@ -12,31 +12,21 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "量子AI在预测混沌上获突破",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
-      "pubTime": "2026-04-26",
-      "score": 92
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "DeepSeek发布V4模型预览，彰显中国AI技术突破",
+      "summary": "DeepSeek发布V4模型预览，三大原因解析其重要性",
       "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "pubTime": "2026-04-26",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
-      "summary": "巨型超原子突破量子计算稳定性瓶颈",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "summary": "GnuPG将后量子密码学整合进入主线版本",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
       "pubTime": "2026-04-26",
       "score": 85
     },
@@ -44,31 +34,21 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "新型耐700°C高温芯片问世，可永久改变AI运算模式",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "人工神经元成功与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-04-26",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "summary": "中国公司突破微米级磁悬浮魔毯技术，实现工业柔性化生产",
-      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip could slash data center energy waste",
+      "summary": "新型芯片可大幅降低数据中心能耗",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
       "pubTime": "2026-04-26",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-      "summary": "润芯微发布国产AI智能基座解决方案，破解行业稀缺难题",
-      "url": "https://36kr.com/p/3782901034785801?f=rss",
-      "pubTime": "2026-04-26",
-      "score": 78
+      "score": 85
     },
     {
       "section": "highlights",
@@ -78,37 +58,57 @@
       "summary": "海康机器人2025年营收超64亿，推进AI融合与具身智能布局",
       "url": "https://36kr.com/p/3782137908403457?f=rss",
       "pubTime": "2026-04-26",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
+      "summary": "中国突破微米级磁悬浮输送技术，实现制造业柔性化革命",
+      "url": "https://36kr.com/p/3782960065108996?f=rss",
+      "pubTime": "2026-04-26",
       "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-      "summary": "马斯克4000亿收购00后公司，科技投资并购引关注",
-      "url": "https://36kr.com/p/3781532841581576?f=rss",
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "summary": "AI工业应用公司智用开物获近亿元融资，团队源自微软",
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
       "pubTime": "2026-04-26",
       "score": 78
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip could slash data center energy waste",
-      "summary": "UC San Diego研发新芯片可大幅降低数据中心能耗",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
+      "summary": "润芯微发布国产AI智能基座解决方案，解决行业稀缺难题",
+      "url": "https://36kr.com/p/3782901034785801?f=rss",
       "pubTime": "2026-04-26",
-      "score": 78
+      "score": 75
     },
     {
-      "section": "deepDive",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "GnuPG – post-quantum crypto landing in mainline",
-      "summary": "GnuPG将后量子密码学集成至主线版本",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Will fusion power get cheap? Don’t count on it.",
+      "summary": "MIT Tech Review探讨核聚变能源商业化成本挑战",
+      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
       "pubTime": "2026-04-26",
-      "score": 68
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+      "summary": "新型耐700°C高温存储芯片问世，或将深刻改变AI硬件发展",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+      "pubTime": "2026-04-26",
+      "score": 75
     }
   ]
 }
