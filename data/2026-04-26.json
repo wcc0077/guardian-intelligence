@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-26",
-  "time": "20:21",
+  "time": "20:25",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-04-26 20:21",
-  "sourceCount": 4,
+  "temperature": 88,
+  "updateTimeStr": "2026-04-26 20:25",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 271,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "DeepSeek发布V4模型预览，三大原因解析其重要性",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Quantum AI just got shockingly good at predicting chaos",
+      "summary": "量子AI在预测混沌方面取得重大突破，融合量子计算与AI技术",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
       "pubTime": "2026-04-26",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "GnuPG – post-quantum crypto landing in mainline",
-      "summary": "GnuPG将后量子密码学整合进入主线版本",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-      "pubTime": "2026-04-26",
-      "score": 85
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "人工神经元成功与活脑细胞通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+      "summary": "巨型超原子或解决量子计算稳定性难题",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
       "pubTime": "2026-04-26",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This new chip could slash data center energy waste",
-      "summary": "新型芯片可大幅降低数据中心能耗",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm",
-      "pubTime": "2026-04-26",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-      "summary": "海康机器人2025年营收超64亿，推进AI融合与具身智能布局",
-      "url": "https://36kr.com/p/3782137908403457?f=rss",
-      "pubTime": "2026-04-26",
-      "score": 82
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 全球唯二、中国唯一造出微米级磁悬浮魔毯，已大规模量产",
-      "summary": "中国突破微米级磁悬浮输送技术，实现制造业柔性化革命",
+      "summary": "中国突破微米级磁悬浮魔毯技术并实现大规模量产",
       "url": "https://36kr.com/p/3782960065108996?f=rss",
       "pubTime": "2026-04-26",
-      "score": 78
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-      "summary": "AI工业应用公司智用开物获近亿元融资，团队源自微软",
-      "url": "https://36kr.com/p/3781548853533959?f=rss",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "summary": "DeepSeek发布V4预览版，MIT Tech Review分析新模型重要性",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "pubTime": "2026-04-26",
-      "score": 78
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "summary": "GnuPG集成后量子密码学进入主分支，密码学重大技术突破",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "pubTime": "2026-04-26",
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-      "summary": "润芯微发布国产AI智能基座解决方案，解决行业稀缺难题",
+      "summary": "润芯微发布国产软硬一体AI智能基座解决方案",
       "url": "https://36kr.com/p/3782901034785801?f=rss",
       "pubTime": "2026-04-26",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Will fusion power get cheap? Don’t count on it.",
-      "summary": "MIT Tech Review探讨核聚变能源商业化成本挑战",
-      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+      "summary": "AI工业应用公司智用开物获近亿元天使+轮融资",
+      "url": "https://36kr.com/p/3781548853533959?f=rss",
       "pubTime": "2026-04-26",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "This new chip survives 1300°F (700°C) and could change AI forever",
-      "summary": "新型耐700°C高温存储芯片问世，或将深刻改变AI硬件发展",
+      "summary": "新型耐高温存储芯片突破，可承受700°C或将变革AI计算",
       "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
       "pubTime": "2026-04-26",
-      "score": 75
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] Gitlawb/openclaude ⭐24456",
+      "summary": "开源AI编程代理CLI工具发布，支持多模型集成",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "pubTime": "2026-04-26",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI swarms could hijack democracy without anyone noticing",
+      "summary": "AI生成逼真身份可渗透社媒操纵舆论，威胁民主",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "pubTime": "2026-04-26",
+      "score": 78
     }
   ]
 }
