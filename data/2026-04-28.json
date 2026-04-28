@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-04-28",
-  "time": "16:05",
+  "time": "20:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-04-28 16:05",
-  "sourceCount": 4,
+  "updateTimeStr": "2026-04-28 20:05",
+  "sourceCount": 0,
   "totalCount": 52,
-  "totalSignalsAll": 281,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3784697499786503?f=rss",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3784480103455748?f=rss",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "研究发现三分之一新网站是 AI 生成或使用 AI 辅助",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84167",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Rebuilding the data stack for AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "summary": "",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "pubTime": "2026-04-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "summary": "",
-      "url": "https://app.oravys.com/blog/mercor-breach-2026",
-      "pubTime": "2026-04-28",
-      "score": 80
-    }
-  ]
+  "totalSignalsAll": 271,
+  "signalCount": 0,
+  "signals": []
 }
