@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-02",
-  "time": "12:05",
+  "time": "16:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-02 12:05",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-05-02 16:05",
+  "sourceCount": 0,
   "totalCount": 52,
-  "totalSignalsAll": 291,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
-      "summary": "",
-      "url": "https://36kr.com/p/3791460373929221?f=rss",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3790141500366085?f=rss",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "元禾原点领投，硫化物固态电解质材料商「天石科丰」完成数千万元pre-A轮融资 | 36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3789235646094339?f=rss",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
-      "pubTime": "2026-05-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Quantum AI just got shockingly good at predicting chaos",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
-      "pubTime": "2026-05-02",
-      "score": 80
-    }
-  ]
+  "totalSignalsAll": 281,
+  "signalCount": 0,
+  "signals": []
 }
