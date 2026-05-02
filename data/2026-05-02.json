@@ -1,15 +1,25 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-02",
-  "time": "08:05",
+  "time": "12:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-02 08:05",
+  "updateTimeStr": "2026-05-02 12:05",
   "sourceCount": 3,
   "totalCount": 52,
-  "totalSignalsAll": 290,
-  "signalCount": 9,
+  "totalSignalsAll": 291,
+  "signalCount": 10,
   "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+      "summary": "",
+      "url": "https://36kr.com/p/3791460373929221?f=rss",
+      "pubTime": "2026-05-02",
+      "score": 80
+    },
     {
       "section": "highlights",
       "source": "36氪",
