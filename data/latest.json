@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-05",
-  "time": "16:05",
+  "time": "20:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-05 16:05",
-  "sourceCount": 5,
+  "updateTimeStr": "2026-05-05 20:05",
+  "sourceCount": 0,
   "totalCount": 52,
-  "totalSignalsAll": 301,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
-      "summary": "",
-      "url": "https://36kr.com/p/3789475357400068?f=rss",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "英国 NHS 以 AI 为由准备关闭所有开源库",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84206",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "杭州法院裁定以 AI 代替人类为由裁员是系违法",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84205",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Tailoring AI solutions for health care needs",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Cyber-Insecurity in the AI Era",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Operationalizing AI for Scale and Sovereignty",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "summary": "",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "pubTime": "2026-05-05",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-05-05",
-      "score": 80
-    }
-  ]
+  "totalSignalsAll": 291,
+  "signalCount": 0,
+  "signals": []
 }
