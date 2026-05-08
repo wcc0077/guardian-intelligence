@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-08",
-  "time": "04:05",
+  "time": "08:06",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-08 04:05",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-05-08 08:06",
+  "sourceCount": 0,
   "totalCount": 52,
-  "totalSignalsAll": 301,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
-      "summary": "",
-      "url": "https://36kr.com/p/3786528811572481?f=rss",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
-      "summary": "",
-      "url": "https://36kr.com/p/3799089350712324?f=rss",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "最前线|将彩色打印与激光切割合二为一，xTool发布新品",
-      "summary": "",
-      "url": "https://36kr.com/p/3798845086882820?f=rss",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "斯坦福博士后创立的柔性触觉传感器公司获超亿元融资，低成本触觉手套将量产落地｜硬氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3797155747748867?f=rss",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "像素绽放PixelBloom完成C轮融资，全面发力AI办公解决方案Agent：从“一分钟生成PPT”到“交付商用级结果”",
-      "summary": "",
-      "url": "https://36kr.com/p/3797787228151048?f=rss",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨三星宣布停止在中国大陆市场销售所有家电产品；李嘉诚抛售资产套现约455亿；月之暗面将完成20亿美元新融资，估值破200亿美元",
-      "summary": "",
-      "url": "https://36kr.com/p/3798462137637892?f=rss",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜三星电子借AI热潮市值突破1万亿美元；智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent；财政部今年将在香港发行840亿元人民币国债",
-      "summary": "",
-      "url": "https://36kr.com/p/3797482256325888?f=rss",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Valve 以 CC 协议发布 Steam 手柄 CAD 文件",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84236",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-      "pubTime": "2026-05-08",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "pubTime": "2026-05-08",
-      "score": 80
-    }
-  ]
+  "totalSignalsAll": 291,
+  "signalCount": 0,
+  "signals": []
 }
