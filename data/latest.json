@@ -1,13 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-08",
-  "time": "16:05",
+  "time": "20:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-08 16:05",
-  "sourceCount": 0,
+  "updateTimeStr": "2026-05-08 20:05",
+  "sourceCount": 4,
   "totalCount": 52,
-  "totalSignalsAll": 291,
-  "signalCount": 0,
-  "signals": []
+  "totalSignalsAll": 301,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3800495686163721?f=rss",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "小红书四年AI 路：FOMO、犹豫，到突然加速",
+      "summary": "",
+      "url": "https://36kr.com/p/3799028783439111?f=rss",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "第一代全固态电池迈入规模化市场，「纯锂新能源」完成数千万元Pre-A+轮融资 | 36氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3800022823951363?f=rss",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 清华系AI Infra厂商完成数亿元融资，以GPU为核心重构计算机系统架构",
+      "summary": "",
+      "url": "https://36kr.com/p/3799984046333186?f=rss",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+      "summary": "",
+      "url": "https://36kr.com/p/3786528811572481?f=rss",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Valve 以 CC 协议发布 Steam 手柄 CAD 文件",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84236",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "A blueprint for using AI to strengthen democracy",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This AI knew the answers but didn’t understand the questions",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "pubTime": "2026-05-08",
+      "score": 80
+    }
+  ]
 }
