@@ -1,13 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-11",
-  "time": "00:05",
+  "time": "04:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-11 00:05",
-  "sourceCount": 0,
+  "updateTimeStr": "2026-05-11 04:05",
+  "sourceCount": 4,
   "totalCount": 52,
-  "totalSignalsAll": 301,
-  "signalCount": 0,
-  "signals": []
+  "totalSignalsAll": 311,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3801745491943169?f=rss",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "AI开始接管年轻人的「精神自留地」",
+      "summary": "",
+      "url": "https://36kr.com/p/3801461350702855?f=rss",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
+      "summary": "",
+      "url": "https://36kr.com/p/3801398177324550?f=rss",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3797202414820359?f=rss",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3800495686163721?f=rss",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AI malaise and babymaking tech",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Local AI needs to be the norm",
+      "summary": "",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-11",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "This AI knew the answers but didn’t understand the questions",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
+      "pubTime": "2026-05-11",
+      "score": 80
+    }
+  ]
 }
