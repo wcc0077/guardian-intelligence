@@ -1,13 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-12",
-  "time": "16:05",
+  "time": "20:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-12 16:05",
-  "sourceCount": 0,
+  "updateTimeStr": "2026-05-12 20:05",
+  "sourceCount": 3,
   "totalCount": 52,
-  "totalSignalsAll": 301,
-  "signalCount": 0,
-  "signals": []
+  "totalSignalsAll": 311,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%",
+      "summary": "",
+      "url": "https://36kr.com/p/3806196073242112?f=rss",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+      "summary": "",
+      "url": "https://36kr.com/p/3806179759496711?f=rss",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
+      "summary": "",
+      "url": "https://36kr.com/p/3805672617959173?f=rss",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨美国总统特朗普：非常期待中国之行  ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
+      "summary": "",
+      "url": "https://36kr.com/p/3805557782486785?f=rss",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+      "summary": "",
+      "url": "https://36kr.com/p/3804795647729411?f=rss",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "GitLab 以 AI 为由裁员",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84272",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Implementing advanced AI technologies in finance",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "pubTime": "2026-05-12",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "pubTime": "2026-05-12",
+      "score": 80
+    }
+  ]
 }
