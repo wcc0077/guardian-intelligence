@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-18",
-  "time": "06:53",
+  "time": "12:13",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-05-18 06:53",
-  "sourceCount": 4,
-  "totalCount": 52,
+  "temperature": 68,
+  "updateTimeStr": "2026-05-18 12:13",
+  "sourceCount": 2,
+  "totalCount": 40,
   "totalSignalsAll": 331,
   "signalCount": 10,
   "signals": [
     {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新型量子算法秒解超难材料问题，突破计算极限",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "section": "tools",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道",
+      "summary": "",
+      "url": "https://36kr.com/p/3813463119863553?f=rss",
       "pubTime": "2026-05-18",
-      "score": 95
+      "score": 50
     },
     {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "美国议员提议永久禁止中国的联网汽车",
-      "summary": "美议员提交法案拟永久禁止中国联网汽车销售",
-      "url": "https://www.solidot.org/story?sid=84314",
+      "section": "tools",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
+      "summary": "",
+      "url": "https://36kr.com/p/3814030630084354?f=rss",
       "pubTime": "2026-05-18",
-      "score": 85
+      "score": 50
     },
     {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "美国西北大学研发人工神经元成功与活体脑细胞通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "section": "tools",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
+      "summary": "",
+      "url": "https://36kr.com/p/3813305543794440?f=rss",
       "pubTime": "2026-05-18",
-      "score": 85
+      "score": 50
     },
     {
-      "section": "highlights",
+      "section": "tools",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "又诞生一位千亿女富豪",
+      "summary": "千亿女富豪再",
+      "url": "https://36kr.com/p/3813040859258373?f=rss",
+      "pubTime": "2026-05-18",
+      "score": 50
+    },
+    {
+      "section": "tools",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-      "summary": "3人用100个AI agent月烧130万美元，OpenAI资金支持AI编程实验",
+      "summary": "",
       "url": "https://36kr.com/p/3812925591887368?f=rss",
       "pubTime": "2026-05-18",
-      "score": 78
+      "score": 50
     },
     {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
-      "summary": "宠物健康AI大模型公司连获两轮融资，服务超200家宠物医院",
-      "url": "https://36kr.com/p/3812788568907520?f=rss",
-      "pubTime": "2026-05-18",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述直接设计分子，突破传统研发瓶颈",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-05-18",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-      "summary": "SpaceX拆股方案获批生效，为史上最大IPO铺路",
-      "url": "https://36kr.com/p/3812789087264519?f=rss",
-      "pubTime": "2026-05-18",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "马斯克诉Altman案庭审收尾，双方互诉信誉，OpenAI未来走向受关注",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "pubTime": "2026-05-18",
-      "score": 75
-    },
-    {
-      "section": "deepDive",
+      "section": "tools",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "28亿，肯德基也要被卖了？",
-      "summary": "怡和集团拟出售肯德基等快餐资产，作价28亿美元",
+      "summary": "",
       "url": "https://36kr.com/p/3812816225459713?f=rss",
       "pubTime": "2026-05-18",
-      "score": 65
+      "score": 50
     },
     {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "中国短剧产业开始大量运用AI技术生成内容",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "section": "tools",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Eric Sc​​hmidt 在毕业典礼上谈 AI 收到了学生的嘘声",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84320",
       "pubTime": "2026-05-18",
-      "score": 65
+      "score": 50
+    },
+    {
+      "section": "tools",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "调查显示六成 PC 玩家未来两年没有升级 PC 的计划",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84319",
+      "pubTime": "2026-05-18",
+      "score": 50
+    },
+    {
+      "section": "tools",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "刚果再次爆发埃博拉疫情",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84317",
+      "pubTime": "2026-05-18",
+      "score": 50
+    },
+    {
+      "section": "tools",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Mozilla 称 VPN 是保护隐私和安全的重要工具",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84316",
+      "pubTime": "2026-05-18",
+      "score": 50
     }
   ]
 }
