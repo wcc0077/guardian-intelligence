@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-19",
-  "time": "04:10",
+  "time": "12:10",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-19 04:10",
+  "updateTimeStr": "2026-05-19 12:10",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 341,
@@ -12,103 +12,103 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法秒解超大规模材料难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3805660478184966?f=rss",
       "pubTime": "2026-05-19",
-      "score": 90
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
+      "summary": "",
+      "url": "https://36kr.com/p/3815459487587847?f=rss",
+      "pubTime": "2026-05-19",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
-      "summary": "百度AI业务收入136亿，马斯克预计美将广泛使用自动驾驶汽车",
+      "summary": "",
       "url": "https://36kr.com/p/3814695536336387?f=rss",
       "pubTime": "2026-05-19",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-      "summary": "马斯克与奥特曼激战第三周，特朗普科技交易",
-      "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-      "pubTime": "2026-05-19",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Anthropic acquires Stainless",
-      "summary": "AI公司Anthropic收购Stainless，完善开发者工具",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "pubTime": "2026-05-19",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活脑细胞通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "pubTime": "2026-05-19",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-      "summary": "AI推理冷启动优化技术，可减少40倍启动时间",
-      "url": "https://modal.com/blog/truly-serverless-gpus",
-      "pubTime": "2026-05-19",
       "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "AI人格可渗透在线社区，威胁民主制度",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-05-19",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How Chinese short dramas became AI content machines",
-      "summary": "中国短剧利用AI技术批量生产内容，反映AI在影视创作领域的应用趋势",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "pubTime": "2026-05-19",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新型AI太空芯片，让航天器具备自主思考能力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-05-19",
-      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
-      "summary": "字节旗下番茄小说推动AI动漫商业化，开放IP改编权",
+      "summary": "",
       "url": "https://36kr.com/p/3810598875307780?f=rss",
       "pubTime": "2026-05-19",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+      "summary": "",
+      "url": "https://36kr.com/p/3814408307711492?f=rss",
+      "pubTime": "2026-05-19",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3814368445259270?f=rss",
+      "pubTime": "2026-05-19",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "pubTime": "2026-05-19",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+      "pubTime": "2026-05-19",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "summary": "",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "pubTime": "2026-05-19",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-05-19",
+      "score": 80
     }
   ]
 }
