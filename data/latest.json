@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-20",
-  "time": "12:16",
+  "time": "20:07",
   "label": "LATEST BRIEFING",
-  "temperature": 78,
-  "updateTimeStr": "2026-05-20 12:16",
+  "temperature": 50,
+  "updateTimeStr": "2026-05-20 20:07",
   "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 351,
@@ -12,81 +12,51 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破解决材料科学难题，属重大技术进展",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+      "summary": "",
+      "url": "https://36kr.com/p/3816942423000196?f=rss",
       "pubTime": "2026-05-20",
-      "score": 92
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
+      "summary": "",
+      "url": "https://36kr.com/p/3817353357968516?f=rss",
+      "pubTime": "2026-05-20",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
+      "summary": "",
+      "url": "https://36kr.com/p/3816909945029760?f=rss",
+      "pubTime": "2026-05-20",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
+      "summary": "",
+      "url": "https://36kr.com/p/3816947890471812?f=rss",
+      "pubTime": "2026-05-20",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "微软发布了首个通用 Linux 发行版 Azure Linux 4.0",
-      "summary": "微软发布首个通用Linux发行版Azure Linux 4.0，Kubernetes创始人Brendan Burns在开源峰会宣布",
-      "url": "https://www.solidot.org/story?sid=84338",
-      "pubTime": "2026-05-20",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "summary": "Musk诉OpenAI案败诉，涉及AI行业重要人物与公司法律纠纷",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "pubTime": "2026-05-20",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Gemini 3.5 Flash",
-      "summary": "Google发布Gemini 3.5 Flash模型更新",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "pubTime": "2026-05-20",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "summary": "OpenAI采用Google SynthID水印技术标识AI生成图像",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "pubTime": "2026-05-20",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "summary": "Texas Instruments AI主管发布Forge工具，让8B模型agentic任务性能从53%跃升至99%",
-      "url": "https://github.com/antoinezambelli/forge",
-      "pubTime": "2026-05-20",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "summary": "Anduril与Meta合作研发军用智能眼镜技术",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "pubTime": "2026-05-20",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-      "summary": "AI争议、科技大会与军事智能眼镜等多主题科技新闻简报",
-      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "title": "Bug 悬赏项目被 AI 报告淹没",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84344",
       "pubTime": "2026-05-20",
       "score": 80
     },
@@ -95,20 +65,50 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "Musk诉OpenAI案败诉，揭示其与Altman的法律纠纷",
+      "summary": "",
       "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "pubTime": "2026-05-20",
-      "score": 78
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
-      "summary": "AI公司未来式智能完成Pre-A轮融资，布局数字劳动力",
-      "url": "https://36kr.com/p/3816909945029760?f=rss",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "summary": "",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
       "pubTime": "2026-05-20",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-20",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-05-20",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-20",
+      "score": 80
     }
   ]
 }
