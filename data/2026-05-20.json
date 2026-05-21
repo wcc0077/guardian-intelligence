@@ -1,101 +1,71 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-20",
-  "time": "20:07",
+  "time": "20:10",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-05-20 20:07",
-  "sourceCount": 5,
-  "totalCount": 52,
+  "temperature": 78,
+  "updateTimeStr": "2026-05-20 20:10",
+  "sourceCount": 3,
+  "totalCount": 45,
   "totalSignalsAll": 351,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
-      "summary": "",
-      "url": "https://36kr.com/p/3816942423000196?f=rss",
-      "pubTime": "2026-05-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-      "summary": "",
-      "url": "https://36kr.com/p/3817353357968516?f=rss",
-      "pubTime": "2026-05-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "要做数字劳动力生产工厂，「未来式智能」完成Pre-A轮融资",
-      "summary": "",
-      "url": "https://36kr.com/p/3816909945029760?f=rss",
-      "pubTime": "2026-05-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "早期项目 | Chance AI获美图等数百万美元投资，用户数已达20万",
-      "summary": "",
-      "url": "https://36kr.com/p/3816947890471812?f=rss",
-      "pubTime": "2026-05-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Bug 悬赏项目被 AI 报告淹没",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84344",
-      "pubTime": "2026-05-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "",
+      "summary": "Elon Musk诉OpenAI案败诉，涉AI公司治理争议",
       "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "pubTime": "2026-05-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "summary": "",
-      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-      "pubTime": "2026-05-20",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI实现通过自然语言描述直接设计复杂分子，化学设计获突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-05-20",
-      "score": 80
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "summary": "Musk诉OpenAI案败诉，AI行业重要法律纠纷落幕",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "pubTime": "2026-05-20",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "summary": "AI巨头 Musk 与 Altman 纷争、智能战争眼镜及 Google I/O 解析",
+      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "pubTime": "2026-05-20",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Google 宣布改变搜索框",
+      "summary": "Google在I/O大会宣布将搜索框升级为AI驱动的智能搜索框",
+      "url": "https://www.solidot.org/story?sid=84347",
+      "pubTime": "2026-05-20",
+      "score": 82
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "",
+      "summary": "NASA研发AI太空芯片让航天器自主思考",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-05-20",
       "score": 80
@@ -104,11 +74,41 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学实现人工神经元与活脑细胞通信突破",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-05-20",
-      "score": 80
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "summary": "Meta与Anduril合作开发军事智能眼镜，AR技术应用于战争领域",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "pubTime": "2026-05-20",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "GitHub 证实黑客窃取了其内部代码库",
+      "summary": "全球最大代码托管平台GitHub遭黑客入侵内部代码库泄露",
+      "url": "https://www.solidot.org/story?sid=84349",
+      "pubTime": "2026-05-20",
+      "score": 72
+    },
+    {
+      "section": "deepDive",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+      "summary": "Colossal Biosciences用3D打印蛋壳成功培育小鸡",
+      "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+      "pubTime": "2026-05-20",
+      "score": 68
     }
   ]
 }
