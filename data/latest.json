@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-21",
-  "time": "04:16",
+  "time": "12:07",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-21 04:16",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-05-21 12:07",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 361,
   "signalCount": 10,
@@ -14,101 +14,101 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-      "summary": "中国AIGC产业峰会探讨AI Agent趋势",
-      "url": "https://36kr.com/p/3817353357968516?f=rss",
+      "title": "9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告",
+      "summary": "",
+      "url": "https://36kr.com/p/3818450346738823?f=rss",
       "pubTime": "2026-05-21",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨谷歌推出Gemini 3.5系列模型；DeepSeek回应用户“对话泄露”疑虑；全国存款十强城市出炉",
-      "summary": "谷歌发布Gemini 3.5系列模型，DeepSeek回应数据安全疑虑",
-      "url": "https://36kr.com/p/3816885092910212?f=rss",
+      "title": "16款产品入选，2026「焦点」产品计划618特别版重磅发布",
+      "summary": "",
+      "url": "https://36kr.com/p/3818418722734977?f=rss",
       "pubTime": "2026-05-21",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "光-物质混合粒子突破，可赋能AI算力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "网易520发布会：质量为先，狙击细分赛道",
+      "summary": "",
+      "url": "https://36kr.com/p/3817849322964098?f=rss",
       "pubTime": "2026-05-21",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子启发算法数秒破解材料科学难题，实现重大技术突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-05-21",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "人工神经元成功与活体脑细胞通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "pubTime": "2026-05-21",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "summary": "GitHub平台3800个仓库遭恶意VSCode扩展入侵",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "pubTime": "2026-05-21",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "研究警告AI虚假人格可能操纵民主选举",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-05-21",
-      "score": 82
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
-      "summary": "英伟达在新加坡设立AI研发中心，加码人工智能布局",
+      "summary": "",
       "url": "https://36kr.com/p/3816942423000196?f=rss",
       "pubTime": "2026-05-21",
-      "score": 78
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
+      "summary": "",
+      "url": "https://36kr.com/p/3817353357968516?f=rss",
+      "pubTime": "2026-05-21",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "OpenAI 和英伟达等在模型中加入了对 SynthID 水印的支持",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84352",
+      "pubTime": "2026-05-21",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "pubTime": "2026-05-21",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "pubTime": "2026-05-21",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-21",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新型AI太空芯片，赋予航天器自主决策能力",
+      "summary": "",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-05-21",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述直接设计分子，简化药物研发流程",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-05-21",
-      "score": 78
+      "score": 80
     }
   ]
 }
