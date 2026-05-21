@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-21",
-  "time": "16:05",
+  "time": "20:15",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-21 16:05",
+  "updateTimeStr": "2026-05-21 20:15",
   "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 361,
@@ -12,103 +12,103 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告",
-      "summary": "",
-      "url": "https://36kr.com/p/3818450346738823?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学人工神经元与活脑细胞成功通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-05-21",
-      "score": 80
+      "score": 92
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "16款产品入选，2026「焦点」产品计划618特别版重磅发布",
-      "summary": "",
-      "url": "https://36kr.com/p/3818418722734977?f=rss",
+      "title": "开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "北京亦庄建设全域AI之城，AI从C端转向B端工业医疗机器人领域落地成关键词",
+      "url": "https://36kr.com/p/3818784445465731?f=rss",
       "pubTime": "2026-05-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "网易520发布会：质量为先，狙击细分赛道",
-      "summary": "",
-      "url": "https://36kr.com/p/3817849322964098?f=rss",
-      "pubTime": "2026-05-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
-      "summary": "",
-      "url": "https://36kr.com/p/3816942423000196?f=rss",
-      "pubTime": "2026-05-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-      "summary": "",
-      "url": "https://36kr.com/p/3817353357968516?f=rss",
-      "pubTime": "2026-05-21",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "OpenAI 和英伟达等在模型中加入了对 SynthID 水印的支持",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84352",
+      "title": "RTX 5090DV2 显卡列入封禁清单",
+      "summary": "中国海关将英伟达RTX 5090DV2显卡列入封禁清单",
+      "url": "https://www.solidot.org/story?sid=84360",
+      "pubTime": "2026-05-21",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "探讨AI基础设施重构与token经济重塑产业链的趋势分析",
+      "url": "https://36kr.com/p/3817502775329667?f=rss",
+      "pubTime": "2026-05-21",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "summary": "Google在AI Mode搜索结果引入广告，标志AI搜索商业化新趋势",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
       "pubTime": "2026-05-21",
       "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "AI深入工业制造，从质检到供应链重塑工厂核心流程",
+      "url": "https://36kr.com/p/3818903062004870?f=rss",
+      "pubTime": "2026-05-21",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "AI农业应用创业案例，2026北京亦庄AI+产业大会聚焦产业落地",
+      "url": "https://36kr.com/p/3818800487679111?f=rss",
+      "pubTime": "2026-05-21",
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Here’s why Elon Musk lost his suit against OpenAI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "title": "Climate tech companies are pivoting to critical minerals",
+      "summary": "气候科技公司转向关键矿产，特朗普政府政策影响行业转向",
+      "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
       "pubTime": "2026-05-21",
-      "score": 80
+      "score": 78
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "AI机器人城市规模化落地，具身智能应用成行业趋势",
+      "url": "https://36kr.com/p/3818889074557829?f=rss",
       "pubTime": "2026-05-21",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
-      "summary": "",
-      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
+      "summary": "36氪与PureblueAI清蓝在AI+产业大会上达成战略合作，发布消费品牌AI推荐力名册",
+      "url": "https://36kr.com/p/3818877539091333?f=rss",
       "pubTime": "2026-05-21",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-05-21",
-      "score": 80
+      "score": 75
     }
   ]
 }
