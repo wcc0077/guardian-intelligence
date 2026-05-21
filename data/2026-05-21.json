@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-21",
-  "time": "12:07",
+  "time": "16:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-21 12:07",
+  "updateTimeStr": "2026-05-21 16:05",
   "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 361,
@@ -92,11 +92,11 @@
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
       "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
       "pubTime": "2026-05-21",
       "score": 80
     },
@@ -104,9 +104,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
       "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-05-21",
       "score": 80
     }
