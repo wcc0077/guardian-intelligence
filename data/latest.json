@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-22",
-  "time": "00:08",
+  "time": "08:11",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-22 00:08",
+  "updateTimeStr": "2026-05-22 08:11",
   "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 371,
@@ -102,11 +102,11 @@
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
       "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
       "pubTime": "2026-05-22",
       "score": 80
     }
