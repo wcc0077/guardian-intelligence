@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-22",
-  "time": "08:11",
+  "time": "16:15",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-22 08:11",
+  "updateTimeStr": "2026-05-22 16:15",
   "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 371,
@@ -12,81 +12,91 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
-      "summary": "",
-      "url": "https://36kr.com/p/3816942732133510?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "美科研人员研发光-物质混合粒子，可为AI供能",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-05-22",
-      "score": 80
+      "score": 92
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学实现人工神经元与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-05-22",
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA研发AI太空芯片，实现航天器自主思考能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-05-22",
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3818927367046018?f=rss",
+      "title": "AI+供应链：大模型与智能决策如何重构供应链全链路| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "AI大模型重构供应链全链路，智能决策提升物流效率",
+      "url": "https://36kr.com/p/3820107133555077?f=rss",
       "pubTime": "2026-05-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3818903062004870?f=rss",
-      "pubTime": "2026-05-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3818889074557829?f=rss",
-      "pubTime": "2026-05-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3818877539091333?f=rss",
-      "pubTime": "2026-05-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3818800487679111?f=rss",
-      "pubTime": "2026-05-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3817502775329667?f=rss",
-      "pubTime": "2026-05-22",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "Google 宣布在 AI 模式下加入更多广告",
-      "summary": "",
+      "summary": "Google在AI搜索模式中加入广告，探索AI时代商业化新路径",
       "url": "https://www.solidot.org/story?sid=84365",
+      "pubTime": "2026-05-22",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "SpaceX 最大的收入来源是与 Anthropic 达成的数据中心交易",
+      "summary": "SpaceX招股书首次披露财务，数据中心成最大收入来源，涉及Anthropic和xAI",
+      "url": "https://www.solidot.org/story?sid=84362",
+      "pubTime": "2026-05-22",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子启发算法秒解材料难题，突破性计算技术进展",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-05-22",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI swarms could hijack democracy without anyone noticing",
+      "summary": "AI人格日益逼真，可渗入网络社区操纵舆论，威胁民主制度。",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "pubTime": "2026-05-22",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "NASA 预计中国将在 2027 年执行载人绕月飞行任务",
+      "summary": "NASA局长预计中国2027年载人绕月，以此推动美国阿尔忒弥斯计划加速",
+      "url": "https://www.solidot.org/story?sid=84364",
       "pubTime": "2026-05-22",
       "score": 80
     },
@@ -94,21 +104,11 @@
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google 的 AI 搜索容易被人为操纵",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84361",
+      "title": "RTX 5090DV2 显卡列入封禁清单",
+      "summary": "英伟达RTX 5090DV2被中国海关封禁，涉及美国出口管制与中美科技博弈",
+      "url": "https://www.solidot.org/story?sid=84360",
       "pubTime": "2026-05-22",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "pubTime": "2026-05-22",
-      "score": 80
+      "score": 78
     }
   ]
 }
