@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-23",
-  "time": "04:11",
+  "time": "08:11",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-23 04:11",
+  "updateTimeStr": "2026-05-23 08:11",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 381,
@@ -102,11 +102,11 @@
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Don't just paste the AI at me",
       "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "url": "https://dontquotetheai.com/",
       "pubTime": "2026-05-23",
       "score": 80
     }
