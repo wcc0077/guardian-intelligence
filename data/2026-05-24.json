@@ -1,124 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-24",
-  "time": "00:16",
+  "time": "12:15",
   "label": "LATEST BRIEFING",
-  "temperature": 78,
-  "updateTimeStr": "2026-05-24 00:16",
-  "sourceCount": 5,
-  "totalCount": 44,
-  "totalSignalsAll": 0,
-  "signalCount": 11,
+  "temperature": 88,
+  "updateTimeStr": "2026-05-24 12:15",
+  "sourceCount": 4,
+  "totalCount": 52,
+  "totalSignalsAll": 391,
+  "signalCount": 10,
   "signals": [
     {
-      "source": "36kr",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？",
-      "summary": "2026北京AI产业大会圆桌，探讨AI杀手级应用赛道",
-      "url": "https://36kr.com",
-      "score": 80,
       "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "36kr",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "当AI进入产业前线：未来最稀缺的AI人才，会是谁？",
-      "summary": "AI产业落地阶段的人才供需结构分析",
-      "url": "https://36kr.com",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "36kr",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "人才特种兵：'AI原生人才'与'产业老炮'的共生手册",
-      "summary": "AI原生人才与传统行业经验的融合路径",
-      "url": "https://36kr.com",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "36kr",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "北大项目孵化，国内首家原生机器人'大脑芯片'企业获数亿元融资",
-      "summary": "北大孵化的机器人核心芯片企业完成数亿元融资",
-      "url": "https://36kr.com",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "36kr",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "用AI来管公司，Moka推出三款AI HR工具",
-      "summary": "Moka发布AI驱动的HR管理工具矩阵",
-      "url": "https://36kr.com",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Linus Torvalds 谈 AI",
-      "summary": "Linux创始人对AI技术的最新观点",
-      "url": "",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: coding's future, the 'Steroid Olympics,' and AI",
-      "summary": "编码未来趋势与AI影响分析",
-      "url": "",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "Google I/O揭示AI驱动科研范式的转变",
-      "url": "",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
+      "summary": "Google I/O揭示AI驱动科学路径转变，DeepMind展望未来",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "pubTime": "2026-05-24",
+      "score": 88
     },
     {
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "圆桌讨论：AI能否真正理解世界",
-      "url": "",
-      "score": 80,
       "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "AI时代创造力的规模化扩展",
-      "url": "",
-      "score": 80,
-      "section": "highlights",
-      "pubTime": "2026-05-24"
-    },
-    {
-      "source": "36kr",
+      "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "AI浓度与转化率：数字体验的实战增长法则",
-      "summary": "AI浓度与数字体验转化率的实战关系",
-      "url": "https://36kr.com",
-      "score": 65,
-      "section": "deepDive",
-      "pubTime": "2026-05-24"
+      "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+      "summary": "北大孵化机器人芯片企业获数亿元融资，国内首家",
+      "url": "https://36kr.com/p/3821371042877575?f=rss",
+      "pubTime": "2026-05-24",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发混合光物质粒子驱动AI，或带来重大技术突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-24",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学实现人工神经元与活脑细胞成功通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-05-24",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI助化学家通过文字描述直接设计分子，实现科研突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-24",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA研发新型AI空间芯片，可实现航天器自主决策",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-05-24",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "圆桌讨论AI产品趋势：眼镜、Agent或物理世界入口",
+      "url": "https://36kr.com/p/3821714896408713?f=rss",
+      "pubTime": "2026-05-24",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Linus Torvalds 谈 AI",
+      "summary": "Torvalds认为AI正在重塑内核开发，但不会完全替代人类",
+      "url": "https://www.solidot.org/story?sid=84376",
+      "pubTime": "2026-05-24",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "summary": "Anthropic举办Code with Claude活动，展示AI编程工具未来发展趋势",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "pubTime": "2026-05-24",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子启发式算法突破，秒解材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-05-24",
+      "score": 75
     }
   ]
 }
