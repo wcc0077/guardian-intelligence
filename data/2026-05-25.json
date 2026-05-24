@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-25",
-  "time": "00:15",
+  "time": "04:08",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-05-25 00:15",
+  "temperature": 95,
+  "updateTimeStr": "2026-05-25 04:08",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 401,
@@ -15,27 +15,37 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "Google I/O展示AI驱动科学路径转变，DeepMind CEO演讲",
+      "summary": "Google I/O展示AI驱动科学新路径，DeepMind CEO揭示发展趋势",
       "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "pubTime": "2026-05-25",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary": "Anthropic举办Code with Claude活动展示AI编程工具未来发展趋势",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI技术突破：化学家可通过描述直接设计复杂分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-05-25",
-      "score": 85
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学实现人工神经元与活脑细胞成功通信，脑机接口技术获突破",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-05-25",
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发混合光物质粒子，可为AI提供动力",
+      "summary": "宾大研发光物质混合粒子，提升AI算力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-05-25",
       "score": 85
@@ -45,28 +55,38 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：数秒解决此前认为不可能的材料科学问题",
+      "summary": "新量子算法突破，几秒解决复杂材料计算难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-05-25",
-      "score": 82
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片，可让航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "圆桌探讨AI产品未来发展方向，聚焦杀手级应用赛道",
+      "url": "https://36kr.com/p/3821714896408713?f=rss",
       "pubTime": "2026-05-25",
-      "score": 78
+      "score": 75
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Linus Torvalds 谈 AI",
-      "summary": "Linus Torvalds在开源峰会谈AI对内核开发的影响",
-      "url": "https://www.solidot.org/story?sid=84376",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "AI+产业大会圆桌对话：探讨AI原生人才培养与产业老炮共生之道",
+      "url": "https://36kr.com/p/3821533415985283?f=rss",
+      "pubTime": "2026-05-25",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "summary": "MIT Tech Review探讨在线安全未来与气候技术重大转变趋势",
+      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
       "pubTime": "2026-05-25",
       "score": 75
     },
@@ -75,7 +95,7 @@
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "summary": "DeepSeek发布原生编码代理产品，主打高缓存低成本",
+      "summary": "DeepSeek发布原生编程Agent，高缓存低成本，V4 Pro永久降价",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "pubTime": "2026-05-25",
       "score": 75
@@ -84,31 +104,11 @@
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "研究揭示LLM代理在后端代码生成中的脆弱性约束衰减问题",
-      "url": "https://arxiv.org/abs/2605.06445",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "summary": "AI芯片成本结构变化，内存占比近三分之二",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "pubTime": "2026-05-25",
       "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "AI人格可操纵民主选举，引发治理担忧",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-05-25",
-      "score": 75
-    },
-    {
-      "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "GitHub 面临生存之战",
-      "summary": "GitHub面临生存危机，宕机安全问题频发，竞争对手压力增大",
-      "url": "https://www.solidot.org/story?sid=84375",
-      "pubTime": "2026-05-25",
-      "score": 70
     }
   ]
 }
