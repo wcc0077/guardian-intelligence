@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-25",
-  "time": "08:12",
+  "time": "12:07",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-25 08:12",
-  "sourceCount": 5,
+  "updateTimeStr": "2026-05-25 12:07",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 401,
   "signalCount": 10,
@@ -14,9 +14,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+      "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
       "summary": "",
-      "url": "https://36kr.com/p/3821714896408713?f=rss",
+      "url": "https://36kr.com/p/3824073646624899?f=rss",
       "pubTime": "2026-05-25",
       "score": 80
     },
@@ -24,9 +24,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+      "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
       "summary": "",
-      "url": "https://36kr.com/p/3821542483857801?f=rss",
+      "url": "https://36kr.com/p/3824053061652616?f=rss",
       "pubTime": "2026-05-25",
       "score": 80
     },
@@ -34,9 +34,19 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+      "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
       "summary": "",
-      "url": "https://36kr.com/p/3821533415985283?f=rss",
+      "url": "https://36kr.com/p/3819931562414467?f=rss",
+      "pubTime": "2026-05-25",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "从服务沉默玩家，到技术外溢至千行百业：游戏+AI的下一站是什么？",
+      "summary": "",
+      "url": "https://36kr.com/p/3822747968196993?f=rss",
       "pubTime": "2026-05-25",
       "score": 80
     },
@@ -97,16 +107,6 @@
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "summary": "",
       "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "pubTime": "2026-05-25",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-05-25",
       "score": 80
     }
