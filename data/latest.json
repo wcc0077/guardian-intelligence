@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-25",
-  "time": "04:08",
+  "time": "08:12",
   "label": "LATEST BRIEFING",
-  "temperature": 95,
-  "updateTimeStr": "2026-05-25 04:08",
-  "sourceCount": 4,
+  "temperature": 50,
+  "updateTimeStr": "2026-05-25 08:12",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 401,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "Google I/O展示AI驱动科学新路径，DeepMind CEO揭示发展趋势",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "",
+      "url": "https://36kr.com/p/3821714896408713?f=rss",
       "pubTime": "2026-05-25",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI技术突破：化学家可通过描述直接设计复杂分子",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-05-25",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活脑细胞成功通信，脑机接口技术获突破",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "pubTime": "2026-05-25",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，提升AI算力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-05-25",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法突破，几秒解决复杂材料计算难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-05-25",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "圆桌探讨AI产品未来发展方向，聚焦杀手级应用赛道",
-      "url": "https://36kr.com/p/3821714896408713?f=rss",
+      "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+      "summary": "",
+      "url": "https://36kr.com/p/3821542483857801?f=rss",
       "pubTime": "2026-05-25",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "AI+产业大会圆桌对话：探讨AI原生人才培养与产业老炮共生之道",
+      "summary": "",
       "url": "https://36kr.com/p/3821533415985283?f=rss",
       "pubTime": "2026-05-25",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Linus Torvalds 谈 AI",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84376",
+      "pubTime": "2026-05-25",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "summary": "MIT Tech Review探讨在线安全未来与气候技术重大转变趋势",
-      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
       "pubTime": "2026-05-25",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "summary": "DeepSeek发布原生编程Agent，高缓存低成本，V4 Pro永久降价",
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "pubTime": "2026-05-25",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "pubTime": "2026-05-25",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Scaling creativity in the age of AI",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "pubTime": "2026-05-25",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "AI芯片成本结构变化，内存占比近三分之二",
+      "summary": "",
       "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "pubTime": "2026-05-25",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-25",
+      "score": 80
     }
   ]
 }
