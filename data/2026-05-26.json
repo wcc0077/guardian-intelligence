@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-26",
-  "time": "04:08",
+  "time": "08:09",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-26 04:08",
+  "updateTimeStr": "2026-05-26 08:09",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 411,
@@ -12,103 +12,103 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
-      "summary": "",
-      "url": "https://36kr.com/p/3824601267196037?f=rss",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "Google I/O揭示AI驱动科学研究路径转变，DeepMind CEO Hassabis主讲",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "pubTime": "2026-05-26",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3824164325412992?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学实现人工神经元与活脑细胞成功通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-05-26",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3824158896312709?f=rss",
-      "pubTime": "2026-05-26",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "",
-      "url": "https://36kr.com/p/3824154127093892?f=rss",
-      "pubTime": "2026-05-26",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "HBM 成本占到了 AI 芯片组件成本的三分之二",
-      "summary": "",
+      "summary": "分析显示HBM内存占AI芯片组件成本63%，反映供应链关键环节",
       "url": "https://www.solidot.org/story?sid=84396",
       "pubTime": "2026-05-26",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾州大学研发光物质混合粒子助力AI算力突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-26",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：几秒解决材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-05-26",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI让化学家仅凭描述即可设计复杂分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-26",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
+      "summary": "TomTom称中国辅助驾驶订单暴增10倍，助力中国车企出海",
+      "url": "https://36kr.com/p/3820241871409543?f=rss",
+      "pubTime": "2026-05-26",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "科学家破解烟草合成尼古丁之谜",
+      "summary": "科学家首次破解烟草合成尼古丁分子机制，发表在Nature期刊",
+      "url": "https://www.solidot.org/story?sid=84390",
+      "pubTime": "2026-05-26",
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "summary": "",
+      "summary": "MIT Tech Review探讨编程未来与AI驱动科学趋势",
       "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
       "pubTime": "2026-05-26",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "pubTime": "2026-05-26",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Roundtables: Can AI Learn to Understand the World?",
-      "summary": "",
+      "summary": "MIT Tech Review圆桌讨论AI公司探讨构建理解世界的系统",
       "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
       "pubTime": "2026-05-26",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Scaling creativity in the age of AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "pubTime": "2026-05-26",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "summary": "",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "pubTime": "2026-05-26",
-      "score": 80
+      "score": 75
     }
   ]
 }
