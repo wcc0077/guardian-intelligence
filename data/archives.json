@@ -1,10 +1,18 @@
 [
   {
+    "date": "2026-05-27",
+    "time": "00:16",
+    "filename": "2026-05-27.json",
+    "title": "AI科技情报简报 · 2026-05-27",
+    "temperature": 88,
+    "signalCount": 10
+  },
+  {
     "date": "2026-05-26",
-    "time": "20:14",
+    "time": "20:17",
     "filename": "2026-05-26.json",
     "title": "AI科技情报简报 · 2026-05-26",
-    "temperature": 50,
+    "temperature": 88,
     "signalCount": 10
   },
   {
