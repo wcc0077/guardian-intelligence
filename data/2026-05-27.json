@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-27",
-  "time": "16:12",
+  "time": "20:13",
   "label": "LATEST BRIEFING",
-  "temperature": 78,
-  "updateTimeStr": "2026-05-27 16:12",
+  "temperature": 95,
+  "updateTimeStr": "2026-05-27 20:13",
   "sourceCount": 4,
-  "totalCount": 40,
-  "totalSignalsAll": 10,
+  "totalCount": 52,
+  "totalSignalsAll": 421,
   "signalCount": 10,
   "signals": [
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新型量子算法在几秒内解决超难材料问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-05-27",
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+      "summary": "大模型API成本骤降超80%，产业竞争转向实际场景价值",
+      "url": "https://36kr.com/p/3826932509364869?f=rss",
+      "pubTime": "2026-05-27",
+      "score": 88
+    },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
-      "summary": "",
+      "summary": "报道硅谷AI军备竞赛升温，Meta等大厂焦虑Token投入竞争",
       "url": "https://36kr.com/p/3826390617870984?f=rss",
+      "pubTime": "2026-05-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "荷兰阻止美国公司收购其重要数字供应商",
+      "summary": "荷兰阻止Kyndryl收购荷兰云服务商Solvinity，保护关键数字基础设施",
+      "url": "https://www.solidot.org/story?sid=84412",
+      "pubTime": "2026-05-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "Google I/O揭示AI驱动科学路径新变化",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "pubTime": "2026-05-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可显著提升AI处理能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI让化学家仅描述即可设计分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+      "summary": "95后创立AI母婴智能硬件品牌Coddie，获融资专注智能育儿",
+      "url": "https://36kr.com/p/3826922264286083?f=rss",
+      "pubTime": "2026-05-27",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Google 转型 AI 搜索之后 DuckDuckGo 安装量上涨最高三成",
+      "summary": "Google转型AI搜索引用户反感，DuckDuckGo安装量涨三成",
+      "url": "https://www.solidot.org/story?sid=84415",
       "pubTime": "2026-05-27",
       "score": 75
     },
     {
-      "section": "deepDive",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3826922264286083?f=rss",
-      "pubTime": "2026-05-27",
-      "score": 70
-    },
-    {
-      "section": "deepDive",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
-      "summary": "",
-      "url": "https://36kr.com/p/3826385821192841?f=rss",
-      "pubTime": "2026-05-27",
-      "score": 70
-    },
-    {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "",
-      "url": "",
-      "pubTime": "2026-05-27",
-      "score": 70
-    },
-    {
-      "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org",
-      "title": "教宗的首份通谕被怀疑部分是在 AI 帮助下撰写的",
-      "summary": "",
-      "url": "",
-      "pubTime": "2026-05-27",
-      "score": 65
-    },
-    {
-      "section": "deepDive",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org",
-      "title": "在内存天价时代 Meta 更新了 CacheLib 项目",
-      "summary": "",
-      "url": "",
-      "pubTime": "2026-05-27",
-      "score": 65
-    },
-    {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com",
-      "title": "The Download: puncturing the AI jobs panic",
-      "summary": "",
-      "url": "",
-      "pubTime": "2026-05-27",
-      "score": 65
-    },
-    {
-      "section": "deepDive",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com",
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "",
-      "url": "",
-      "pubTime": "2026-05-27",
-      "score": 65
-    },
-    {
-      "section": "deepDive",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "",
-      "url": "",
-      "pubTime": "2026-05-27",
-      "score": 65
-    },
-    {
-      "section": "deepDive",
-      "source": "ScienceDaily",
+      "section": "highlights",
+      "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "",
-      "url": "",
+      "summary": "NASA测试新一代AI空间芯片，可使航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-05-27",
-      "score": 63
+      "score": 75
     }
   ]
 }
