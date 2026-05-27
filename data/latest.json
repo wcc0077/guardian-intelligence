@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-27",
-  "time": "08:14",
+  "time": "16:12",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-05-27 08:14",
-  "sourceCount": 5,
-  "totalCount": 52,
-  "totalSignalsAll": 421,
+  "temperature": 78,
+  "updateTimeStr": "2026-05-27 16:12",
+  "sourceCount": 4,
+  "totalCount": 40,
+  "totalSignalsAll": 10,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法秒破不可能材料难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-05-27",
-      "score": 95
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权",
-      "summary": "我国人形机器人市占超八成；三星允员工用外部AI；字节Seed开放豆包股认购",
-      "url": "https://36kr.com/p/3825928694846085?f=rss",
+      "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+      "summary": "",
+      "url": "https://36kr.com/p/3826390617870984?f=rss",
       "pubTime": "2026-05-27",
-      "score": 88
+      "score": 75
     },
     {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Uber COO 称愈来愈难以证明最大化词元花的钱是合理的",
-      "summary": "Uber高管质疑AI投资回报，科技行业AI支出引担忧",
-      "url": "https://www.solidot.org/story?sid=84404",
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3826922264286083?f=rss",
       "pubTime": "2026-05-27",
-      "score": 88
+      "score": 70
     },
     {
-      "section": "highlights",
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+      "summary": "",
+      "url": "https://36kr.com/p/3826385821192841?f=rss",
+      "pubTime": "2026-05-27",
+      "score": 70
+    },
+    {
+      "section": "deepDive",
       "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "sourceUrl": "https://www.technologyreview.com",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "Google I/O展示AI驱动科学路径转变，DeepMind CEO展望未来",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "summary": "",
+      "url": "",
       "pubTime": "2026-05-27",
-      "score": 88
+      "score": 70
     },
     {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
+      "section": "deepDive",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org",
+      "title": "教宗的首份通谕被怀疑部分是在 AI 帮助下撰写的",
+      "summary": "",
+      "url": "",
+      "pubTime": "2026-05-27",
+      "score": 65
+    },
+    {
+      "section": "deepDive",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org",
+      "title": "在内存天价时代 Meta 更新了 CacheLib 项目",
+      "summary": "",
+      "url": "",
+      "pubTime": "2026-05-27",
+      "score": 65
+    },
+    {
+      "section": "deepDive",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "title": "The Download: puncturing the AI jobs panic",
+      "summary": "",
+      "url": "",
+      "pubTime": "2026-05-27",
+      "score": 65
+    },
+    {
+      "section": "deepDive",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com",
+      "title": "A reality check on the AI jobs hysteria",
+      "summary": "",
+      "url": "",
+      "pubTime": "2026-05-27",
+      "score": 65
+    },
+    {
+      "section": "deepDive",
+      "source": "ScienceDaily",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活体脑细胞成功通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "",
+      "url": "",
       "pubTime": "2026-05-27",
-      "score": 88
+      "score": 65
     },
     {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "营销内容从“用AI”到“管AI”的10倍提效| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "AI营销应用大会报道，集思科技数字人直播案例，60亿GMV实战成绩",
-      "url": "https://36kr.com/p/3824179485233541?f=rss",
-      "pubTime": "2026-05-27",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
+      "section": "deepDive",
+      "source": "ScienceDaily",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "AI生成逼真人格可能操纵民主制度，引发安全担忧",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "",
+      "url": "",
       "pubTime": "2026-05-27",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] MemPalace/mempalace ⭐52877",
-      "summary": "开源AI内存系统MemPalace发布，GitHub获52877星标",
-      "url": "https://github.com/MemPalace/mempalace",
-      "pubTime": "2026-05-27",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "机器人启蒙，需要一所能“犯错”的幼儿园",
-      "summary": "强化学习奠基人萨顿与导师巴托获2024年图灵奖",
-      "url": "https://36kr.com/p/3825969453699970?f=rss",
-      "pubTime": "2026-05-27",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用",
-      "summary": "天工AI发布高性能Agent模型SkyClaw-v1.0及轻量化版本",
-      "url": "https://36kr.com/p/3825882266407815?f=rss",
-      "pubTime": "2026-05-27",
-      "score": 75
+      "score": 63
     }
   ]
 }
