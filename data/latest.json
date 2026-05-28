@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-28",
-  "time": "08:13",
+  "time": "16:14",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-05-28 08:13",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-05-28 16:14",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 431,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
-      "summary": "",
-      "url": "https://36kr.com/p/3828191630348934?f=rss",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "summary": "Google I/O揭示AI驱动科学新路径DeepMindCEO展望未来",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "pubTime": "2026-05-28",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "腾讯游戏的One More Thing，是AI",
-      "summary": "",
-      "url": "https://36kr.com/p/3827658881323649?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA研发AI空间芯片，可让航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-05-28",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
-      "summary": "",
+      "summary": "高盛上调标普500至8000点受AI推动，可灵AI ARR近5亿美元增4倍",
       "url": "https://36kr.com/p/3827497128465287?f=rss",
       "pubTime": "2026-05-28",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "科学家用鼻喷剂逆转大脑老化",
+      "summary": "德州农工科学家用鼻喷剂逆转大脑衰老，突破性医学技术进展",
+      "url": "https://www.solidot.org/story?sid=84418",
+      "pubTime": "2026-05-28",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "YouTube to automatically label AI-generated videos",
+      "summary": "YouTube将自动标记AI生成视频，涉及内容平台AI监管新政策",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "pubTime": "2026-05-28",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "summary": "新型Eureka机器模仿自然，突破AI局限",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "pubTime": "2026-05-28",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学工程师成功让人工神经元与活脑细胞通信，实现脑机接口新突破",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-05-28",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+      "summary": "AI内容共创平台FunloomAI获数千万Pre-A轮融资",
+      "url": "https://36kr.com/p/3827585618154118?f=rss",
+      "pubTime": "2026-05-28",
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
-      "summary": "",
+      "summary": "大模型API成本骤降80%，AI产业竞争转向场景落地降本增效",
       "url": "https://36kr.com/p/3826932509364869?f=rss",
       "pubTime": "2026-05-28",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
-      "summary": "",
+      "summary": "95后创立AI母婴智能硬件品牌Coddie，获融资望成母婴界特斯拉",
       "url": "https://36kr.com/p/3826922264286083?f=rss",
       "pubTime": "2026-05-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
-      "summary": "",
-      "url": "https://36kr.com/p/3826390617870984?f=rss",
-      "pubTime": "2026-05-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google 转型 AI 搜索之后 DuckDuckGo 安装量上涨最高三成",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84415",
-      "pubTime": "2026-05-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "教宗的首份通谕被怀疑部分是在 AI 帮助下撰写的",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84411",
-      "pubTime": "2026-05-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "pubTime": "2026-05-28",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "pubTime": "2026-05-28",
-      "score": 80
+      "score": 75
     }
   ]
 }
