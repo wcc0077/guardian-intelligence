@@ -1,32 +1,32 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-28",
-  "time": "16:14",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-05-28 16:14",
-  "sourceCount": 5,
+  "temperature": 88,
+  "updateTimeStr": "2026-05-28 20:06",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 431,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "summary": "Google I/O揭示AI驱动科学新路径DeepMindCEO展望未来",
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，或将革新AI计算",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-05-28",
-      "score": 88
+      "score": 92
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA研发AI空间芯片，可让航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI技术突破：化学家可通过描述直接设计复杂分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-05-28",
       "score": 88
     },
@@ -34,49 +34,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
-      "summary": "高盛上调标普500至8000点受AI推动，可灵AI ARR近5亿美元增4倍",
-      "url": "https://36kr.com/p/3827497128465287?f=rss",
-      "pubTime": "2026-05-28",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "科学家用鼻喷剂逆转大脑老化",
-      "summary": "德州农工科学家用鼻喷剂逆转大脑衰老，突破性医学技术进展",
-      "url": "https://www.solidot.org/story?sid=84418",
-      "pubTime": "2026-05-28",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "YouTube to automatically label AI-generated videos",
-      "summary": "YouTube将自动标记AI生成视频，涉及内容平台AI监管新政策",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "pubTime": "2026-05-28",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "summary": "新型Eureka机器模仿自然，突破AI局限",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "pubTime": "2026-05-28",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学工程师成功让人工神经元与活脑细胞通信，实现脑机接口新突破",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
+      "summary": "微博Q1营收4.21亿美元；科大讯飞发布AI眼镜；日企AstroX气球发射火箭",
+      "url": "https://36kr.com/p/3828874222555782?f=rss",
       "pubTime": "2026-05-28",
       "score": 85
     },
@@ -85,28 +45,68 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
-      "summary": "AI内容共创平台FunloomAI获数千万Pre-A轮融资",
+      "summary": "AI内容共创平台FunloomAI获数千万元Pre-A轮融资",
       "url": "https://36kr.com/p/3827585618154118?f=rss",
       "pubTime": "2026-05-28",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
-      "summary": "大模型API成本骤降80%，AI产业竞争转向场景落地降本增效",
-      "url": "https://36kr.com/p/3826932509364869?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA研发AI空间芯片，可使航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-05-28",
-      "score": 75
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法几秒内解决材料科学难题实现突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-05-28",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "美国西北大学成功实现人工神经元与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-05-28",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
-      "summary": "95后创立AI母婴智能硬件品牌Coddie，获融资望成母婴界特斯拉",
-      "url": "https://36kr.com/p/3826922264286083?f=rss",
+      "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
+      "summary": "雷神联合AMD发布三大形态AI工作站产品矩阵",
+      "url": "https://36kr.com/p/3828898785858185?f=rss",
+      "pubTime": "2026-05-28",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "YouTube to automatically label AI-generated videos",
+      "summary": "YouTube将自动标记AI生成视频，提升内容透明度",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "pubTime": "2026-05-28",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
+      "summary": "智象未来CEO梅涛表示多模态模型Token毛利率高于语言模型，押注具身智能和世界模型",
+      "url": "https://36kr.com/p/3820602297208966?f=rss",
       "pubTime": "2026-05-28",
       "score": 75
     }
