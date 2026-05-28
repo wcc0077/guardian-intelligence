@@ -1,114 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-29",
-  "time": "00:06",
+  "time": "04:05",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-05-29 00:06",
-  "sourceCount": 4,
+  "temperature": 50,
+  "updateTimeStr": "2026-05-29 04:05",
+  "sourceCount": 2,
   "totalCount": 52,
   "totalSignalsAll": 441,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可大幅提升AI计算能力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+      "summary": "",
+      "url": "https://36kr.com/p/3828915666441090?f=rss",
       "pubTime": "2026-05-29",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活脑细胞成功通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "pubTime": "2026-05-29",
-      "score": 88
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
-      "summary": "雷神联合AMD发布三大形态AI工作站产品矩阵，业内首批",
+      "summary": "",
       "url": "https://36kr.com/p/3828898785858185?f=rss",
       "pubTime": "2026-05-29",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
-      "summary": "快手一季度财报显示可灵AI成第二增长曲线，凸显AI应用趋势",
-      "url": "https://36kr.com/p/3828915666441090?f=rss",
-      "pubTime": "2026-05-29",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Temu 因违反 DSA 被欧盟罚款 2 亿欧元",
-      "summary": "欧盟对Temu处以2亿欧元罚款，因违反DSA监管法规",
-      "url": "https://www.solidot.org/story?sid=84428",
-      "pubTime": "2026-05-29",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Your “um” and pauses could reveal early dementia risk",
-      "summary": "AI通过语音停顿检测早发痴呆风险",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
-      "pubTime": "2026-05-29",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI技术突破：化学家可通过描述直接设计复杂分子",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-05-29",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "YouTube to automatically label AI-generated videos",
-      "summary": "YouTube将自动标记AI生成视频，涉及AI内容识别技术趋势",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "pubTime": "2026-05-29",
-      "score": 78
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
-      "summary": "科大讯飞发布AI眼镜，微博Q1营收增长6%，格林生物IPO过会",
+      "summary": "",
       "url": "https://36kr.com/p/3828874222555782?f=rss",
       "pubTime": "2026-05-29",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
-      "summary": "智象未来CEO梅涛谈多模态模型Token毛利率高于语言模型，涉足了具身智能和世界模型发展趋势。",
-      "url": "https://36kr.com/p/3820602297208966?f=rss",
+      "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
+      "summary": "",
+      "url": "https://36kr.com/p/3828851140350592?f=rss",
       "pubTime": "2026-05-29",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3820713545846917?f=rss",
+      "pubTime": "2026-05-29",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3827585618154118?f=rss",
+      "pubTime": "2026-05-29",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "pubTime": "2026-05-29",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "pubTime": "2026-05-29",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "pubTime": "2026-05-29",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "pubTime": "2026-05-29",
+      "score": 80
     }
   ]
 }
