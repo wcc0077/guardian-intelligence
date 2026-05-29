@@ -1,82 +1,52 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-30",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-05-30 00:06",
-  "sourceCount": 5,
+  "temperature": 88,
+  "updateTimeStr": "2026-05-30 04:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 451,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活脑细胞通信，AI神经科学突破",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Anthropic 估值首次超过 OpenAI",
+      "summary": "Anthropic融资650亿美元，估值9650亿美元，首超OpenAI",
+      "url": "https://www.solidot.org/story?sid=84434",
       "pubTime": "2026-05-30",
-      "score": 88
+      "score": 95
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
-      "summary": "联想创投等入股诺仕机器人，苹果WWDC将展示端侧AI能力",
+      "summary": "联想创投入股诺仕机器人，苹果WWDC展示端侧AI能力",
       "url": "https://36kr.com/p/3830194503526277?f=rss",
       "pubTime": "2026-05-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Anthropic 估值首次超过 OpenAI",
-      "summary": "Anthropic完成650亿美元融资，估值达9650亿美元，首次超越OpenAI",
-      "url": "https://www.solidot.org/story?sid=84434",
-      "pubTime": "2026-05-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "summary": "GPU实时LLM推理突破，单请求速度达3000 tokens/s",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "pubTime": "2026-05-30",
-      "score": 85
+      "score": 92
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "研发混合光物质粒子，助力AI算力突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "人工神经元成功与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-05-30",
-      "score": 85
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破！秒解此前被认为不可能的材料科学难题",
+      "summary": "量子算法突破：几秒解决材料科学难题，标志计算新里程碑",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-05-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "summary": "新锂提取技术突破与埃博拉防控最新研究进展",
-      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
       "pubTime": "2026-05-30",
       "score": 80
     },
@@ -84,19 +54,19 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
-      "summary": "穿越者载人航天获亿元Pre-A轮融资，头部互联网战投入局",
-      "url": "https://36kr.com/p/3830254963517318?f=rss",
+      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+      "summary": "吉利辅助驾驶团队将整合入千里科技，助力其成为第二个华为",
+      "url": "https://36kr.com/p/3830580716365449?f=rss",
       "pubTime": "2026-05-30",
-      "score": 75
+      "score": 78
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Temu 因违反 DSA 被欧盟罚款 2 亿欧元",
-      "summary": "欧盟依据DSA对Temu罚款2亿欧元，涉平台假冒商品监管",
-      "url": "https://www.solidot.org/story?sid=84428",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "summary": "Liquid AI发布8B-A1B混合专家模型",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
       "pubTime": "2026-05-30",
       "score": 75
     },
@@ -105,10 +75,40 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可使航天器自主思考",
+      "summary": "NASA测试新一代AI空间芯片，可赋予航天器自主思考能力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-05-30",
       "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，为AI提供新动力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-30",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI技术突破：化学家可通过语言描述直接设计复杂分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-30",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "英伟达税",
+      "summary": "英伟达控制81%数据中心AI芯片市场，影响居民电费",
+      "url": "https://www.solidot.org/story?sid=84438",
+      "pubTime": "2026-05-30",
+      "score": 70
     }
   ]
 }
