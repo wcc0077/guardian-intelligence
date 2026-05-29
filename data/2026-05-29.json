@@ -1,32 +1,92 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-29",
-  "time": "04:05",
+  "time": "08:13",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-05-29 04:05",
-  "sourceCount": 2,
+  "temperature": 88,
+  "updateTimeStr": "2026-05-29 08:13",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 441,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
-      "summary": "",
-      "url": "https://36kr.com/p/3828915666441090?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI助化学家通过描述设计分子，实现科研突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-05-29",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
-      "summary": "",
-      "url": "https://36kr.com/p/3828898785858185?f=rss",
+      "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
+      "summary": "智象未来CEO梅涛：多模态模型Token毛利率高于语言模型",
+      "url": "https://36kr.com/p/3820602297208966?f=rss",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "summary": "新提取技术或大幅提升全球锂供应",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法秒解材料难题，实现突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "美国宇航局研发AI芯片，可使航天器自主决策",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "黄仁勋将成为最新一位加入清华经管顾问委员会的美国企业高管",
+      "summary": "英伟达CEO黄仁勋加入清华经管顾问委员会，显示科技巨头重视中国市场",
+      "url": "https://www.solidot.org/story?sid=84425",
+      "pubTime": "2026-05-29",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学成功实现人工神经元与活体脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-05-29",
       "score": 80
     },
@@ -35,80 +95,20 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
-      "summary": "",
+      "summary": "科大讯飞发布AI眼镜，日本AstroX气球发射火箭，微博Q1营收4.2亿美元",
       "url": "https://36kr.com/p/3828874222555782?f=rss",
       "pubTime": "2026-05-29",
-      "score": 80
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
-      "summary": "",
-      "url": "https://36kr.com/p/3828851140350592?f=rss",
+      "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+      "summary": "快手一季度财报显示可灵AI成第二增长曲线，AI应用获成效",
+      "url": "https://36kr.com/p/3828915666441090?f=rss",
       "pubTime": "2026-05-29",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "前逸动员工创立消费级智能船艇公司，半年内再获新融资｜硬氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3820713545846917?f=rss",
-      "pubTime": "2026-05-29",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "AI内容共创平台「FunloomAI」再获数千万Pre-A轮融资，让创作回归创意本身 | 36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3827585618154118?f=rss",
-      "pubTime": "2026-05-29",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "pubTime": "2026-05-29",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The AI Hype Index: AI gets booed in graduation season",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "pubTime": "2026-05-29",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "pubTime": "2026-05-29",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-      "pubTime": "2026-05-29",
-      "score": 80
+      "score": 75
     }
   ]
 }
