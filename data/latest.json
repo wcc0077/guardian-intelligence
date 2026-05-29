@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-29",
-  "time": "16:06",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-05-29 16:06",
-  "sourceCount": 4,
+  "temperature": 76,
+  "updateTimeStr": "2026-05-29 20:06",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 441,
   "signalCount": 10,
@@ -14,9 +14,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒解决材料科学难题，突破技术极限",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "科学家实现人工神经元与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-05-29",
       "score": 95
     },
@@ -25,7 +25,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，显著提升AI算力",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子助力AI",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-05-29",
       "score": 90
@@ -34,9 +34,59 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
-      "summary": "Anthropic融资650亿估值9650亿超OpenAI，黄仁勋任清华顾问",
-      "url": "https://36kr.com/p/3829622140593288?f=rss",
+      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+      "summary": "联想创投等入股诺仕机器人，苹果WWDC将展示端侧AI能力",
+      "url": "https://36kr.com/p/3830194503526277?f=rss",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Anthropic 估值首次超过 OpenAI",
+      "summary": "Anthropic完成650亿美元融资，估值达9650亿美元，首次超越OpenAI。",
+      "url": "https://www.solidot.org/story?sid=84434",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "开源项目被发现包含了针对 AI 的删除代码指令",
+      "summary": "开源库jqwik发现AI隐藏指令，可操纵AI删除代码",
+      "url": "https://www.solidot.org/story?sid=84430",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "summary": "新提锂技术或提升锂资源供给",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "summary": "企业级AI代理崛起，需重新设计组织架构以适应技术变革",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "pubTime": "2026-05-29",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "summary": "标准GPU实现LLM实时推理，突破3k tokens/秒性能",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
       "pubTime": "2026-05-29",
       "score": 85
     },
@@ -44,9 +94,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活脑细胞成功通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新型量子算法突破，秒解材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-05-29",
       "score": 85
     },
@@ -55,60 +105,10 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述设计分子，属技术突破",
+      "summary": "AI助化学家通过描述设计分子，技术突破显著",
       "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-05-29",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
-      "summary": "清华毕业生获千万融资，脑机接口切入运动场景监测",
-      "url": "https://36kr.com/p/3827323136004992?f=rss",
-      "pubTime": "2026-05-29",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "开源项目被发现包含了针对 AI 的删除代码指令",
-      "summary": "开源库jqwik代码中发现AI隐藏指令，引发AI安全担忧",
-      "url": "https://www.solidot.org/story?sid=84430",
-      "pubTime": "2026-05-29",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Temu 因违反 DSA 被欧盟罚款 2 亿欧元",
-      "summary": "Temu违反欧盟DSA法规被罚2亿欧元，系平台监管处罚",
-      "url": "https://www.solidot.org/story?sid=84428",
-      "pubTime": "2026-05-29",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "黄仁勋将成为最新一位加入清华经管顾问委员会的美国企业高管",
-      "summary": "英伟达CEO黄仁勋加入清华经管顾问委员会，反映中美科技关系",
-      "url": "https://www.solidot.org/story?sid=84425",
-      "pubTime": "2026-05-29",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Climate tech companies are going public. What’s next?",
-      "summary": "气候科技公司今年掀上市潮，反映能源科技投资趋势",
-      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-      "pubTime": "2026-05-29",
-      "score": 75
+      "score": 85
     }
   ]
 }
