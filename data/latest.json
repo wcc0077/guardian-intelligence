@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-30",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 82,
-  "updateTimeStr": "2026-05-30 12:06",
+  "temperature": 92,
+  "updateTimeStr": "2026-05-30 16:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 451,
@@ -14,31 +14,11 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活脑细胞通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新型量子算法几秒破解不可能材料问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-05-30",
       "score": 95
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
-      "summary": "联想创投等入股诺仕机器人，苹果WWDC将展示端侧AI能力",
-      "url": "https://36kr.com/p/3830194503526277?f=rss",
-      "pubTime": "2026-05-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "科学家利用量子贝尔装置生成完美随机性",
-      "summary": "科学家首次利用量子贝尔装置生成经过证明的完美随机性",
-      "url": "https://www.solidot.org/story?sid=84435",
-      "pubTime": "2026-05-30",
-      "score": 85
     },
     {
       "section": "highlights",
@@ -48,15 +28,15 @@
       "summary": "Anthropic以9650亿美元估值融资650亿美元，首次超越OpenAI",
       "url": "https://www.solidot.org/story?sid=84434",
       "pubTime": "2026-05-30",
-      "score": 85
+      "score": 92
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "summary": "气候科技公司上市，AI hype指数回升",
-      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+      "summary": "联想创投入股诺仕机器人，苹果WWDC展示端侧AI能力",
+      "url": "https://36kr.com/p/3830194503526277?f=rss",
       "pubTime": "2026-05-30",
       "score": 85
     },
@@ -65,7 +45,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发混合光物质粒子，可用于AI硬件驱动",
+      "summary": "宾大研发光物质混合粒子，可大幅提升AI硬件性能",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-05-30",
       "score": 85
@@ -74,39 +54,59 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：几秒内解决此前不可能的材料科学问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "科学家成功让人工神经元与活脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-05-30",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "AI人物或操纵民主，需警惕",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
-      "pubTime": "2026-05-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA研发AI空间芯片，可使航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-05-30",
-      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
-      "summary": "吉利辅助驾驶团队将整合入千里科技，助力其成为",
-      "url": "https://36kr.com/p/3830580716365449?f=rss",
+      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
+      "summary": "载人航天公司获亿元融资，头部互联网战投入局",
+      "url": "https://36kr.com/p/3830254963517318?f=rss",
+      "pubTime": "2026-05-30",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "英伟达税",
+      "summary": "英伟达控制81%数据中心AI芯片市场，居民电费部分支付英伟达税",
+      "url": "https://www.solidot.org/story?sid=84438",
+      "pubTime": "2026-05-30",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Flathub 禁止 AI 生成的应用",
+      "summary": "Linux应用商店Flathub禁止AI生成应用上架",
+      "url": "https://www.solidot.org/story?sid=84437",
+      "pubTime": "2026-05-30",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "科学家利用量子贝尔装置生成完美随机性",
+      "summary": "科学家首次利用量子贝尔装置生成经过证明的完美随机性",
+      "url": "https://www.solidot.org/story?sid=84435",
+      "pubTime": "2026-05-30",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "summary": "MIT研发新锂提取技术，有望缓解电动车电池原材料供应",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
       "pubTime": "2026-05-30",
       "score": 75
     }
