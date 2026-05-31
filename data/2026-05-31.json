@@ -1,13 +1,114 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-31",
-  "time": "12:05",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-05-31 12:05",
-  "sourceCount": 0,
+  "temperature": 92,
+  "updateTimeStr": "2026-05-31 16:06",
+  "sourceCount": 4,
   "totalCount": 52,
-  "totalSignalsAll": 451,
-  "signalCount": 0,
-  "signals": []
+  "totalSignalsAll": 461,
+  "signalCount": 10,
+  "signals": [
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法秒解材料难题，突破技术瓶颈。",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-05-31",
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+      "summary": "吉利辅助驾驶团队将整合入千里科技，助力其智能化发展",
+      "url": "https://36kr.com/p/3830580716365449?f=rss",
+      "pubTime": "2026-05-31",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "科学家利用量子贝尔装置生成完美随机性",
+      "summary": "科学家首次利用量子贝尔装置生成经过证明的完美随机性",
+      "url": "https://www.solidot.org/story?sid=84435",
+      "pubTime": "2026-05-31",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
+      "summary": "穿越者载人航天获亿元Pre-A轮融资，头部互联网战投领投",
+      "url": "https://36kr.com/p/3830254963517318?f=rss",
+      "pubTime": "2026-05-31",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+      "summary": "乘物机器人完成天使轮融资，服务富士康，半年营收超两千万",
+      "url": "https://36kr.com/p/3831135917107075?f=rss",
+      "pubTime": "2026-05-31",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
+      "summary": "联想创投入股诺仕机器人，苹果WWDC将展示端侧AI能力",
+      "url": "https://36kr.com/p/3830194503526277?f=rss",
+      "pubTime": "2026-05-31",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "英伟达税",
+      "summary": "英伟达控制81%数据中心AI芯片市场，引发电费\\",
+      "url": "https://www.solidot.org/story?sid=84438",
+      "pubTime": "2026-05-31",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "summary": "MIT研发新锂提取技术，或将改变全球锂资源供应格局",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+      "pubTime": "2026-05-31",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA研发新型AI太空芯片，可使航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-05-31",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI助化学家通过描述设计分子，实现科研突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-05-31",
+      "score": 75
+    }
+  ]
 }
