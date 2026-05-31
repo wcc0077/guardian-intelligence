@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-05-31",
-  "time": "08:08",
+  "time": "12:05",
   "label": "LATEST BRIEFING",
-  "temperature": 95,
-  "updateTimeStr": "2026-05-31 08:08",
-  "sourceCount": 4,
+  "temperature": 50,
+  "updateTimeStr": "2026-05-31 12:05",
+  "sourceCount": 0,
   "totalCount": 52,
-  "totalSignalsAll": 461,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，提升AI算力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-05-31",
-      "score": 95
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
-      "summary": "联想创投等入股诺仕机器人，苹果WWDC将展示端侧AI能力",
-      "url": "https://36kr.com/p/3830194503526277?f=rss",
-      "pubTime": "2026-05-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "科学家利用量子贝尔装置生成完美随机性",
-      "summary": "科学家首次利用量子贝尔装置生成经过证明的完美随机性",
-      "url": "https://www.solidot.org/story?sid=84435",
-      "pubTime": "2026-05-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "summary": "解锁锂资源与控制埃博拉的新技术",
-      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
-      "pubTime": "2026-05-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "summary": "气候科技公司上市，AI热度指数回归",
-      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "pubTime": "2026-05-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How a new extraction process could unlock the world’s lithium",
-      "summary": "新提取技术可大幅提升锂产量",
-      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
-      "pubTime": "2026-05-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学工程师实现人工神经元与活体脑细胞通信，是脑机接口领域重大突破",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "pubTime": "2026-05-31",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：秒解此前不可能的材料科学问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-05-31",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
-      "summary": "中科创星举办太空智驾沙龙，探讨卫星自主决策技术趋势",
-      "url": "https://36kr.com/p/3831071878358659?f=rss",
-      "pubTime": "2026-05-31",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
-      "summary": "穿越者载人航天公司获亿元Pre-A轮融资，头部互联网战投领投",
-      "url": "https://36kr.com/p/3830254963517318?f=rss",
-      "pubTime": "2026-05-31",
-      "score": 75
-    }
-  ]
+  "totalSignalsAll": 451,
+  "signalCount": 0,
+  "signals": []
 }
