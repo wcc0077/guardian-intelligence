@@ -1,42 +1,82 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-01",
-  "time": "16:06",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
   "temperature": 88,
-  "updateTimeStr": "2026-06-01 16:06",
-  "sourceCount": 3,
+  "updateTimeStr": "2026-06-01 20:06",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 471,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "summary": "中国批准全球首个侵入式脑机接口芯片",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "pubTime": "2026-06-01",
+      "score": 92
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Nvidia announces new AI chip for personal computers",
+      "summary": "英伟达发布面向PC的新型AI芯片",
+      "url": "https://www.bbc.com/news/articles/crmp9mppvzro",
+      "pubTime": "2026-06-01",
+      "score": 90
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI让化学家仅凭描述即可设计分子",
+      "summary": "人工智能助化学家描述设计分子，实现重大突破",
       "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-06-01",
-      "score": 95
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
-      "summary": "MiniMax拟科创板上市，OpenAI攻克数学难题",
-      "url": "https://36kr.com/p/3833859545343618?f=rss",
+      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
+      "summary": "中国国新等在杭州设10亿创投基金，天津AI传感器产业园开园，浙江推星火计划发展量子技术",
+      "url": "https://36kr.com/p/3834354415347337?f=rss",
       "pubTime": "2026-06-01",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可显著提升AI计算性能",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
+      "summary": "秋水半导体获2亿融资，用无损Micro-LED促AI眼镜全彩化",
+      "url": "https://36kr.com/p/3834427736024965?f=rss",
+      "pubTime": "2026-06-01",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
+      "summary": "清华00后团队获数千万融资，解决AI Token账单焦虑问题",
+      "url": "https://36kr.com/p/3834310434875011?f=rss",
+      "pubTime": "2026-06-01",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "AOMedia 发布 AV2 规范",
+      "summary": "AOMedia发布AV2规范，多家科技巨头联合推出新一代视频编码标准",
+      "url": "https://www.solidot.org/story?sid=84452",
       "pubTime": "2026-06-01",
       "score": 85
     },
@@ -45,7 +85,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破！几秒解决",
+      "summary": "量子算法突破解决材料科学计算难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-01",
       "score": 85
@@ -54,61 +94,21 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI swarms could hijack democracy without anyone noticing",
-      "summary": "AI人物渗透社交网，或操纵民主",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研究团队开发光物质混合粒子，可为AI提供新型计算动力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-01",
       "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可使航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-01",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活体脑细胞成功通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "pubTime": "2026-06-01",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "连续完成五源、峰瑞两轮数千万元融资，清华00后团队要解决Token账单焦虑｜智能涌现首发",
-      "summary": "清华00后团队获数千万融资，解决AI Token计费焦虑",
-      "url": "https://36kr.com/p/3834310434875011?f=rss",
-      "pubTime": "2026-06-01",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪观察 | 苹果代工厂开造人形机器人，一场豪赌未来的产能大迁移",
-      "summary": "苹果代工厂龙旗开始制造人形机器人，标志着科技制造业产能智能化迁移",
-      "url": "https://36kr.com/p/3833985105782402?f=rss",
-      "pubTime": "2026-06-01",
-      "score": 75
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "summary": "气候科技上市与AI热度指数回归",
-      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "title": "How a new extraction process could unlock the world’s lithium",
+      "summary": "MIT研发新型锂提取技术，有望解锁全球锂资源供应",
+      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
       "pubTime": "2026-06-01",
-      "score": 75
+      "score": 78
     }
   ]
 }
