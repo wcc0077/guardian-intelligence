@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-01",
-  "time": "04:06",
+  "time": "08:11",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-06-01 04:06",
-  "sourceCount": 4,
+  "temperature": 92,
+  "updateTimeStr": "2026-06-01 08:11",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 471,
   "signalCount": 10,
@@ -14,9 +14,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "人工神经元与活脑细胞成功通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI通过描述让化学家设计分子，实现突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-06-01",
       "score": 90
     },
@@ -24,19 +24,49 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，可为AI提供新型计算动力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新量子算法秒解此前无法计算的材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-01",
       "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "科学家实现人工神经元与活体脑细胞成功通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-06-01",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨停服三年后，天涯社区正式恢复访问；广东辟谣高考将用AI改卷；MiniMax拟科创板上市",
+      "summary": "天涯社区恢复访问+MiniMax拟上市+OpenAI攻克数学难题",
+      "url": "https://36kr.com/p/3833859545343618?f=rss",
+      "pubTime": "2026-06-01",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "英伟达税",
-      "summary": "英伟达控制数据中心AI芯片市场81%份额，居民电费部分实为英伟达税",
+      "summary": "英伟达控制81%数据中心AI芯片市场，居民电费部分流向英伟达",
       "url": "https://www.solidot.org/story?sid=84438",
+      "pubTime": "2026-06-01",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发光物质粒子驱动AI",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-01",
       "score": 85
     },
@@ -45,58 +75,18 @@
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "summary": "1-bit图像生成模型4B参数，可在本地设备运行",
+      "summary": "1-Bit Bonsai实现4B参数图像模型本地运行，AI图像生成新突破",
       "url": "https://prismml.com/news/bonsai-image-4b",
       "pubTime": "2026-06-01",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法突破性解决此前无法计算的材料科学难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-01",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述设计分子，实现研发突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-06-01",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
-      "summary": "机器人解决方案商乘物机器人完成天使轮融资，服务富士康，半年营收超两千万",
+      "summary": "机器人解决方案商获天使轮融资，服务富士康，半年营收超两千万",
       "url": "https://36kr.com/p/3831135917107075?f=rss",
-      "pubTime": "2026-06-01",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
-      "summary": "吉利辅助驾驶团队将整合入千里科技，助力其成为",
-      "url": "https://36kr.com/p/3830580716365449?f=rss",
-      "pubTime": "2026-06-01",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
-      "summary": "联想创投入股诺仕机器人，苹果WWDC展示端侧AI能力",
-      "url": "https://36kr.com/p/3830194503526277?f=rss",
       "pubTime": "2026-06-01",
       "score": 75
     },
@@ -107,6 +97,16 @@
       "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
       "summary": "载人航天公司获亿元融资，头部互联网战投入局",
       "url": "https://36kr.com/p/3830254963517318?f=rss",
+      "pubTime": "2026-06-01",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "summary": "气候科技公司密集上市，MIT科技评论推出AI炒作指数",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
       "pubTime": "2026-06-01",
       "score": 75
     }
