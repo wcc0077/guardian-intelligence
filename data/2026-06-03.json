@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-03",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-06-03 00:06",
+  "temperature": 95,
+  "updateTimeStr": "2026-06-03 04:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 491,
@@ -12,11 +12,21 @@
   "signals": [
     {
       "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "summary": "中国批准世界首个侵入式脑机接口芯片",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "pubTime": "2026-06-03",
+      "score": 90
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可显著提升AI算力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：几秒解决材料科学超大规模难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-03",
       "score": 88
     },
@@ -25,7 +35,7 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
-      "summary": "快手AI新职业达15个，Ardian投50亿欧元建数字园区",
+      "summary": "快手AI新职业达15个，法50亿欧元建数字基础设施，育儿补贴999亿",
       "url": "https://36kr.com/p/3834354708031111?f=rss",
       "pubTime": "2026-06-03",
       "score": 85
@@ -34,8 +44,18 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
+      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+      "summary": "前美团技术负责人创业，做具身智能餐饮后厨应用",
+      "url": "https://36kr.com/p/3834292242130825?f=rss",
+      "pubTime": "2026-06-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
       "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
-      "summary": "豆包付费、SK海力士火灾、宇树科技IPO过会，科技行业多重大事件",
+      "summary": "豆包付费在即+宇树科技IPO过会+赛力斯字节合作",
       "url": "https://36kr.com/p/3835278829008257?f=rss",
       "pubTime": "2026-06-03",
       "score": 85
@@ -45,48 +65,18 @@
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "中国将数据和算法纳入商业秘密保护",
-      "summary": "中国将数据和算法纳入商业秘密保护，6月1日起施行",
+      "summary": "中国将数据和算法纳入商业秘密保护，加强技术外流防范",
       "url": "https://www.solidot.org/story?sid=84462",
       "pubTime": "2026-06-03",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: China’s brain implant ambitions",
-      "summary": "中国在脑机接口技术领域的发展野心与战略布局",
-      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-      "pubTime": "2026-06-03",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-      "summary": "中国批准世界首个侵入式脑机芯片，开启临床应用新篇章",
-      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-      "pubTime": "2026-06-03",
-      "score": 85
-    },
-    {
-      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子启发式算法数秒解决材料科学难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-03",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述设计分子，实现技术突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-03",
       "score": 85
     },
@@ -95,20 +85,30 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学实现人工神经元与活体脑细胞通信，重大技术突破",
+      "summary": " Northwestern大学成功让人工神经元与活体脑细胞通信",
       "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-06-03",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可赋予航天器自主思考能力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Rehumanizing global health care with agentic AI",
+      "summary": "MIT Tech Review探讨代理式AI在重塑全球医疗保健服务中的应用趋势",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
       "pubTime": "2026-06-03",
       "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: China’s brain implant ambitions",
+      "summary": "中国脑植入物技术发展野心，引发神经科技竞争",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "pubTime": "2026-06-03",
+      "score": 75
     }
   ]
 }
