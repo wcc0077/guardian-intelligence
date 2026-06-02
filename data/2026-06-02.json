@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-02",
-  "time": "08:06",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-06-02 08:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-02 12:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 481,
@@ -12,11 +12,21 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
-      "summary": "秋水半导体获近2亿元融资，推进无损Micro-LED助AI眼镜全彩化",
-      "url": "https://36kr.com/p/3834427736024965?f=rss",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "summary": "中国批准全球首个侵入式脑机接口芯片，开启临床应用",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "pubTime": "2026-06-02",
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "AOMedia 发布 AV2 规范",
+      "summary": "AOMedia发布AV2视频编码规范，亚马逊谷歌等巨头联合推出",
+      "url": "https://www.solidot.org/story?sid=84452",
       "pubTime": "2026-06-02",
       "score": 88
     },
@@ -24,59 +34,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
-      "summary": "中国国新设10亿创投基金，天津AI传感器产业园开园，浙江推星火计划布局量子产业",
-      "url": "https://36kr.com/p/3834354415347337?f=rss",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
-      "summary": "AI游戏社区Aippy获数千万美元融资，估值2.5亿美元",
-      "url": "https://36kr.com/p/3834400181741440?f=rss",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "AOMedia 发布 AV2 规范",
-      "summary": "AOMedia发布AV2视频编码规范，Amazon等巨头联合推出新一代视频标准",
-      "url": "https://www.solidot.org/story?sid=84452",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-      "summary": "中国批准世界首个侵入式脑机芯片，引领前沿技术发展",
-      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，可为AI供能带来突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "人工神经元成功与活脑细胞通信，AI生物融合获突破",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+      "summary": "豆包将付费+SK海力士火灾+宇树科技IPO过会，涉及AI应用、芯片产业、资本动向",
+      "url": "https://36kr.com/p/3835278829008257?f=rss",
       "pubTime": "2026-06-02",
       "score": 85
     },
@@ -85,18 +45,58 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA研发新型AI空间芯片，可使航天器自主思考",
+      "summary": "NASA测试新一代AI芯片，可赋予航天器自主思考能力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-02",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法秒级破解材料科学难题，实现重大突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学成功让人工神经元与活体脑细胞通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-06-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: China’s brain implant ambitions",
+      "summary": "中国脑植入物技术发展野心，脑机接口前沿竞争",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "pubTime": "2026-06-02",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发光物质混合粒子，为AI供能可能带来突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-02",
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-      "summary": "豆包6月下旬推出付费订阅服务，加速打通抖音电商生态",
-      "url": "https://36kr.com/p/3834544830721671?f=rss",
+      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+      "summary": "前美团技术负责人创业，用具身智能切入餐饮后厨场景",
+      "url": "https://36kr.com/p/3834292242130825?f=rss",
       "pubTime": "2026-06-02",
       "score": 75
     },
@@ -104,9 +104,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
-      "summary": "量坤科技获数亿元融资，布局量子计算AI4S领域",
-      "url": "https://36kr.com/p/3826034537223043?f=rss",
+      "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+      "summary": "AI游戏社区Aippy获数千万美元融资，估值2.5亿美元",
+      "url": "https://36kr.com/p/3834400181741440?f=rss",
       "pubTime": "2026-06-02",
       "score": 75
     }
