@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-02",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-06-02 12:06",
+  "updateTimeStr": "2026-06-02 16:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 481,
@@ -12,93 +12,33 @@
   "signals": [
     {
       "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Anthropic 申请 IPO",
+      "summary": "AI公司Anthropic秘密提交IPO招股说明书，拟上市",
+      "url": "https://www.solidot.org/story?sid=84458",
+      "pubTime": "2026-06-02",
+      "score": 90
+    },
+    {
+      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-      "summary": "中国批准全球首个侵入式脑机接口芯片，开启临床应用",
+      "summary": "中国批准世界首个侵入式脑机芯片，开启临床应用新阶段",
       "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
       "pubTime": "2026-06-02",
       "score": 90
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "AOMedia 发布 AV2 规范",
-      "summary": "AOMedia发布AV2视频编码规范，亚马逊谷歌等巨头联合推出",
-      "url": "https://www.solidot.org/story?sid=84452",
-      "pubTime": "2026-06-02",
-      "score": 88
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
-      "summary": "豆包将付费+SK海力士火灾+宇树科技IPO过会，涉及AI应用、芯片产业、资本动向",
+      "summary": "豆包付费、SK海力士火灾、宇树科技IPO过会，科技行业多事件",
       "url": "https://36kr.com/p/3835278829008257?f=rss",
       "pubTime": "2026-06-02",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI芯片，可赋予航天器自主思考能力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法秒级破解材料科学难题，实现重大突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学成功让人工神经元与活体脑细胞通信",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
-      "pubTime": "2026-06-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: China’s brain implant ambitions",
-      "summary": "中国脑植入物技术发展野心，脑机接口前沿竞争",
-      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-      "pubTime": "2026-06-02",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，为AI供能可能带来突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-02",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
-      "summary": "前美团技术负责人创业，用具身智能切入餐饮后厨场景",
-      "url": "https://36kr.com/p/3834292242130825?f=rss",
-      "pubTime": "2026-06-02",
-      "score": 75
     },
     {
       "section": "highlights",
@@ -108,7 +48,67 @@
       "summary": "AI游戏社区Aippy获数千万美元融资，估值2.5亿美元",
       "url": "https://36kr.com/p/3834400181741440?f=rss",
       "pubTime": "2026-06-02",
-      "score": 75
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
+      "summary": "豆包6月推出付费订阅服务，加速打通抖音电商，实现AI产品商业化",
+      "url": "https://36kr.com/p/3834544830721671?f=rss",
+      "pubTime": "2026-06-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
+      "summary": "量坤科技获数亿元融资，布局AI4S量子计算数据",
+      "url": "https://36kr.com/p/3826034537223043?f=rss",
+      "pubTime": "2026-06-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "中国批准首例侵入式脑机接口芯片之后",
+      "summary": "中国批准首例侵入式脑机接口芯片，瘫痪患者成功用脑机接口写字",
+      "url": "https://www.solidot.org/story?sid=84454",
+      "pubTime": "2026-06-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "AOMedia 发布 AV2 规范",
+      "summary": "AOMedia发布AV2视频规范，多家科技巨头联合推动",
+      "url": "https://www.solidot.org/story?sid=84452",
+      "pubTime": "2026-06-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "summary": "气候科技公司上市，AI炒作指数回归",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "pubTime": "2026-06-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI太空芯片，可赋予航天器自主思考能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-02",
+      "score": 85
     }
   ]
 }
