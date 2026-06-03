@@ -1,42 +1,32 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-03",
-  "time": "16:06",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-06-03 16:06",
-  "sourceCount": 5,
+  "temperature": 85,
+  "updateTimeStr": "2026-06-03 20:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 491,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
-      "summary": "AI机器人公司星尘智能获超10亿融资，估值破百亿",
-      "url": "https://36kr.com/p/3836068296209537?f=rss",
-      "pubTime": "2026-06-03",
-      "score": 92
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试AI太空芯片，航天器或自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-03",
-      "score": 90
-    },
-    {
-      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Artificial neurons successfully communicate with living brain cells",
-      "summary": "西北大学工程师实现人工神经元与活脑细胞成功通信",
+      "summary": "西北大学实现人工神经元与活脑细胞成功通信",
       "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-06-03",
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "summary": "中国批准全球首个侵入式脑机接口芯片",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
       "pubTime": "2026-06-03",
       "score": 90
     },
@@ -45,38 +35,28 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
-      "summary": "火山引擎上调MaaS营收目标至150亿元，Seedance 2.0单月营收超10亿元",
+      "summary": "火山引擎上调MaaS营收目标至150亿元，Seedance 2.0月营收超10亿元",
       "url": "https://36kr.com/p/3836973710423429?f=rss",
       "pubTime": "2026-06-03",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "特朗普签署行政令要求 AI 公司让政府先行评估其新模型",
-      "summary": "特朗普签署行政令要求AI公司政府先评估新模型",
-      "url": "https://www.solidot.org/story?sid=84470",
-      "pubTime": "2026-06-03",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
-      "summary": "英伟达与微软合作推统一技术栈，黄仁勋称Vera CPU将成新增长点",
+      "summary": "英伟达与微软合作推统一技术栈，腾讯股价创2021年来最大涨幅",
       "url": "https://36kr.com/p/3836703946257542?f=rss",
       "pubTime": "2026-06-03",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
-      "summary": "中国批准世界首个侵入式脑机接口芯片，技术突破引关注",
-      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+      "summary": "深圳AI机器人公司星尘智能获超10亿元B轮融资，估值破百亿",
+      "url": "https://36kr.com/p/3836068296209537?f=rss",
       "pubTime": "2026-06-03",
       "score": 85
     },
@@ -85,30 +65,50 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：几秒解决此前不可能的材料科学问题",
+      "summary": "量子算法突破解决材料难题，计算科学里程碑",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-03",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学突破 光物质混合粒子赋能AI",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+      "summary": "豆包6月下旬正式付费订阅，加速打通抖音电商",
+      "url": "https://36kr.com/p/3835814391100550?f=rss",
       "pubTime": "2026-06-03",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Microsoft Doubles Down on Controversial Quantum Computing Claims",
-      "summary": "微软坚持争议量子计算声称",
-      "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "特朗普签署行政令要求 AI 公司让政府先行评估其新模型",
+      "summary": "特朗普签行政令，要求AI公司新模型需政府先评估",
+      "url": "https://www.solidot.org/story?sid=84470",
       "pubTime": "2026-06-03",
       "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: China’s brain implant ambitions",
+      "summary": "中国脑植入物技术发展野心，全球科技竞争新前沿",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+      "pubTime": "2026-06-03",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI助化学家通过描述直接设计分子，实现分子合成新突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-03",
+      "score": 78
     }
   ]
 }
