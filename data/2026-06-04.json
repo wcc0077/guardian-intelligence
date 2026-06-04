@@ -1,112 +1,112 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-04",
-  "time": "12:05",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-04 12:05",
-  "sourceCount": 3,
+  "temperature": 88,
+  "updateTimeStr": "2026-06-04 16:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 501,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3837269482091656?f=rss",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Meta 给予员工每次最多 30 分钟退出跟踪",
+      "summary": "Meta用员工数据训练AI模型，构建自动执行任务的AI智能体",
+      "url": "https://www.solidot.org/story?sid=84477",
       "pubTime": "2026-06-04",
-      "score": 80
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
-      "summary": "",
-      "url": "https://36kr.com/p/3838091144464644?f=rss",
+      "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
+      "summary": "字节AI2026年四大命题：加大世界模型训练投入",
+      "url": "https://36kr.com/p/3838454229027072?f=rss",
       "pubTime": "2026-06-04",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3837650456430851?f=rss",
+      "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
+      "summary": "字节火山引擎MaaS营收目标提至150亿，AI商业化加速",
+      "url": "https://36kr.com/p/3836973710423429?f=rss",
       "pubTime": "2026-06-04",
-      "score": 80
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学实现人工神经元与活脑细胞成功通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-06-04",
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
-      "summary": "",
+      "summary": "星尘智能获超10亿B轮融资，估值破百亿",
       "url": "https://36kr.com/p/3836068296209537?f=rss",
       "pubTime": "2026-06-04",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "数学家警告 AI 对数学专业的威胁",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84476",
+      "title": "Google 发布能在笔记本上本地运行的开源模型 Gemma 4 12B",
+      "summary": "Google发布笔记本本地运行的开源模型Gemma 4 12B",
+      "url": "https://www.solidot.org/story?sid=84480",
       "pubTime": "2026-06-04",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "高通 CEO 称抵抗 AI 是徒劳的",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84473",
-      "pubTime": "2026-06-04",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "",
+      "summary": "特朗普发布AI行政令，智能眼镜用于战争军事科技",
       "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
       "pubTime": "2026-06-04",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI can run your admin department now",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "summary": "中国批准全球首个侵入式脑机芯片，系重大技术突破",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
       "pubTime": "2026-06-04",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Rehumanizing global health care with agentic AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI可让化学家通过描述直接设计分子，降低专业门槛",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-06-04",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How small businesses can leverage AI",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "微软的量子芯片存在基础性问题",
+      "summary": "微软第二代量子芯片Majorana 2被质疑缺乏研究基础",
+      "url": "https://www.solidot.org/story?sid=84475",
       "pubTime": "2026-06-04",
       "score": 80
     }
