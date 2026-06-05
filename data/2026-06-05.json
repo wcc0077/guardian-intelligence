@@ -1,64 +1,24 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-05",
-  "time": "04:06",
+  "time": "08:12",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-06-05 04:06",
-  "sourceCount": 5,
+  "temperature": 88,
+  "updateTimeStr": "2026-06-05 08:12",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 511,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
-      "summary": "字节跳动2026年AI布局曝光，加大世界模型训练投入",
-      "url": "https://36kr.com/p/3838454229027072?f=rss",
-      "pubTime": "2026-06-05",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
-      "summary": "OpenAI CFO透露AI设备年底发布，属行业重大进展",
-      "url": "https://36kr.com/p/3838652242823687?f=rss",
-      "pubTime": "2026-06-05",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
-      "summary": "智维创芯完成天使轮融资，芯片设计验证自动化提效10倍",
-      "url": "https://36kr.com/p/3838488706370054?f=rss",
-      "pubTime": "2026-06-05",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "summary": "探讨AI递归自我改进技术进展，属于AI行业重大技术趋势",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "pubTime": "2026-06-05",
-      "score": 85
-    },
-    {
-      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破解决材料科学难题，计算速度大幅提升",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA新AI芯片或让航天器自行思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-05",
-      "score": 85
+      "score": 90
     },
     {
       "section": "highlights",
@@ -68,47 +28,87 @@
       "summary": "西北大学实现人工神经元与活脑细胞成功通信",
       "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
       "pubTime": "2026-06-05",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
+      "summary": "智维创芯完成数千万元天使轮融资，实现芯片设计验证自动化",
+      "url": "https://36kr.com/p/3838488706370054?f=rss",
+      "pubTime": "2026-06-05",
       "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
-      "summary": "深圳戴盟机器人获亿元融资，汇川与中国电信投资",
-      "url": "https://36kr.com/p/3837269482091656?f=rss",
+      "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
+      "summary": "字节跳动2026年AI战略曝光，聚焦世界模型训练等四大命题",
+      "url": "https://36kr.com/p/3838454229027072?f=rss",
       "pubTime": "2026-06-05",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述设计分子，开启科研新方式",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-06-05",
-      "score": 78
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "欧盟公布减少依赖美国科技公司的计划",
-      "summary": "欧盟公布科技主权计划，减少对美国科技公司依赖",
+      "summary": "欧盟公布科技主权计划，减少对美国科技依赖",
       "url": "https://www.solidot.org/story?sid=84482",
       "pubTime": "2026-06-05",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "summary": "AI生成诉讼与数据中心虚拟电厂成趋势",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "summary": "Anthropic发布AI漏洞发现开源框架",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
       "pubTime": "2026-06-05",
-      "score": 75
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "summary": "研究表明变换器仅用双投影可达相同效果显著",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "pubTime": "2026-06-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI供能",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：秒解此前不可能的材料科学问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-05",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI让化学家通过描述即可设计新分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-05",
+      "score": 85
     }
   ]
 }
