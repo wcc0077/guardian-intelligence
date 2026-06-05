@@ -1,95 +1,15 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-06",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-06 00:06",
-  "sourceCount": 3,
+  "temperature": 88,
+  "updateTimeStr": "2026-06-06 04:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 521,
   "signalCount": 10,
   "signals": [
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法秒破材料难题，实现突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-06",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子助力AI",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-06",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "summary": "微信与华为、小米等厂商合作推出A2A助手能力",
-      "url": "https://36kr.com/p/3839575253993985?f=rss",
-      "pubTime": "2026-06-06",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "summary": "AI生成诉讼案件与数据中心虚拟电厂技术发展",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "pubTime": "2026-06-06",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI帮助化学家仅凭描述设计分子",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-06-06",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新型AI芯片，拟让航天器自行思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-06",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "Token大战中，华为云选择了第三条路｜最前线",
-      "summary": "华为云避开Token价格战，聚焦国产化算力布局",
-      "url": "https://36kr.com/p/3840016255126016?f=rss",
-      "pubTime": "2026-06-06",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
-      "summary": "前华为员工创线控底盘公司获松禾苏高新数千万元投资",
-      "url": "https://36kr.com/p/3839600052898054?f=rss",
-      "pubTime": "2026-06-06",
-      "score": 75
-    },
     {
       "section": "highlights",
       "source": "36氪",
@@ -98,15 +18,95 @@
       "summary": "原力灵机并购物流机器人公司，获智谱商汤阶跃投资",
       "url": "https://36kr.com/p/3838835333253385?f=rss",
       "pubTime": "2026-06-06",
-      "score": 75
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发光物质混合粒子推动AI计算突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-06",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破，秒解材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-06",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI让化学家仅凭描述即可设计分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-06",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "特朗普签署新AI行政令，智能眼镜用于战争",
+      "summary": "特朗普发布新AI行政令，智能眼镜用于战争",
       "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "pubTime": "2026-06-06",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "Token大战中，华为云选择了第三条路｜最前线",
+      "summary": "华为云在AI Token竞争中选择国产化算力道路",
+      "url": "https://36kr.com/p/3840016255126016?f=rss",
+      "pubTime": "2026-06-06",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
+      "summary": "微信AI与华为小米OPPOvivo等厂商合作推出A2A助手能力",
+      "url": "https://36kr.com/p/3839575253993985?f=rss",
+      "pubTime": "2026-06-06",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "summary": "法院应对AI生成诉讼激增，探索司法程序新挑战",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "pubTime": "2026-06-06",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "summary": "AI生成诉讼和数据中心虚拟电厂",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "pubTime": "2026-06-06",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] MemPalace/mempalace ⭐53805",
+      "summary": "开源AI内存系统MemPalace发布，获53805星关注",
+      "url": "https://github.com/MemPalace/mempalace",
       "pubTime": "2026-06-06",
       "score": 75
     }
