@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-06",
-  "time": "08:11",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-06-06 08:11",
-  "sourceCount": 4,
+  "updateTimeStr": "2026-06-06 12:06",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 521,
   "signalCount": 10,
@@ -14,101 +14,101 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "summary": "",
-      "url": "https://36kr.com/p/3839575253993985?f=rss",
+      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+      "summary": "原力灵机并购物流机器人，获三家AI投资",
+      "url": "https://36kr.com/p/3838835333253385?f=rss",
       "pubTime": "2026-06-06",
-      "score": 80
+      "score": 95
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "苹果称 App Store 生态系统规模突破 1.4 万亿美元",
-      "summary": "",
-      "url": "https://www.solidot.org/story?sid=84496",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法几秒解决材料科学难题，突破传统计算极限",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-06",
-      "score": 80
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "summary": "豆包付费后月活大减，Anthropic警告AI风险，罗永浩卸任，B站办AI大赛",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
       "pubTime": "2026-06-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Are AI chatbots making us lose control of our brains?",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-      "pubTime": "2026-06-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "pubTime": "2026-06-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "pubTime": "2026-06-06",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "pubTime": "2026-06-06",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "",
+      "summary": "特朗普发布新AI行政命令，智能眼镜用于战争",
       "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
       "pubTime": "2026-06-06",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发混合光物质粒子，可为AI提供新动力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-06",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Artificial neurons successfully communicate with living brain cells",
+      "summary": "西北大学实现人工神经元与活体脑细胞成功通信",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+      "pubTime": "2026-06-06",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI帮助化学家通过文字描述直接设计分子，实现化学领域突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-06",
+      "score": 82
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI can run your admin department now",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "summary": "法院应对AI生成诉讼激增，探索法律制度如何适应技术发展",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
       "pubTime": "2026-06-06",
-      "score": 80
+      "score": 78
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "summary": "",
-      "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "Token大战中，华为云选择了第三条路｜最前线",
+      "summary": "华为云避开Token价格战，选择聚焦国产化算力的第三条发展路",
+      "url": "https://36kr.com/p/3840016255126016?f=rss",
       "pubTime": "2026-06-06",
-      "score": 80
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
+      "summary": "微信与华为、小米等厂商合作推出A2A助手能力",
+      "url": "https://36kr.com/p/3839575253993985?f=rss",
+      "pubTime": "2026-06-06",
+      "score": 75
     }
   ]
 }
