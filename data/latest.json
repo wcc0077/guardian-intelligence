@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-08",
-  "time": "00:06",
+  "time": "04:12",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-06-08 00:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-08 04:12",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 541,
@@ -14,29 +14,49 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "summary": "豆包付费后月活大减610万，Anthropic呼吁全球放缓AI开发",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "pubTime": "2026-06-08",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
       "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
       "summary": "原力灵机并购物流机器人公司，获智谱商汤阶跃投资",
       "url": "https://36kr.com/p/3838835333253385?f=rss",
       "pubTime": "2026-06-08",
-      "score": 92
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：几秒内解决材料科学",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-08",
-      "score": 90
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "美国政府考虑在 AI 公司持有股份",
-      "summary": "美政府考虑入股OpenAI，Sam Altman与白宫磋商超一年",
+      "summary": "美国政府考虑入股OpenAI，AI行业迎重大政策变化",
       "url": "https://www.solidot.org/story?sid=84509",
+      "pubTime": "2026-06-08",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "summary": "AI生成法律诉讼与数据中心虚拟电厂技术进展",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "pubTime": "2026-06-08",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "summary": "特朗普签署AI行政令，智能眼镜用于战争",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
       "pubTime": "2026-06-08",
       "score": 85
     },
@@ -45,7 +65,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片，或赋予航天器自主思考能力",
+      "summary": "NASA测试新一代AI空间芯片，可让航天器自主思考",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-08",
       "score": 85
@@ -54,9 +74,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾州大学研发混合光粒子，可为AI供能",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法秒解材料科学难题，实现重大技术突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-08",
       "score": 85
     },
@@ -65,48 +85,28 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "summary": "微信与华为小米等厂商合作推出AI助手能力",
+      "summary": "微信与华为、小米等厂商合作推出A2A助手能力，推进AI应用落地",
       "url": "https://36kr.com/p/3839575253993985?f=rss",
       "pubTime": "2026-06-08",
       "score": 80
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "法院应对AI生成诉讼激增，探索司法适应新挑战",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "pubTime": "2026-06-08",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "Token大战中，华为云选择了第三条路｜最前线",
-      "summary": "华为云避Token价格战，主打国产化算力差异化竞争",
-      "url": "https://36kr.com/p/3840016255126016?f=rss",
-      "pubTime": "2026-06-08",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "summary": "豆包付费后月活大减，Anthropic呼吁放缓AI开发，罗永浩卸任锤子软件董事",
-      "url": "https://36kr.com/p/3840996342073604?f=rss",
-      "pubTime": "2026-06-08",
-      "score": 75
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "探店13家，理想/蔚来/问界如何征服50万客群？",
-      "summary": "理想/蔚来/问界旗舰SUV密集上市，高端新能源竞争升级",
+      "summary": "理想/蔚来/问界三款9系旗舰SUV密集上市，高端新能源市场竞争升级",
       "url": "https://36kr.com/p/3839803361741313?f=rss",
+      "pubTime": "2026-06-08",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发",
+      "summary": "前华为员工创线控底盘获融资，松禾苏高新投资",
+      "url": "https://36kr.com/p/3839600052898054?f=rss",
       "pubTime": "2026-06-08",
       "score": 75
     }
