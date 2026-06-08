@@ -1,32 +1,32 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-08",
-  "time": "08:06",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-06-08 08:06",
-  "sourceCount": 4,
+  "temperature": 88,
+  "updateTimeStr": "2026-06-08 12:06",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 541,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒破解材料难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "美国政府考虑在 AI 公司持有股份",
+      "summary": "美政府考虑入股OpenAI， Altman与白宫磋商一年多",
+      "url": "https://www.solidot.org/story?sid=84509",
       "pubTime": "2026-06-08",
-      "score": 90
+      "score": 95
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "summary": "豆包付费后月活降610万，Anthropic呼吁全球放缓AI开发",
-      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
+      "summary": "ChatGPT史上最大升级引关注，高考AI监考员投入应用",
+      "url": "https://36kr.com/p/3843764238174729?f=rss",
       "pubTime": "2026-06-08",
       "score": 85
     },
@@ -34,19 +34,19 @@
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "美国政府考虑在 AI 公司持有股份",
-      "summary": "美政府拟入股OpenAI，Altman与白宫磋商一年多",
-      "url": "https://www.solidot.org/story?sid=84509",
+      "title": "Google 将每月支付给 SpaceX 9.2 亿美元租用其算力",
+      "summary": "Google月付9.2亿美元向SpaceX租用算力，涉xAI的Grok业务",
+      "url": "https://www.solidot.org/story?sid=84502",
       "pubTime": "2026-06-08",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "特朗普签AI行政令 智能眼镜用于战争",
-      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI空间芯片，可让航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-08",
       "score": 85
     },
@@ -55,7 +55,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研究团队研发混合光物质粒子，可为AI提供新动力",
+      "summary": "宾大研发光物质混合粒子，为AI计算提供新动力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-08",
       "score": 85
@@ -64,51 +64,51 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述即可设计分子，系重大技术突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新型量子算法秒解超大规模材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-08",
       "score": 85
     },
     {
       "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Algorithmic Monocultures in Hiring",
+      "summary": "探讨AI算法在招聘中的同质化偏见问题",
+      "url": "https://algorithmichiring.github.io/",
+      "pubTime": "2026-06-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AI can run your admin department now",
+      "summary": "AI已能运行行政管理部门",
+      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+      "pubTime": "2026-06-08",
+      "score": 80
+    },
+    {
+      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
-      "summary": "ChatGPT将迎史上最大升级，AI机器请求量首超人类",
-      "url": "https://36kr.com/p/3843764238174729?f=rss",
+      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
+      "summary": "豆包付费后月活大降610万，Anthropic警告AI自我改进风险",
+      "url": "https://36kr.com/p/3840996342073604?f=rss",
       "pubTime": "2026-06-08",
-      "score": 75
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "微信AI对手机厂商打开一道窄门｜焦点分析",
-      "summary": "微信与华为小米等厂商合作推出A2A助手能力",
+      "summary": "微信AI携手华为小米等厂商，共推A2A助手能力",
       "url": "https://36kr.com/p/3839575253993985?f=rss",
       "pubTime": "2026-06-08",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "BSA 反对欧洲的强制性开源许可",
-      "summary": "BSA反对欧洲强制开源许可，欧洲推进数字主权",
-      "url": "https://www.solidot.org/story?sid=84504",
-      "pubTime": "2026-06-08",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "AI生成诉讼激增，法院面临新挑战",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "pubTime": "2026-06-08",
-      "score": 75
+      "score": 78
     }
   ]
 }
