@@ -1,22 +1,42 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-09",
-  "time": "08:14",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-09 08:14",
-  "sourceCount": 5,
+  "temperature": 85,
+  "updateTimeStr": "2026-06-09 12:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 551,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法秒解材料科学难题，实现重大突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-09",
+      "score": 92
+    },
+    {
+      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-      "summary": "豆包付费后月活降610万；Anthropic警告AI自我改进风险，呼吁全球放缓开发",
-      "url": "https://36kr.com/p/3840996342073604?f=rss",
+      "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
+      "summary": "苹果Siri AI升级+OpenAI提交IPO+阿里微信布局AI生态",
+      "url": "https://36kr.com/p/3845196412193284?f=rss",
+      "pubTime": "2026-06-09",
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子驱动AI技术",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-09",
       "score": 88
     },
@@ -24,9 +44,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "改变全球速度的AI，付款却卡在上一个时代",
-      "summary": "AI公司爆发式增长，行业竞争白热化，应用落地加速",
-      "url": "https://36kr.com/p/3844199957236227?f=rss",
+      "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
+      "summary": "AI芯片IP公司隼瞻科技完成近亿元天使+轮融资",
+      "url": "https://36kr.com/p/3845293120621057?f=rss",
       "pubTime": "2026-06-09",
       "score": 85
     },
@@ -34,19 +54,19 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
-      "summary": "ChatGPT史上最大升级，AI网络请求量首超人类",
-      "url": "https://36kr.com/p/3843764238174729?f=rss",
+      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+      "summary": "苹果WWDC2026展示AI功能进展，但国内iPhone用户仍无法使用",
+      "url": "https://36kr.com/p/3845356968839680?f=rss",
       "pubTime": "2026-06-09",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "新药功能性治愈部分乙肝患者",
-      "summary": "葛兰素史克乙肝新药bepirovirsen功能性治愈19%患者",
-      "url": "https://www.solidot.org/story?sid=84512",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
+      "summary": "POD材料团队获千万融资，布局AI芯片散热领域",
+      "url": "https://36kr.com/p/3845295918909954?f=rss",
       "pubTime": "2026-06-09",
       "score": 85
     },
@@ -54,19 +74,9 @@
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "OpenAI Submits S-1 Draft to SEC",
-      "summary": "OpenAI向SEC提交S-1草案，拟进行首次公开募股",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "pubTime": "2026-06-09",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，或将革新AI计算动力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "summary": "AI模型MiMo-v2.5-Pro-UltraSpeed实现每秒1000tokens推理速度",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
       "pubTime": "2026-06-09",
       "score": 85
     },
@@ -75,28 +85,18 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片，可让航天器自主决策",
+      "summary": "NASA测试新型AI空间芯片，可让航天器自主思考决策",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-09",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破秒解材料科学难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-09",
-      "score": 85
+      "score": 82
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
-      "summary": "华超神控获亿元天使轮融资，专注AI超声脑机接口平台",
-      "url": "https://36kr.com/p/3841459663030532?f=rss",
+      "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+      "summary": "AI生物科技公司百奥几何获数亿元战略融资，打造生命科学微观世界模型",
+      "url": "https://36kr.com/p/3839626642344454?f=rss",
       "pubTime": "2026-06-09",
       "score": 78
     },
@@ -104,11 +104,11 @@
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "法院应对AI生成诉讼激增，法律科技趋势引关注",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "summary": "MIT Tech Review分析AI黑客攻击威胁及聊天机器人对认知影响",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
       "pubTime": "2026-06-09",
-      "score": 78
+      "score": 75
     }
   ]
 }
