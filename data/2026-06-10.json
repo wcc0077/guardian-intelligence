@@ -1,52 +1,32 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-10",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-06-10 00:06",
-  "sourceCount": 5,
+  "temperature": 90,
+  "updateTimeStr": "2026-06-10 04:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 561,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI供能",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-10",
+      "score": 88
+    },
+    {
+      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
-      "summary": "开源项目context-mode登顶Hacker News，AI编程成本降低98%",
+      "summary": "开源项目context-mode登顶HN，降低AI编程成本98%",
       "url": "https://36kr.com/p/3845645258541319?f=rss",
-      "pubTime": "2026-06-10",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜腾讯、阿里等入股脑机接口研发商阶梯医疗；飞猪：端午假期入境游预订量同比增长超6倍；1—5月全国期货市场累计成交额同比增长40.13%",
-      "summary": "腾讯阿里投资脑机接口公司，猫眼接入微信AI生态",
-      "url": "https://36kr.com/p/3845899768760580?f=rss",
-      "pubTime": "2026-06-10",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
-      "summary": "苹果WWDC2026展示AI进展，国内iPhone仍无法使用",
-      "url": "https://36kr.com/p/3845356968839680?f=rss",
-      "pubTime": "2026-06-10",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
-      "summary": "AI芯片IP公司获近亿元融资，团队来自Synopsys、ARM",
-      "url": "https://36kr.com/p/3845293120621057?f=rss",
       "pubTime": "2026-06-10",
       "score": 85
     },
@@ -55,7 +35,7 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "AI代理采用率未来两年预计增300%，企业人机混合管理成趋势",
+      "summary": "研究显示未来2年AI代理采用率将增长300%，混合人机企业领导力成新焦点",
       "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
       "pubTime": "2026-06-10",
       "score": 85
@@ -64,9 +44,9 @@
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-      "summary": "全身抗衰老药物突破，人工智能五要点解读",
-      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "title": "Five things you need to know about AI",
+      "summary": "SXSW伦敦演讲，概括AI五大要点",
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
       "pubTime": "2026-06-10",
       "score": 85
     },
@@ -74,9 +54,9 @@
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "summary": "OpenCV 5发布，计算机视觉领域重大版本更新",
-      "url": "https://opencv.org/opencv-5/",
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "summary": "研究实现FPGA上KAN网络超快机器学习",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
       "pubTime": "2026-06-10",
       "score": 85
     },
@@ -84,31 +64,51 @@
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
-      "summary": "探讨Agent新搜索框架，引领AI搜索趋势",
-      "url": "https://arxiv.org/abs/2605.15184",
+      "title": "GPT-2: Too Dangerous To Release (2019)",
+      "summary": "GPT-2因安全风险未发布",
+      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
       "pubTime": "2026-06-10",
       "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Claude Fable 5",
+      "summary": "Anthropic发布Claude Fable 5新一代AI助手",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "pubTime": "2026-06-10",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片，可让航天器自主思考",
+      "summary": "NASA研发AI太空芯片可让航天器自主思考",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-10",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "微软开源工具被植入窃取凭证的恶意代码",
-      "summary": "微软数十个GitHub开源项目被植入窃取凭证的恶意代码，已紧急下线调查",
-      "url": "https://www.solidot.org/story?sid=84530",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Your “um” and pauses could reveal early dementia risk",
+      "summary": "研究显示语言停顿时可预示早期痴呆风险",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
       "pubTime": "2026-06-10",
       "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+      "summary": "苹果WWDC2026展示AI进展，但国内iPhone仍无法使用",
+      "url": "https://36kr.com/p/3845356968839680?f=rss",
+      "pubTime": "2026-06-10",
+      "score": 78
     }
   ]
 }
