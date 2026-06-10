@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-10",
-  "time": "16:06",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-06-10 16:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-10 20:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 561,
@@ -14,69 +14,59 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
-      "summary": "千诀科技获数亿元A轮融资，开发分布式预测世界模型",
-      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
+      "summary": "字节AI制药业务拆分融资，AI4S进入产业化阶段",
+      "url": "https://36kr.com/p/3846956646124036?f=rss",
       "pubTime": "2026-06-10",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾州大学研光物质混合粒子，助AI硬件。",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-10",
-      "score": 90
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 清华团队做出全球首个实时理解生理与情绪的基座模型，进一步布局硬件",
-      "summary": "清华团队发布全球首个实时理解生理情绪基座模型，获数百万美元融资",
+      "summary": "清华团队发布全球首个实时理解生理情绪的基座模型",
       "url": "https://36kr.com/p/3846789531404549?f=rss",
       "pubTime": "2026-06-10",
-      "score": 88
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "清华系团队做分布式预测世界模型、获数亿元A轮融资，落地终端设备达十万量级｜硬氪首发",
+      "summary": "千诀科技获数亿元A轮融资，落地终端达十万级",
+      "url": "https://36kr.com/p/3844720012151040?f=rss",
+      "pubTime": "2026-06-10",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "德国法庭裁决 Google 要对 AI Overviews 内容承担责任",
+      "summary": "德国法庭裁定Google需对AI Overviews内容担责",
+      "url": "https://www.solidot.org/story?sid=84540",
+      "pubTime": "2026-06-10",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "AI代理采用率未来两年或增300%，企业人机协作领导力受关注",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "pubTime": "2026-06-10",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI实现用语言描述直接设计分子推动化学研发",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-06-10",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "独家｜字节 AI 制药开启拆分融资，AI4S 进入产业化阶段",
-      "summary": "字节AI制药启动拆分融资，AI4S进入产业化阶段",
-      "url": "https://36kr.com/p/3846956646124036?f=rss",
-      "pubTime": "2026-06-10",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨致3人永久失明，膳魔师紧急召回百万件产品；发布会后苹果市值蒸发超1.587万亿；Anthropic发布最强模型：Claude Fable 5正式上线",
-      "summary": "Anthropic发布最强模型Claude Fable 5，苹果市值蒸发超1.5万亿",
-      "url": "https://36kr.com/p/3846601462073600?f=rss",
-      "pubTime": "2026-06-10",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "summary": "研究实现FPGA上Kolmogorov-Arnold Networks超快机器学习",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子，或将革新AI硬件",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-10",
       "score": 85
     },
@@ -85,30 +75,40 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破解决此前不可能的材料科学计算问题",
+      "summary": "量子算法突破：秒解此前被认为不可能的材料科学问题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-10",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google Chrome 准备移除对 Manifest V2 的支持，杀死 uBlock Origin",
-      "summary": "Chrome将移除Manifest V2，广告拦截工具uBlock Origin受影响",
-      "url": "https://www.solidot.org/story?sid=84536",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI空间芯片，可让航天器自主思考决策",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-10",
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "研究发现顶级AI模型在心理学注意力测试中暴露重大缺陷",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "pubTime": "2026-06-10",
       "score": 78
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Donut Lab 的全固态电池被认为就是普通锂离子电池",
-      "summary": "芬兰Donut Lab宣称的400Wh/kg固态电池被质疑为普通锂电池",
-      "url": "https://www.solidot.org/story?sid=84534",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "summary": "三星拟建先进芯片封装厂，SK海力士计划8月美股上市",
+      "url": "https://36kr.com/p/3847079661193733?f=rss",
       "pubTime": "2026-06-10",
-      "score": 78
+      "score": 75
     }
   ]
 }
