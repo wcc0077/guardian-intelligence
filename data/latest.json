@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-12",
-  "time": "08:15",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 82,
-  "updateTimeStr": "2026-06-12 08:15",
+  "temperature": 95,
+  "updateTimeStr": "2026-06-12 12:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 581,
@@ -14,18 +14,8 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA研发AI芯片，使航天器具备自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-12",
-      "score": 95
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法秒解材料科学难题，突破计算瓶颈",
+      "summary": "量子算法突破：数秒内解决材料科学难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-12",
       "score": 88
@@ -35,7 +25,7 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "summary": "AI算力价格持续下降，OpenAI考虑大幅下调产品定价",
+      "summary": "AI算力价格持续下降，OpenAI考虑大幅下调产品价格",
       "url": "https://36kr.com/p/3848516305605892?f=rss",
       "pubTime": "2026-06-12",
       "score": 85
@@ -45,18 +35,8 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
-      "summary": "OpenAI考虑大幅降价应对竞争，SpaceX即将上市",
+      "summary": "SpaceX上市在即马斯克或成万亿富翁，钉钉换帅比尔·盖茨听证，OpenAI价格战",
       "url": "https://36kr.com/p/3849431503869187?f=rss",
-      "pubTime": "2026-06-12",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
-      "summary": "中微精仪获创维数千万投资，碳化硅切割技术突破至40微米内",
-      "url": "https://36kr.com/p/3848094835217666?f=rss",
       "pubTime": "2026-06-12",
       "score": 85
     },
@@ -65,18 +45,18 @@
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "科技巨头大举借债",
-      "summary": "科技巨头为投资AI基础设施大举借债，Alphabet拟融资800亿美元",
+      "summary": "科技巨头千亿美元借债投资AI基础设施，Alphabet拟筹资800亿",
       "url": "https://www.solidot.org/story?sid=84553",
       "pubTime": "2026-06-12",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述设计分子，实现技术突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Visa 支付网络集成 ChatGPT",
+      "summary": "Visa集成ChatGPT，AI智能体可代表用户购物支付",
+      "url": "https://www.solidot.org/story?sid=84547",
       "pubTime": "2026-06-12",
       "score": 85
     },
@@ -85,30 +65,50 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind资助研究AI代理大规模交互潜在危险",
+      "summary": "DeepMind资助研究多智能体交互潜在风险，关注AI安全",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "pubTime": "2026-06-12",
-      "score": 82
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "研究揭示顶级AI模型在心理学注意力测试中的重大弱点",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "pubTime": "2026-06-12",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI空间芯片，可赋予航天器自主思考能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-12",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "summary": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展水陆空出行生态",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "pubTime": "2026-06-12",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，或将革新AI计算硬件",
+      "summary": "宾大研发混合光物质粒子，或为AI硬件供能新突破",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-12",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
-      "summary": "台积电释涨价信号，何小鹏亲率团队冲刺机器人量产",
-      "url": "https://36kr.com/p/3848000003953926?f=rss",
-      "pubTime": "2026-06-12",
-      "score": 75
+      "score": 78
     }
   ]
 }
