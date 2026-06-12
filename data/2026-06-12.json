@@ -1,24 +1,34 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-12",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 95,
-  "updateTimeStr": "2026-06-12 12:06",
-  "sourceCount": 4,
+  "temperature": 50,
+  "updateTimeStr": "2026-06-12 16:06",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 581,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：数秒内解决材料科学难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "DeepMind资助研究AI代理大规模交互风险，探索AI安全",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "pubTime": "2026-06-12",
       "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "summary": "SpaceX即将上市，马斯克或成万亿富翁；OpenAI降价竞争",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "pubTime": "2026-06-12",
+      "score": 85
     },
     {
       "section": "highlights",
@@ -32,51 +42,11 @@
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
-      "summary": "SpaceX上市在即马斯克或成万亿富翁，钉钉换帅比尔·盖茨听证，OpenAI价格战",
-      "url": "https://36kr.com/p/3849431503869187?f=rss",
-      "pubTime": "2026-06-12",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "科技巨头大举借债",
-      "summary": "科技巨头千亿美元借债投资AI基础设施，Alphabet拟筹资800亿",
-      "url": "https://www.solidot.org/story?sid=84553",
-      "pubTime": "2026-06-12",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Visa 支付网络集成 ChatGPT",
-      "summary": "Visa集成ChatGPT，AI智能体可代表用户购物支付",
-      "url": "https://www.solidot.org/story?sid=84547",
-      "pubTime": "2026-06-12",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind资助研究多智能体交互潜在风险，关注AI安全",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "pubTime": "2026-06-12",
-      "score": 85
-    },
-    {
-      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "summary": "研究揭示顶级AI模型在心理学注意力测试中的重大弱点",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：秒解材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-12",
       "score": 85
     },
@@ -85,7 +55,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可赋予航天器自主思考能力",
+      "summary": "NASA新AI太空芯片助航天器自主思考的",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-12",
       "score": 85
@@ -94,21 +64,51 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-      "summary": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X，拓展水陆空出行生态",
-      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "title": "36氪首发 | 前瓦锡兰老兵创业，为船舶装上中国“心脏”，半年超 5000万订单",
+      "summary": "瓦锡兰前高管创业获数千万融资，船舶核心设备国产化获5000万订单",
+      "url": "https://36kr.com/p/3849520020231432?f=rss",
       "pubTime": "2026-06-12",
-      "score": 80
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "科技巨头大举借债",
+      "summary": "科技巨头千亿美元借债投资AI基础设施",
+      "url": "https://www.solidot.org/story?sid=84553",
+      "pubTime": "2026-06-12",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "summary": "Anthropic就Claude Fable隐形护栏问题道歉",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "pubTime": "2026-06-12",
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发混合光物质粒子，或为AI硬件供能新突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "AI模型在注意力测试中暴露重大弱点，研究揭示AI与人类认知差异",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "pubTime": "2026-06-12",
-      "score": 78
+      "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "summary": "坦途科技发布全球首款消费级水上飞行器WaveFly 5X",
+      "url": "https://36kr.com/p/3848476414792709?f=rss",
+      "pubTime": "2026-06-12",
+      "score": 70
     }
   ]
 }
