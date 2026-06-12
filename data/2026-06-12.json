@@ -1,42 +1,72 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-12",
-  "time": "04:06",
+  "time": "08:15",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-12 04:06",
-  "sourceCount": 6,
+  "temperature": 82,
+  "updateTimeStr": "2026-06-12 08:15",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 581,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "科技巨头大举借债",
-      "summary": "科技巨头千亿美元借债投资AI基础设施，Alphabet拟筹资800亿",
-      "url": "https://www.solidot.org/story?sid=84553",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA研发AI芯片，使航天器具备自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-12",
-      "score": 90
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新量子算法秒解材料科学难题，突破计算瓶颈",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-12",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "summary": "AI算力价格持续下降，OpenAI考虑大幅下调产品定价",
+      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "pubTime": "2026-06-12",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "summary": "OpenAI考虑大幅降价应对竞争，SpaceX即将上市",
+      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "pubTime": "2026-06-12",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
-      "summary": "创维投资中微精仪数千万元，突破碳化硅切割40微米技术",
+      "summary": "中微精仪获创维数千万投资，碳化硅切割技术突破至40微米内",
       "url": "https://36kr.com/p/3848094835217666?f=rss",
       "pubTime": "2026-06-12",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI提供新动力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "科技巨头大举借债",
+      "summary": "科技巨头为投资AI基础设施大举借债，Alphabet拟融资800亿美元",
+      "url": "https://www.solidot.org/story?sid=84553",
       "pubTime": "2026-06-12",
       "score": 85
     },
@@ -45,68 +75,38 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述直接设计分子",
+      "summary": "AI助化学家通过描述设计分子，实现技术突破",
       "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-06-12",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "summary": "AI算力价格持续下降，OpenAI考虑大幅降价",
-      "url": "https://36kr.com/p/3848516305605892?f=rss",
-      "pubTime": "2026-06-12",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Visa 支付网络集成 ChatGPT",
-      "summary": "Visa集成ChatGPT，AI智能体可代表用户完成购物",
-      "url": "https://www.solidot.org/story?sid=84547",
-      "pubTime": "2026-06-12",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind资助研究AI代理大规模交互潜在风险",
+      "summary": "DeepMind资助研究AI代理大规模交互潜在危险",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "pubTime": "2026-06-12",
-      "score": 75
+      "score": 82
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Why China is betting on big nuclear reactors",
-      "summary": "中国推进大型核反应堆建设，反映能源政策转向",
-      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发光物质混合粒子，或将革新AI计算硬件",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-12",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "MiMo Code is now released and open-source",
-      "summary": "字节跳动发布开源多模态大模型MiMo Code",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "pubTime": "2026-06-12",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] alchaincyf/nuwa-skill ⭐23889",
-      "summary": "GitHub开源项目nuwa-skill获23889星，聚焦AI思维蒸馏技术",
-      "url": "https://github.com/alchaincyf/nuwa-skill",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨世界杯门票遇冷，近18万张门票待转售；台积电释放涨价信号；但斌回应“被段永平拉黑”",
+      "summary": "台积电释涨价信号，何小鹏亲率团队冲刺机器人量产",
+      "url": "https://36kr.com/p/3848000003953926?f=rss",
       "pubTime": "2026-06-12",
       "score": 75
     }
