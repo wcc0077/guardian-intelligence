@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-13",
-  "time": "08:11",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
   "temperature": 88,
-  "updateTimeStr": "2026-06-13 08:11",
+  "updateTimeStr": "2026-06-13 12:06",
   "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 591,
@@ -12,31 +12,31 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
-      "summary": "SpaceX创史上最大IPO募资750亿美元，中央网信办设AI应用举报专区",
-      "url": "https://36kr.com/p/3849942472512769?f=rss",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "铠侠市值超过丰田跃居日本股市第一",
+      "summary": "AI热潮推动铠侠市值超丰田跃居日本股市第一",
+      "url": "https://www.solidot.org/story?sid=84562",
       "pubTime": "2026-06-13",
-      "score": 95
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研脑启发芯片，零度近绝对或革新量子",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "DeepMind资助研究多代理AI系统潜在风险",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "pubTime": "2026-06-13",
-      "score": 90
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "summary": "AI算力价格持续下降，OpenAI考虑大幅下调产品价格",
-      "url": "https://36kr.com/p/3848516305605892?f=rss",
+      "title": "突发！Anthropic全球停用Claude 5",
+      "summary": "Anthropic Claude 5上线72小时被全球下架",
+      "url": "https://36kr.com/p/3851015329027336?f=rss",
       "pubTime": "2026-06-13",
       "score": 85
     },
@@ -44,9 +44,59 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
-      "summary": "SpaceX上市在即，马斯克或成万亿富翁；钉钉换帅；OpenAI拟下调价格",
-      "url": "https://36kr.com/p/3849431503869187?f=rss",
+      "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+      "summary": "SpaceX市值破2.1万亿美元，Kimi推AI原生信用卡，韩美半导体投资SpaceX",
+      "url": "https://36kr.com/p/3850898430989577?f=rss",
+      "pubTime": "2026-06-13",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+      "summary": "SpaceX创史上最大IPO750亿美元，中央网信办设AI举报专区",
+      "url": "https://36kr.com/p/3849942472512769?f=rss",
+      "pubTime": "2026-06-13",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Arch Linux 逾四百 AUR 包被植入恶意程序",
+      "summary": "Arch Linux超400个AUR包遭恶意程序植入，安全事件波及广泛",
+      "url": "https://www.solidot.org/story?sid=84566",
+      "pubTime": "2026-06-13",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Open source AI must win",
+      "summary": "开源AI成行业趋势，需获支持以对抗闭源模型",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "pubTime": "2026-06-13",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "summary": "CRISPR精准摧毁癌细胞，突破难治癌症",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "pubTime": "2026-06-13",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发近绝对零度脑芯片或革新量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-13",
       "score": 85
     },
@@ -55,60 +105,10 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光-物质粒子，可为AI计算提供新动力",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可大幅提升AI算力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-13",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA研发新一代AI太空芯片，可使航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-13",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法秒解此前无法处理的材料科学难题，实现重大技术突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-13",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "铠侠市值超过丰田跃居日本股市第一",
-      "summary": "AI热潮推动铠侠市值超丰田 反映科技行业格局变化",
-      "url": "https://www.solidot.org/story?sid=84562",
-      "pubTime": "2026-06-13",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
-      "summary": "美国会拟改革版权局，影响AI数据版权政策",
-      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
-      "pubTime": "2026-06-13",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind资助研究AI代理大规模交互潜在危险，关注AI安全",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "pubTime": "2026-06-13",
-      "score": 78
     }
   ]
 }
