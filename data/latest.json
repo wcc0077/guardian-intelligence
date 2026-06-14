@@ -1,31 +1,21 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-14",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-14 12:06",
-  "sourceCount": 5,
+  "temperature": 82,
+  "updateTimeStr": "2026-06-14 16:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 601,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind研究AI代理大规模交互的潜在危险",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "pubTime": "2026-06-14",
-      "score": 90
-    },
-    {
-      "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
-      "summary": "美国政府以国安为由禁止外国公民访问Anthropic先进AI模型",
+      "summary": "美国政府以国家安全为由，禁止外国公民访问Anthropic先进AI模型",
       "url": "https://www.solidot.org/story?sid=84568",
       "pubTime": "2026-06-14",
       "score": 88
@@ -34,8 +24,68 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI太空芯片，可赋予航天器自主思考能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-14",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "summary": "SoulX柔性机器人获高瓴创投数千万元天使轮融资",
+      "url": "https://36kr.com/p/3851572421432324?f=rss",
+      "pubTime": "2026-06-14",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "突发！Anthropic全球停用Claude 5",
+      "summary": "Anthropic上线72小时后全球下架最强Claude 5",
+      "url": "https://36kr.com/p/3851015329027336?f=rss",
+      "pubTime": "2026-06-14",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "DeepMind研究AI代理大规模交互潜在危险，AI安全成行业焦点",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "pubTime": "2026-06-14",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片接近绝对零度，或将革新量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-06-14",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子可为AI供能",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-14",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法几秒解决此前不可能的材料科学问题",
+      "summary": "量子算法几秒解决\\",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-14",
       "score": 85
@@ -44,69 +94,19 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "summary": "研究用心理学注意力测试揭示AI模型的核心缺陷",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI让化学家仅凭描述设计分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-06-14",
-      "score": 78
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "summary": "AI重塑留学就业，传统学历溢价失效，人才价值待重塑",
+      "summary": "AI重塑留学就业市场，学历溢价失效，基础岗位被替代",
       "url": "https://36kr.com/p/3846972367866119?f=rss",
-      "pubTime": "2026-06-14",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-      "summary": "高瓴创投投资消费级柔性机器人公司SoulX天使轮数千万元",
-      "url": "https://36kr.com/p/3851572421432324?f=rss",
-      "pubTime": "2026-06-14",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "突发！Anthropic全球停用Claude 5",
-      "summary": "Anthropic公司Claude 5上线72小时被全球下架，具体原因待公布",
-      "url": "https://36kr.com/p/3851015329027336?f=rss",
-      "pubTime": "2026-06-14",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "summary": "探讨衰老重编程技术及内感受的隐藏感知研究",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "pubTime": "2026-06-14",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "GLM 5.2 Is Out",
-      "summary": "智谱AI发布GLM 5.2新版本模型",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "pubTime": "2026-06-14",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度运行，或将变革量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-14",
       "score": 75
     }
