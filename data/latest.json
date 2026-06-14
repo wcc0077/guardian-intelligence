@@ -1,52 +1,72 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-14",
-  "time": "04:06",
+  "time": "08:13",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-06-14 04:06",
-  "sourceCount": 4,
+  "temperature": 80,
+  "updateTimeStr": "2026-06-14 08:13",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 601,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可使航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-14",
-      "score": 88
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
-      "summary": "SpaceX市值破2.1万亿美元；Kimi推出全球首张AI原生信用卡；韩美半导体500亿投资SpaceX",
+      "summary": "SpaceX市值破2.1万亿美元，Kimi推AI信用卡，韩美半导体投资SpaceX",
       "url": "https://36kr.com/p/3850898430989577?f=rss",
       "pubTime": "2026-06-14",
-      "score": 85
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片，近零度运行，助推量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-06-14",
+      "score": 95
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
-      "summary": "SpaceX完成史上最大估值IPO，市值破2万亿美元，马斯克成首位万亿美元富翁",
+      "summary": "太空探索 IPO市值2万亿美元，马斯克成首富",
       "url": "https://36kr.com/p/3850902095336449?f=rss",
+      "pubTime": "2026-06-14",
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "为什么轨道数据中心比硅谷认为的更困难？",
+      "summary": "英伟达GTC大会宣布太空计算时代到来，轨道数据中心从科幻走向现实",
+      "url": "https://www.solidot.org/story?sid=84571",
       "pubTime": "2026-06-14",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "summary": "Amazon CEO与美官员对话引发对Anthropic模型监管加强",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
+      "summary": "美国政府以国安为由禁止外国公民访问Anthropic先进AI模型",
+      "url": "https://www.solidot.org/story?sid=84568",
+      "pubTime": "2026-06-14",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "DeepMind研究AI代理大规模交互潜在风险，AI安全受关注",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "pubTime": "2026-06-14",
       "score": 85
     },
@@ -55,60 +75,40 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI供能",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供强大动力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-14",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法几秒内解决此前不可能的材料科学问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-14",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发近绝对零度脑启发芯片，或将革新量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+      "summary": "分析SpaceX两万亿估值上市及马斯克商业布局战略",
+      "url": "https://36kr.com/p/3851073239372809?f=rss",
       "pubTime": "2026-06-14",
       "score": 82
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
-      "summary": "中科电墨获数千万Pre-A轮融资，电致变色材料成本降至进口五分之一，车规级产线建设中",
-      "url": "https://36kr.com/p/3850904887268611?f=rss",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "GLM 5.2 Is Out",
+      "summary": "GLM 5.2版本发布，AI语言模型更新",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
       "pubTime": "2026-06-14",
       "score": 80
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind研究AI代理交互潜在风险，关注大规模AI系统安全性",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "summary": "胰腺肿瘤治疗揭示癌症主开关，或引领新疗法的",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "pubTime": "2026-06-14",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "summary": "AI重塑留学就业：传统学历溢价失效，人才价值需重塑",
-      "url": "https://36kr.com/p/3846972367866119?f=rss",
-      "pubTime": "2026-06-14",
-      "score": 75
+      "score": 80
     }
   ]
 }
