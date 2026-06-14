@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-15",
-  "time": "00:09",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
   "temperature": 85,
-  "updateTimeStr": "2026-06-15 00:09",
+  "updateTimeStr": "2026-06-15 04:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 611,
@@ -12,31 +12,21 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
-      "summary": "美国政府以国安为由禁止外国公民访问Anthropic先进AI模型",
-      "url": "https://www.solidot.org/story?sid=84568",
-      "pubTime": "2026-06-15",
-      "score": 88
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "Google DeepMind资助研究多智能体交互潜在风险",
+      "summary": "DeepMind资助多智能体交互风险",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "pubTime": "2026-06-15",
-      "score": 88
+      "score": 90
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "summary": "足球数据复兴与中国的核能计划",
-      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "突发！Anthropic全球停用Claude 5",
+      "summary": "AI公司AnthropicClaude 5产品全球下架",
+      "url": "https://36kr.com/p/3851015329027336?f=rss",
       "pubTime": "2026-06-15",
       "score": 85
     },
@@ -45,7 +35,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度运行，可改变量子计算",
+      "summary": "港大研发脑启发芯片，接近绝对零度将变革量子计算",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-15",
       "score": 85
@@ -54,48 +44,28 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "研究揭示顶级AI模型在心理学注意力测试中暴露重大缺陷",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "pubTime": "2026-06-15",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子驱动AI技术",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-15",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：解决材料科学",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试AI芯片，赋予航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
-      "summary": "中科电墨获数千万Pre-A轮融资，电致变色材料成本降至进口五分之一",
-      "url": "https://36kr.com/p/3850904887268611?f=rss",
-      "pubTime": "2026-06-15",
-      "score": 80
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Job titles of the future: Nature’s drug designer",
-      "summary": "未来药物设计职位：自然药物设计师崛起",
+      "summary": "未来新职：自然药物设计师，AI驱动药研",
       "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
       "pubTime": "2026-06-15",
       "score": 80
@@ -104,11 +74,41 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "突发！Anthropic全球停用Claude 5",
-      "summary": "Anthropic旗下Claude 5上线72小时后全球下架，具体原因待查",
-      "url": "https://36kr.com/p/3851015329027336?f=rss",
+      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "summary": "AI重塑留学就业市场，传统学历溢价失效",
+      "url": "https://36kr.com/p/3846972367866119?f=rss",
       "pubTime": "2026-06-15",
       "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/trending",
+      "title": "[GitHub] nexu-io/open-design ⭐64743",
+      "summary": "开源AI设计工具open-design获6.4万star，系Claude Design本地替代品",
+      "url": "https://github.com/nexu-io/open-design",
+      "pubTime": "2026-06-15",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+      "summary": "高瓴创投投资消费级柔性机器人公司SoulX天使轮",
+      "url": "https://36kr.com/p/3851572421432324?f=rss",
+      "pubTime": "2026-06-15",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+      "summary": "电致变色技术厂商获投数千万，车规级材料成本降至进口五分之一",
+      "url": "https://36kr.com/p/3850904887268611?f=rss",
+      "pubTime": "2026-06-15",
+      "score": 75
     }
   ]
 }
