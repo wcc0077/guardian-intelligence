@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-15",
-  "time": "04:06",
+  "time": "08:14",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-06-15 04:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-15 08:14",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 611,
@@ -12,103 +12,103 @@
   "signals": [
     {
       "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "为什么轨道数据中心比硅谷认为的更困难？",
+      "summary": "英伟达GTC大会宣布太空计算时代到来，轨道数据中心从科幻走向现实",
+      "url": "https://www.solidot.org/story?sid=84571",
+      "pubTime": "2026-06-15",
+      "score": 85
+    },
+    {
+      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind资助多智能体交互风险",
+      "summary": "Google DeepMind资助AI代理交互潜在风险研究",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "pubTime": "2026-06-15",
-      "score": 90
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "突发！Anthropic全球停用Claude 5",
-      "summary": "AI公司AnthropicClaude 5产品全球下架",
+      "summary": "Anthropic最强Claude 5上线72小时遭全球下架",
       "url": "https://36kr.com/p/3851015329027336?f=rss",
       "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片，接近绝对零度将变革量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "summary": "研究揭示顶级AI模型在心理学注意力测试中暴露重大缺陷",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-      "pubTime": "2026-06-15",
-      "score": 85
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
+      "summary": "美国宾大研发混合光物质粒子，可显著提升AI计算能力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-15",
-      "score": 85
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新量子算法秒解材料科学难题，实现重大技术突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-15",
+      "score": 78
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Job titles of the future: Nature’s drug designer",
-      "summary": "未来新职：自然药物设计师，AI驱动药研",
-      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "summary": "生物技术公司Life Biosciences专注逆转衰老研究，“reprogramming”技术成抗衰老热点",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
       "pubTime": "2026-06-15",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片接近绝对零度，可赋能量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-06-15",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新型AI太空芯片，可赋予航天器自主思考能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-15",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI助化学家通过描述设计分子，推动科研新突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-15",
+      "score": 75
+    },
+    {
+      "section": "deepDive",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "summary": "AI重塑留学就业市场，传统学历溢价失效",
+      "summary": "AI时代留学学历溢价失效，留学生才需重塑竞争力",
       "url": "https://36kr.com/p/3846972367866119?f=rss",
       "pubTime": "2026-06-15",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] nexu-io/open-design ⭐64743",
-      "summary": "开源AI设计工具open-design获6.4万star，系Claude Design本地替代品",
-      "url": "https://github.com/nexu-io/open-design",
-      "pubTime": "2026-06-15",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-      "summary": "高瓴创投投资消费级柔性机器人公司SoulX天使轮",
-      "url": "https://36kr.com/p/3851572421432324?f=rss",
-      "pubTime": "2026-06-15",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
-      "summary": "电致变色技术厂商获投数千万，车规级材料成本降至进口五分之一",
-      "url": "https://36kr.com/p/3850904887268611?f=rss",
-      "pubTime": "2026-06-15",
-      "score": 75
+      "score": 70
     }
   ]
 }
