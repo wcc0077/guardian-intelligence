@@ -1,114 +1,104 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-15",
-  "time": "12:06",
+  "time": "16:07",
   "label": "LATEST BRIEFING",
-  "temperature": 91,
-  "updateTimeStr": "2026-06-15 12:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-15 16:07",
   "sourceCount": 3,
   "totalCount": 52,
-  "totalSignalsAll": 611,
-  "signalCount": 10,
+  "totalSignalsAll": 610,
+  "signalCount": 9,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA新AI芯片 航天器能自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-15",
-      "score": 90
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-      "summary": "智源院长王仲远称VLA不会死，世界模型是AI未来趋势",
-      "url": "https://36kr.com/p/3853016586359817?f=rss",
+      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "summary": "",
+      "url": "https://36kr.com/p/3846972367866119?f=rss",
       "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "summary": "DeepMind研究多智能体交互风险，AI安全引关注",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发式芯片，接近绝对零度运行，可改变量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI帮助化学家通过描述设计分子，实现化学设计突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-06-15",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎、淡马锡押注",
-      "summary": "海洋具身智能公司世航智能获10亿融资，朱啸虎淡马锡参投",
-      "url": "https://36kr.com/p/3853011900142848?f=rss",
-      "pubTime": "2026-06-15",
-      "score": 78
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
-      "summary": "EBike变速器供应商洛梵狄获数千万元融资，打破海外垄断",
+      "summary": "",
       "url": "https://36kr.com/p/3853252135654660?f=rss",
       "pubTime": "2026-06-15",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
-      "summary": "高瓴创投投资消费级柔性机器人公司SoulX数千万元天使轮",
-      "url": "https://36kr.com/p/3851572421432324?f=rss",
+      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+      "summary": "",
+      "url": "https://36kr.com/p/3853011900142848?f=rss",
       "pubTime": "2026-06-15",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-      "summary": "AI重塑留学就业：学历溢价失效，高薪专业面临AI替代风险",
-      "url": "https://36kr.com/p/3846972367866119?f=rss",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "印度工人训练将会替代他们的 AI 机器人",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84574",
       "pubTime": "2026-06-15",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "英国警官被控使用 AI 伪造证据",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84572",
+      "pubTime": "2026-06-15",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "pubTime": "2026-06-15",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-15",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-15",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-15",
+      "score": 80
     }
   ]
 }
