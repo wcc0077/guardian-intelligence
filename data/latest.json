@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-16",
-  "time": "04:06",
+  "time": "08:13",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-06-16 04:06",
+  "temperature": 91,
+  "updateTimeStr": "2026-06-16 08:13",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 621,
@@ -12,101 +12,101 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
-      "summary": "中国成功发射8颗卫星，小红书港股IPO在即，智谱发布GLM-5.2旗舰模型",
-      "url": "https://36kr.com/p/3854486447510535?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破，解决材料科学",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-16",
-      "score": 95
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
-      "summary": "海洋具身智能公司世航智能获10亿融资，朱啸虎押注",
+      "summary": "海洋具身智能公司世航智能完成超10亿A轮融资，朱啸虎领投",
       "url": "https://36kr.com/p/3853011900142848?f=rss",
       "pubTime": "2026-06-16",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "summary": "生物技术企业研发逆转衰老新技术突破里程碑",
-      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片接近绝对零度运行，可变革量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-16",
       "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "US battery manufacturing output continues to break records",
+      "summary": "美国电池产量创新高，产能持续增长",
+      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "pubTime": "2026-06-16",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "美国宾大研发光物质混合粒子，可为AI供能",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新动力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-16",
-      "score": 85
+      "score": 78
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒内解决此前不可能的材料科学计算难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+      "summary": "智谱发布GLM-5.2新模型，小红书准备港股IPO，我国成功发射8颗卫星",
+      "url": "https://36kr.com/p/3854486447510535?f=rss",
       "pubTime": "2026-06-16",
-      "score": 85
+      "score": 75
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "summary": "研究揭示衰老可逆转，或引领生物技术新突破",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "summary": "智源院长王仲远谈VLA与世界模型技术趋势",
+      "url": "https://36kr.com/p/3853016586359817?f=rss",
       "pubTime": "2026-06-16",
-      "score": 80
+      "score": 75
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "summary": "ALS患者使用脑植入物恢复说话能力，成为首位高级用户，标志着脑机接口技术重大突破",
+      "summary": "脑机接口技术突破，ALS患者通过脑植入物恢复说话能力",
       "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-      "pubTime": "2026-06-16",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "香港大学研发近绝对零度脑启发芯片或革新量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "pubTime": "2026-06-16",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] openai/codex-plugin-cc ⭐21033",
-      "summary": "OpenAI发布codex-plugin-cc代码辅助插件获2.1万星标",
-      "url": "https://github.com/openai/codex-plugin-cc",
       "pubTime": "2026-06-16",
       "score": 75
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA研发新型AI太空芯片，可让航天器自主思考决策",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "summary": "固态空调技术获突破，科学家质疑其实际可行性",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "pubTime": "2026-06-16",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "summary": "MIT Tech Review报道抗衰老编程技术及内感受研究突破",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
       "pubTime": "2026-06-16",
       "score": 75
     }
