@@ -1,52 +1,72 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-16",
-  "time": "08:13",
+  "time": "12:05",
   "label": "LATEST BRIEFING",
-  "temperature": 91,
-  "updateTimeStr": "2026-06-16 08:13",
-  "sourceCount": 4,
+  "temperature": 50,
+  "updateTimeStr": "2026-06-16 12:05",
+  "sourceCount": 5,
   "totalCount": 52,
-  "totalSignalsAll": 621,
-  "signalCount": 10,
+  "totalSignalsAll": 620,
+  "signalCount": 9,
   "signals": [
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破，解决材料科学",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-16",
-      "score": 88
-    },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
-      "summary": "海洋具身智能公司世航智能完成超10亿A轮融资，朱啸虎领投",
+      "summary": "",
       "url": "https://36kr.com/p/3853011900142848?f=rss",
       "pubTime": "2026-06-16",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度运行，可变革量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+      "summary": "",
+      "url": "https://36kr.com/p/3853252135654660?f=rss",
       "pubTime": "2026-06-16",
-      "score": 85
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "测试显示 AI 的数学解题能力仍然不如人类专家",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84583",
+      "pubTime": "2026-06-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Why do South Koreans love AI so much?",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "pubTime": "2026-06-16",
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "US battery manufacturing output continues to break records",
-      "summary": "美国电池产量创新高，产能持续增长",
-      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "summary": "",
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "pubTime": "2026-06-16",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "pubTime": "2026-06-16",
       "score": 80
     },
@@ -55,60 +75,30 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新动力",
+      "summary": "",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-16",
-      "score": 78
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
-      "summary": "智谱发布GLM-5.2新模型，小红书准备港股IPO，我国成功发射8颗卫星",
-      "url": "https://36kr.com/p/3854486447510535?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-16",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-      "summary": "智源院长王仲远谈VLA与世界模型技术趋势",
-      "url": "https://36kr.com/p/3853016586359817?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
       "pubTime": "2026-06-16",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "summary": "脑机接口技术突破，ALS患者通过脑植入物恢复说话能力",
-      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-      "pubTime": "2026-06-16",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-      "summary": "固态空调技术获突破，科学家质疑其实际可行性",
-      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-      "pubTime": "2026-06-16",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "summary": "MIT Tech Review报道抗衰老编程技术及内感受研究突破",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "pubTime": "2026-06-16",
-      "score": 75
+      "score": 80
     }
   ]
 }
