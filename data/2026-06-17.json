@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-17",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-06-17 00:06",
+  "temperature": 85,
+  "updateTimeStr": "2026-06-17 04:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 628,
@@ -12,70 +12,40 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Your “um” and pauses could reveal early dementia risk",
-      "summary": "AI语音分析可早期预测痴呆风险",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
-      "pubTime": "2026-06-17",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI突破：化学家可通过描述直接设计复杂分子",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-06-17",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
-      "summary": "大晓机器人获数亿美金融资，商汤联合创始人王晓刚揭具身智能行业现状",
-      "url": "https://36kr.com/p/3855262364488969?f=rss",
-      "pubTime": "2026-06-17",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
-      "summary": "智谱AI股价暴涨创上市新高，山姆因食品安全被约谈",
-      "url": "https://36kr.com/p/3855082873476102?f=rss",
-      "pubTime": "2026-06-17",
-      "score": 85
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
-      "summary": "智谱发布GLM-5.2新模型，支付宝AI助手服务破亿，小红书或本月港交所IPO",
+      "summary": "中国发射8颗卫星+小红书准备港股IPO+智谱发布GLM-5.2模型",
       "url": "https://36kr.com/p/3854486447510535?f=rss",
       "pubTime": "2026-06-17",
-      "score": 85
+      "score": 95
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "开源模型能否战胜 OpenAI？",
-      "summary": "分析开源与闭源AI模型竞争态势及中美策略差异",
-      "url": "https://www.solidot.org/story?sid=84595",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片接近绝对零度，或将变革量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-17",
-      "score": 85
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "SpaceX to buy Cursor for $60B",
+      "summary": "SpaceX拟600亿美元收购AI编程工具Cursor",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "pubTime": "2026-06-17",
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "summary": "报道脑植入技术突破及韩国AI发展热新浪潮",
+      "summary": "脑植入技术突破与韩国AI发展战略引关注",
       "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
       "pubTime": "2026-06-17",
       "score": 85
@@ -85,7 +55,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片 可使航天器自主思考",
+      "summary": "NASA测试新一代AI空间芯片，可赋予航天器自主思考能力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-17",
       "score": 85
@@ -94,9 +64,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新型量子算法几秒内解决此前不可能的材料科学问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发光物质混合粒子，可为AI供能，或将革新计算技术",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-17",
       "score": 85
     },
@@ -104,11 +74,41 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发接近绝对零度脑启发芯片，或将革新量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI助化学家通过文字描述直接设计复杂分子",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-17",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Your “um” and pauses could reveal early dementia risk",
+      "summary": "AI通过语言停顿时检测早老痴呆风险",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
+      "pubTime": "2026-06-17",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
+      "summary": "大晓机器人获数亿美金融资，王晓刚揭示具身智能行业趋势",
+      "url": "https://36kr.com/p/3855262364488969?f=rss",
       "pubTime": "2026-06-17",
       "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "summary": "荷兰发布主权AI语言模型GPT-NL，推动本土AI发展",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "pubTime": "2026-06-17",
+      "score": 75
     }
   ]
 }
