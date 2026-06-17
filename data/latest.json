@@ -1,42 +1,22 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-17",
-  "time": "16:06",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-17 16:06",
-  "sourceCount": 4,
+  "temperature": 78,
+  "updateTimeStr": "2026-06-17 20:06",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 628,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "summary": "首例脑植入用户与韩国AI热潮",
-      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-      "pubTime": "2026-06-17",
-      "score": 90
-    },
-    {
-      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法秒破材料难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-17",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA新AI太空芯片，航天器将自行思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大脑启发芯片近绝对零度，或助量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-17",
       "score": 90
     },
@@ -45,48 +25,68 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
-      "summary": "AI世界模型赛道获大额融资，一级市场抢筹白热化，头部集中趋势明显",
+      "summary": "逆矩阵获超亿美元融资，世界模型窗口期缩至18个月",
       "url": "https://36kr.com/p/3826129009234824?f=rss",
       "pubTime": "2026-06-17",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI供能",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-17",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 中科大博士做量子赛道“卖水人”，连续融资两轮",
-      "summary": "量子计算供应商太微量子获天使轮融资，中科大博士创业",
-      "url": "https://36kr.com/p/3856755190551811?f=rss",
-      "pubTime": "2026-06-17",
-      "score": 80
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "ChatGPT 市场份额首次跌破 50%",
-      "summary": "ChatGPT市场份额首次跌破50%，AI竞争格局生变",
+      "summary": "ChatGPT市场份额首次跌破50%，AI竞争加剧",
       "url": "https://www.solidot.org/story?sid=84603",
       "pubTime": "2026-06-17",
-      "score": 80
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发光物质混合粒子，提升AI计算效率",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-17",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新量子算法几秒解决此前不可能的材料科学问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-17",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "AI lets chemists design molecules by simply describing them",
+      "summary": "AI助化学家通过描述文字直接设计分子，实现突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+      "pubTime": "2026-06-17",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "微软考虑使用 DeepSeek 的开源模型降低成本",
-      "summary": "微软考虑采用DeepSeek开源模型降低Copilot成本，反映AI成本优化趋势",
+      "summary": "微软考虑采用DeepSeek开源模型降低Copilot成本，反映AI模型选择多元化趋势",
       "url": "https://www.solidot.org/story?sid=84602",
+      "pubTime": "2026-06-17",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "summary": "首例脑植入用户曝光，韩国人工智能热潮来袭",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
       "pubTime": "2026-06-17",
       "score": 80
     },
@@ -94,21 +94,21 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
-      "summary": "NoonWake.AI获近千万元种子轮融资，AI做情绪消费品",
-      "url": "https://36kr.com/p/3848483761493250?f=rss",
+      "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
+      "summary": "仙工智能港股IPO，市值112.27亿港元，智能机器人公司",
+      "url": "https://36kr.com/p/3857011810112521?f=rss",
       "pubTime": "2026-06-17",
-      "score": 75
+      "score": 78
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里",
-      "summary": "国内具身智能赛道重心从硬件转向软件与AI部署闭环",
-      "url": "https://36kr.com/p/3856871787189252?f=rss",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "summary": "GLM-5.2成Artificial Analysis领先开源权重模型",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
       "pubTime": "2026-06-17",
-      "score": 75
+      "score": 78
     }
   ]
 }
