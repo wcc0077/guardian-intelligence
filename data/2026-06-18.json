@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-18",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-18 12:06",
+  "temperature": 88,
+  "updateTimeStr": "2026-06-18 16:06",
   "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 638,
@@ -12,51 +12,61 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒解决材料难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-18",
-      "score": 95
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片，可让航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-18",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
-      "summary": "北大科学家创立侵入式脑机接口公司，获近亿元种子轮融资",
-      "url": "https://36kr.com/p/3855480467543042?f=rss",
-      "pubTime": "2026-06-18",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-      "summary": "具身智能企业穹彻智能获数亿元融资，红杉阿里跟投",
-      "url": "https://36kr.com/p/3856708724315400?f=rss",
-      "pubTime": "2026-06-18",
-      "score": 85
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
-      "summary": "菜鸟建欧洲供应链中心，有道获教育科技奖，国务院推进AI+行动",
+      "summary": "菜鸟布局欧洲供应链，有道词典笔获国际奖，国务院推AI+行动",
       "url": "https://36kr.com/p/3857175761081348?f=rss",
+      "pubTime": "2026-06-18",
+      "score": 92
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破，秒解材料科学界难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-18",
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "苹果准备涨价",
+      "summary": "苹果称AI热致内存短缺难以为继，涨价不可避免",
+      "url": "https://www.solidot.org/story?sid=84614",
+      "pubTime": "2026-06-18",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "美国暂缓将 DeepSeek 加入黑名单",
+      "summary": "美国暂缓将AI公司DeepSeek等加入贸易黑名单，避免中美关系紧张",
+      "url": "https://www.solidot.org/story?sid=84613",
+      "pubTime": "2026-06-18",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "summary": "脑机接口技术突破，ALS患者通过脑植入物实现说话",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "pubTime": "2026-06-18",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "summary": "首例脑植入电源用户与韩国AI热潮",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
       "pubTime": "2026-06-18",
       "score": 85
     },
@@ -64,9 +74,29 @@
       "section": "highlights",
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
-      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "summary": "美暂不黑DeepSeek，百企被列风险",
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "title": "DeepSeek Introduces Vision",
+      "summary": "DeepSeek发布Vision视觉AI产品",
+      "url": "https://chat.deepseek.com/",
+      "pubTime": "2026-06-18",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研制接近绝对零度脑启发芯片或助量子计算突破",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-06-18",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "AI模型在注意力测试中暴露重大弱点",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "pubTime": "2026-06-18",
       "score": 85
     },
@@ -75,40 +105,10 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子或为AI计算带来突破",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新型动力源",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-18",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "中科院博士冲上市，市值超105亿港币",
-      "summary": "中科闻歌港股IPO，市值超105亿港币",
-      "url": "https://36kr.com/p/3857959588418823?f=rss",
-      "pubTime": "2026-06-18",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "泄漏财务数据显示 2025 年 OpenAI 净亏损约 80 亿美元",
-      "summary": "OpenAI 2025年营收130亿美元但净亏损约80亿美元",
-      "url": "https://www.solidot.org/story?sid=84607",
-      "pubTime": "2026-06-18",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "summary": "脑机接口新突破：ALS患者通过脑植入物实现语音交流",
-      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-      "pubTime": "2026-06-18",
-      "score": 75
+      "score": 82
     }
   ]
 }
