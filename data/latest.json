@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-18",
-  "time": "04:06",
+  "time": "08:12",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-06-18 04:06",
-  "sourceCount": 5,
+  "updateTimeStr": "2026-06-18 08:12",
+  "sourceCount": 0,
   "totalCount": 52,
-  "totalSignalsAll": 638,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法秒破材料难题，或革新材料科学",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-18",
-      "score": 95
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "summary": "首个脑植入芯片超级用户诞生，韩国AI发展引关注",
-      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-      "pubTime": "2026-06-18",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "summary": "GLM-5.2成为Artificial Analysis新领先开源模型",
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "pubTime": "2026-06-18",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 中科大博士做量子赛道“卖水人”，连续融资两轮",
-      "summary": "中科大博士创量子计算供应商太微量子，连获两轮融资",
-      "url": "https://36kr.com/p/3856755190551811?f=rss",
-      "pubTime": "2026-06-18",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
-      "summary": "AI情绪消费品公司NoonWake获种子轮融资，聚焦泛心理+AI",
-      "url": "https://36kr.com/p/3848483761493250?f=rss",
-      "pubTime": "2026-06-18",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供动力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-18",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
-      "summary": "国务院推进人工智能+行动，探索人机协同；菜鸟在荷兰建供应链中心",
-      "url": "https://36kr.com/p/3857175761081348?f=rss",
-      "pubTime": "2026-06-18",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "泄漏财务数据显示 2025 年 OpenAI 净亏损约 80 亿美元",
-      "summary": "OpenAI 2025年净亏损约80亿美元，营收增至130亿美元",
-      "url": "https://www.solidot.org/story?sid=84607",
-      "pubTime": "2026-06-18",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "summary": "美国推迟将DeepSeek列入黑名单，逾百家公司被认定为安全风险",
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "pubTime": "2026-06-18",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "summary": "研究发现经典注意力测试揭示AI重大弱点",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-      "pubTime": "2026-06-18",
-      "score": 75
-    }
-  ]
+  "totalSignalsAll": 628,
+  "signalCount": 0,
+  "signals": []
 }
