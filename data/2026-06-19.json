@@ -1,51 +1,21 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-19",
-  "time": "04:06",
+  "time": "08:14",
   "label": "LATEST BRIEFING",
   "temperature": 85,
-  "updateTimeStr": "2026-06-19 04:06",
-  "sourceCount": 5,
+  "updateTimeStr": "2026-06-19 08:14",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 648,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "AI lets chemists design molecules by simply describing them",
-      "summary": "AI助化学家通过描述设计分子",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
-      "pubTime": "2026-06-19",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：秒解",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-19",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-19",
-      "score": 88
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
-      "summary": "AI消费政策、航天发射成功、自动驾驶国际交流",
+      "summary": "AI+消费政策出台促行业发展，滴滴自动驾驶亮相国际大会",
       "url": "https://36kr.com/p/3858015526704129?f=rss",
       "pubTime": "2026-06-19",
       "score": 85
@@ -55,60 +25,90 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
-      "summary": "北大科学家创立侵入式脑机接口公司芯生视界，获近亿元种子轮融资",
+      "summary": "北大科学家创脑机接口公司芯生视界，获近亿元种子轮融资",
       "url": "https://36kr.com/p/3855480467543042?f=rss",
       "pubTime": "2026-06-19",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
-      "summary": "蔚来向多平台车型推送世界模型更新，智驾技术创新将重构行业竞争",
-      "url": "https://36kr.com/p/3858329994875908?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾大研发混合光物质粒子，为AI供能或带来突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-19",
-      "score": 78
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "摩根大通高盛禁止香港员工使用 Anthropic 模型",
-      "summary": "摩根大通高盛禁止香港员工使用Anthropic模型，显示AI技术境外应用审查趋严",
-      "url": "https://www.solidot.org/story?sid=84620",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法秒解超难材料问题，助力新材料研发突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-19",
-      "score": 78
+      "score": 82
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-      "summary": "具身智能企业穹彻智能获数亿元融资，无锡数据集团领投",
-      "url": "https://36kr.com/p/3856708724315400?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "经典脑测试揭示AI注意力系统重大缺陷",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "pubTime": "2026-06-19",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "summary": "MIT Tech Review报道脑机接口首位用户及韩国AI发展热潮",
+      "summary": "首个脑植入物用户诞生，韩国AI发展受关注",
       "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "pubTime": "2026-06-19",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片，接近绝对零度运行，可革新量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-19",
       "score": 75
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Noam Shazeer Joins OpenAI",
-      "summary": "Transformer作者Noam Shazeer重返OpenAI，顶级AI人才流动",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA研发新一代AI太空芯片，可让航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-19",
       "score": 75
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+      "summary": "蔚来向多代平台车型推送世界模型智驾更新，技术创新重构竞争",
+      "url": "https://36kr.com/p/3858329994875908?f=rss",
+      "pubTime": "2026-06-19",
+      "score": 70
+    },
+    {
+      "section": "deepDive",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+      "summary": "具身智能企业穹彻智能获数亿元融资，红杉、阿里等参投",
+      "url": "https://36kr.com/p/3856708724315400?f=rss",
+      "pubTime": "2026-06-19",
+      "score": 70
     }
   ]
 }
