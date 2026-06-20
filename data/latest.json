@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-20",
-  "time": "12:09",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 82,
-  "updateTimeStr": "2026-06-20 12:09",
+  "temperature": 85,
+  "updateTimeStr": "2026-06-20 16:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 658,
@@ -12,20 +12,50 @@
   "signals": [
     {
       "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+      "summary": "17项举措推进AI+消费发展，快舟十一号火箭发射成功",
+      "url": "https://36kr.com/p/3858015526704129?f=rss",
+      "pubTime": "2026-06-20",
+      "score": 95
+    },
+    {
+      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "AI创业公司声称突破LLM计算瓶颈，技术突破获关注",
+      "summary": "AI初创公司声称突破LLM技术瓶颈，提升效率",
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "pubTime": "2026-06-20",
       "score": 88
     },
     {
       "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可大幅提升AI算力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-20",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "summary": "AI潮玩品牌ZuzuZoos获数千万Pre-A轮融资，入局陪伴机器人赛道",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
+      "pubTime": "2026-06-20",
+      "score": 85
+    },
+    {
+      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "AI瓶颈引发行业讨论，脑机接口临床试验启动",
+      "summary": "AI发展瓶颈引发行业讨论，脑机接口技术试验加速推进",
       "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
       "pubTime": "2026-06-20",
       "score": 85
@@ -35,7 +65,7 @@
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
       "title": "Hyundai buys Boston Dynamics",
-      "summary": "现代汽车收购波士顿动力，进军机器人AI领域",
+      "summary": "现代汽车收购波士顿动力，进军机器人领域",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "pubTime": "2026-06-20",
       "score": 85
@@ -44,9 +74,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "SpaceX拟建太空AI数据中心，应对AI算力需求激增",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "研究表明经典注意力测试暴露AI重大弱点",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "pubTime": "2026-06-20",
       "score": 85
     },
@@ -55,7 +85,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度，或将革新量子计算",
+      "summary": "香港大学研发脑启发芯片，接近绝对零度运行或变革量子计算",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-20",
       "score": 85
@@ -64,9 +94,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子，可显著提升AI计算能效",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新型AI太空芯片，可使航天器自主思考决策",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-20",
       "score": 85
     },
@@ -75,40 +105,10 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法几秒解决此前不可能的材料科学问题",
+      "summary": "量子算法突破：秒解此前不可能的材料科学问题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-20",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Brain-computer interface trials are taking off",
-      "summary": "脑机接口临床试验启动，ALS患者Casey Harrell成首例受试者",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "pubTime": "2026-06-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "summary": "Java Project Valhalla历经十年实现值类型，将于JDK 28发布",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "pubTime": "2026-06-20",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-      "summary": "AI潮玩品牌ZuzuZoos获数千万Pre-A轮融资，进军陪伴机器人领域",
-      "url": "https://36kr.com/p/3859926114161665?f=rss",
-      "pubTime": "2026-06-20",
-      "score": 75
     }
   ]
 }
