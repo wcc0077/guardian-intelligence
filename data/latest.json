@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-22",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-06-22 12:06",
+  "temperature": 90,
+  "updateTimeStr": "2026-06-22 16:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 678,
@@ -12,21 +12,21 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒内解决材料科学难题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Brain-computer interface trials are taking off",
+      "summary": "脑机接口临床试验加速，首位ALS患者接受植入",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
       "pubTime": "2026-06-22",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发｜红杉中国、Brizan Ventures领投，AI厨房机器人品牌「栗上LISSOME」完成数千万元A轮融资",
-      "summary": "AI厨房机器人栗上获数千万元A轮融资，红杉中国领投",
-      "url": "https://36kr.com/p/3863779663320069?f=rss",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary": "初创称突破LLM算力瓶颈",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "pubTime": "2026-06-22",
       "score": 85
     },
@@ -35,7 +35,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度运行，可变革量子计算",
+      "summary": "港大研发近绝对零度脑启发芯片，或将革新量子计算技术",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-22",
       "score": 85
@@ -44,59 +44,59 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "summary": "SpaceX计划在太空建AI数据中心，AI驱动数据中心向太空延伸的新趋势",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "pubTime": "2026-06-22",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，可大幅提升AI硬件性能",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI硬件提供新动力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-22",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨马斯克拿下7800亿元天价薪酬；伊朗代表团暂停伊美谈判，抗议特朗普威胁言论；刘强东称将来不需要快递员，要保住70万兄弟的工作",
-      "summary": "马斯克获7800亿天价薪酬，刘强东称用AI替代快递员",
-      "url": "https://36kr.com/p/3863586257573124?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：秒解材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-22",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-      "summary": "AI潮玩品牌ZuzuZoos获数千万融资，入局陪伴机器人",
-      "url": "https://36kr.com/p/3859926114161665?f=rss",
-      "pubTime": "2026-06-22",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "探讨AI发展瓶颈问题，脑机接口临床试验启动",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "pubTime": "2026-06-22",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "软银将其持有的波士顿动力剩余股份全部出售给现代汽车",
-      "summary": "软银出售波士顿动力剩余股份给现代汽车",
+      "summary": "软银完成退出波士顿动力，现代汽车全资收购",
       "url": "https://www.solidot.org/story?sid=84631",
       "pubTime": "2026-06-22",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 联想之星险峰联合领投，AI算力中心感知与效能管理方案商完成天使轮融资",
+      "summary": "联想之星险峰领投芯感通，AI算力中心管理方案商获天使轮融资",
+      "url": "https://36kr.com/p/3863885024973832?f=rss",
+      "pubTime": "2026-06-22",
       "score": 75
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "AI初创公司称突破LLM训练推理瓶颈",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
+      "summary": "航空航天智能装备商大连坤达获数千万元融资",
+      "url": "https://36kr.com/p/3863883390194692?f=rss",
       "pubTime": "2026-06-22",
       "score": 75
     },
@@ -104,9 +104,9 @@
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Brain-computer interface trials are taking off",
-      "summary": "脑机接口临床试验加速推进，首位ALS患者接受植入",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "summary": "AI发展瓶颈引发讨论，脑机接口临床试验启动",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
       "pubTime": "2026-06-22",
       "score": 75
     }
