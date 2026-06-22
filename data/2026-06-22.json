@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-22",
-  "time": "08:14",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-06-22 08:14",
+  "temperature": 85,
+  "updateTimeStr": "2026-06-22 12:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 678,
@@ -12,11 +12,11 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "AI初创公司声称突破LLM技术瓶颈",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新量子算法几秒内解决材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-22",
       "score": 88
     },
@@ -24,29 +24,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
-      "summary": "爱玛推出黑翼系列两轮电动车，定位年轻男性市场，强调AI与硬核科技应用",
-      "url": "https://36kr.com/p/3858803016881154?f=rss",
-      "pubTime": "2026-06-22",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "AI瓶颈引发行业讨论，脑机接口临床试验加速推进",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "pubTime": "2026-06-22",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Brain-computer interface trials are taking off",
-      "summary": "脑机接口临床试验启动，首位ALS患者接受治疗",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "title": "36氪首发｜红杉中国、Brizan Ventures领投，AI厨房机器人品牌「栗上LISSOME」完成数千万元A轮融资",
+      "summary": "AI厨房机器人栗上获数千万元A轮融资，红杉中国领投",
+      "url": "https://36kr.com/p/3863779663320069?f=rss",
       "pubTime": "2026-06-22",
       "score": 85
     },
@@ -55,7 +35,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度，或将变革量子计算",
+      "summary": "港大研发脑启发芯片接近绝对零度运行，可变革量子计算",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-22",
       "score": 85
@@ -65,28 +45,8 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发混合光物质粒子，或为AI供能，突破电子技术",
+      "summary": "宾大研发光物质混合粒子，可大幅提升AI硬件性能",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-22",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破解决材料科学\\",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-22",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] MemPalace/mempalace ⭐56108",
-      "summary": "开源AI记忆系统MemPalace获5.6万星，技术突破获关注",
-      "url": "https://github.com/MemPalace/mempalace",
       "pubTime": "2026-06-22",
       "score": 80
     },
@@ -94,21 +54,61 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
-      "summary": "17项举措推进AI+消费发展，滴滴自动驾驶亮相伦敦MOVE大会",
-      "url": "https://36kr.com/p/3858015526704129?f=rss",
+      "title": "8点1氪丨马斯克拿下7800亿元天价薪酬；伊朗代表团暂停伊美谈判，抗议特朗普威胁言论；刘强东称将来不需要快递员，要保住70万兄弟的工作",
+      "summary": "马斯克获7800亿天价薪酬，刘强东称用AI替代快递员",
+      "url": "https://36kr.com/p/3863586257573124?f=rss",
       "pubTime": "2026-06-22",
       "score": 78
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "SpaceX拟建太空AI数据中心，反映AI与航天技术融合新趋势",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "summary": "AI潮玩品牌ZuzuZoos获数千万融资，入局陪伴机器人",
+      "url": "https://36kr.com/p/3859926114161665?f=rss",
       "pubTime": "2026-06-22",
       "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "summary": "探讨AI发展瓶颈问题，脑机接口临床试验启动",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "pubTime": "2026-06-22",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "软银将其持有的波士顿动力剩余股份全部出售给现代汽车",
+      "summary": "软银出售波士顿动力剩余股份给现代汽车",
+      "url": "https://www.solidot.org/story?sid=84631",
+      "pubTime": "2026-06-22",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary": "AI初创公司称突破LLM训练推理瓶颈",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "pubTime": "2026-06-22",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Brain-computer interface trials are taking off",
+      "summary": "脑机接口临床试验加速推进，首位ALS患者接受植入",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "pubTime": "2026-06-22",
+      "score": 75
     }
   ]
 }
