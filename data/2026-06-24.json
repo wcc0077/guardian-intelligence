@@ -1,114 +1,104 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-24",
-  "time": "04:06",
+  "time": "08:08",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-06-24 04:06",
-  "sourceCount": 4,
+  "updateTimeStr": "2026-06-24 08:08",
+  "sourceCount": 2,
   "totalCount": 52,
-  "totalSignalsAll": 698,
-  "signalCount": 10,
+  "totalSignalsAll": 697,
+  "signalCount": 9,
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The $400 million machine powering the future of chipmaking",
-      "summary": "ASML推出4亿美元EUV光刻机，推动芯片制造技术突破",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜索尼集团计划近三十年来首次发行美元债券；甲骨文上财年裁员约2.1万；豆包发布2.1 Pro模型",
+      "summary": "",
+      "url": "https://36kr.com/p/3865513055540481?f=rss",
       "pubTime": "2026-06-24",
-      "score": 88
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "summary": "AI初创公司Subquadratic声称突破LLM技术瓶颈",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
+      "summary": "",
+      "url": "https://36kr.com/p/3865565708752134?f=rss",
       "pubTime": "2026-06-24",
-      "score": 88
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片，可让航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
+      "summary": "",
+      "url": "https://36kr.com/p/3864082158785539?f=rss",
       "pubTime": "2026-06-24",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-      "summary": "探讨芯片制造未来及Anthropic与政府冲突，涉及AI科技趋势",
-      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
-      "pubTime": "2026-06-24",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "AI瓶颈争议持续，脑机接口BCI试验兴起",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "pubTime": "2026-06-24",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破，解决材料科学\\",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-24",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "甲骨文过去一年裁员 2.1 万",
-      "summary": "甲骨文年裁员2.1万人，围绕AI重塑业务",
-      "url": "https://www.solidot.org/story?sid=84656",
-      "pubTime": "2026-06-24",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度运行，可望革新量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "pubTime": "2026-06-24",
-      "score": 82
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
-      "summary": "36氪举办AI创投圆桌论坛，探讨共识形成前的行业机遇",
+      "summary": "",
       "url": "https://36kr.com/p/3865630193030145?f=rss",
       "pubTime": "2026-06-24",
-      "score": 75
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
-      "summary": "全国AI+场景应用大赛决赛收官，展现青年创业者AI创新力量",
+      "summary": "",
       "url": "https://36kr.com/p/3865480064504835?f=rss",
       "pubTime": "2026-06-24",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "pubTime": "2026-06-24",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "pubTime": "2026-06-24",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-24",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-24",
+      "score": 80
     }
   ]
 }
