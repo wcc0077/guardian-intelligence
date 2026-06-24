@@ -1,82 +1,62 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-24",
-  "time": "08:08",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-24 08:08",
-  "sourceCount": 2,
+  "temperature": 85,
+  "updateTimeStr": "2026-06-24 12:06",
+  "sourceCount": 3,
   "totalCount": 52,
-  "totalSignalsAll": 697,
-  "signalCount": 9,
+  "totalSignalsAll": 698,
+  "signalCount": 10,
   "signals": [
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜索尼集团计划近三十年来首次发行美元债券；甲骨文上财年裁员约2.1万；豆包发布2.1 Pro模型",
-      "summary": "",
-      "url": "https://36kr.com/p/3865513055540481?f=rss",
-      "pubTime": "2026-06-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
-      "summary": "",
-      "url": "https://36kr.com/p/3865565708752134?f=rss",
-      "pubTime": "2026-06-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
-      "summary": "",
-      "url": "https://36kr.com/p/3864082158785539?f=rss",
-      "pubTime": "2026-06-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
-      "summary": "",
-      "url": "https://36kr.com/p/3865630193030145?f=rss",
-      "pubTime": "2026-06-24",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
-      "summary": "",
-      "url": "https://36kr.com/p/3865480064504835?f=rss",
-      "pubTime": "2026-06-24",
-      "score": 80
-    },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "",
+      "summary": "SpaceX计划在太空建设AI数据中心，推动太空数据中心竞赛",
       "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
       "pubTime": "2026-06-24",
-      "score": 80
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI空间芯片，可让航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-24",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：秒解此前无法计算的材料科学难题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-24",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "主题演讲：全密态计算，破解AI时代的数据安全难题 | 36氪WAVES2026新浪潮",
+      "summary": "全密态计算破解AI数据安全难题，属科技行业技术趋势",
+      "url": "https://36kr.com/p/3866604451845377?f=rss",
+      "pubTime": "2026-06-24",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "中国新超算灵晟登顶 Top500 榜单",
+      "summary": "中国超算灵晟登顶Top500，理论峰值2.736 Exaflop/s",
+      "url": "https://www.solidot.org/story?sid=84657",
       "pubTime": "2026-06-24",
       "score": 80
     },
@@ -85,20 +65,50 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI计算提供新动力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-24",
       "score": 80
     },
     {
       "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "专访火山引擎谭待：模型好对MaaS是最重要的事，豆包2.1算「上牌桌」了",
+      "summary": "火山引擎总裁谈MaaS营收目标，豆包2.1模型发布",
+      "url": "https://36kr.com/p/3865912900588548?f=rss",
+      "pubTime": "2026-06-24",
+      "score": 78
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发近绝对零度运行的类脑芯片，可助力量子计算发展",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-24",
-      "score": 80
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
+      "summary": "AI创投圆桌论坛，探讨共识形成前的行业机遇",
+      "url": "https://36kr.com/p/3865630193030145?f=rss",
+      "pubTime": "2026-06-24",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "甲骨文过去一年裁员 2.1 万",
+      "summary": "甲骨文年裁员2.1万人，因围绕AI重塑业务",
+      "url": "https://www.solidot.org/story?sid=84656",
+      "pubTime": "2026-06-24",
+      "score": 75
     }
   ]
 }
