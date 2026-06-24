@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-25",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-06-25 00:06",
+  "temperature": 90,
+  "updateTimeStr": "2026-06-25 04:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 708,
@@ -12,41 +12,51 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发近零度脑芯片，助力量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "summary": "OpenAI发布首款自研AI芯片，由Broadcom代工制造",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "pubTime": "2026-06-25",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
-      "summary": "影眸科技获数亿元融资，Hyper3D推动3D生成进入AI思考时代",
-      "url": "https://36kr.com/p/3865060112438533?f=rss",
-      "pubTime": "2026-06-25",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-25",
-      "score": 85
+      "score": 95
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI太空芯片，可让航天器自主思考",
+      "summary": "NASA新AI芯片或让航天器自主思考",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-25",
+      "score": 90
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片，接近绝对零度运行，可助力量子计算突破",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-06-25",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+      "summary": "影眸科技完成数亿元融资，Hyper3D推动3D生成进入思考时代",
+      "url": "https://36kr.com/p/3865060112438533?f=rss",
+      "pubTime": "2026-06-25",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "summary": "AI驱动网络数据基础设施层兴起，新用例不断涌现",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
       "pubTime": "2026-06-25",
       "score": 85
     },
@@ -55,7 +65,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破解决材料科学难题，计算速度大幅提升",
+      "summary": "量子算法突破，几秒解决此前不可能的材料科学难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-25",
       "score": 85
@@ -64,8 +74,18 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "Penn研发光物质粒子，赋能AI",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-25",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "SpaceX计划在太空建AI数据中心，开启太空计算新趋势",
+      "summary": "SpaceX计划在太空建AI数据中心，应对AI计算需求激增",
       "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
       "pubTime": "2026-06-25",
       "score": 80
@@ -85,28 +105,8 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
-      "summary": "2026年AI行业趋势圆桌对话，探讨AI技术产业发展",
+      "summary": "36氪举办AI行业趋势圆桌对话，探讨AI发展未来",
       "url": "https://36kr.com/p/3866900608701449?f=rss",
-      "pubTime": "2026-06-25",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The emergence of the web data infrastructure layer for AI",
-      "summary": "AI数据基础设施层正在兴起的行业趋势分析",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-      "pubTime": "2026-06-25",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "summary": "开源AI框架Haystack发布,专注生产级Agent和RAG",
-      "url": "https://haystack.deepset.ai/",
       "pubTime": "2026-06-25",
       "score": 75
     }
