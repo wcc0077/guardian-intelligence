@@ -1,114 +1,13 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-25",
-  "time": "16:06",
+  "time": "20:05",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-06-25 16:06",
-  "sourceCount": 5,
+  "temperature": 50,
+  "updateTimeStr": "2026-06-25 20:05",
+  "sourceCount": 0,
   "totalCount": 52,
-  "totalSignalsAll": 708,
-  "signalCount": 10,
-  "signals": [
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI供能",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-25",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
-      "summary": "RoboScience发布Visics通用具身大模型，实现跨本体/物体/任务泛化",
-      "url": "https://36kr.com/p/3868276479710466?f=rss",
-      "pubTime": "2026-06-25",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "summary": "OpenAI发布首款定制芯片，由Broadcom代工制造",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "pubTime": "2026-06-25",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/trending",
-      "title": "[GitHub] santifer/career-ops ⭐55601",
-      "summary": "GitHub热门AI求职系统获55k星，基于Claude Code构建",
-      "url": "https://github.com/santifer/career-ops",
-      "pubTime": "2026-06-25",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新的量子算法在几秒内解决了“不可能”的材料问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-25",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
-      "summary": "探讨AI与机器人技术2026年发展趋势及投资机遇",
-      "url": "https://36kr.com/p/3867998907667462?f=rss",
-      "pubTime": "2026-06-25",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
-      "summary": "资本视角分析AI产业周期阶段，属行业趋势研判",
-      "url": "https://36kr.com/p/3868045479711745?f=rss",
-      "pubTime": "2026-06-25",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "实现光学载荷批量化交付，苏州商业航天企业再获数亿元融资｜36氪首发",
-      "summary": "苏州商业航天企业获数亿元融资，实现光学载荷批量化交付",
-      "url": "https://36kr.com/p/3868029247034371?f=rss",
-      "pubTime": "2026-06-25",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "国产航电黑马8个月融三轮，要做中国版霍尼韦尔｜36氪首发",
-      "summary": "国产航电企业8个月获三轮融资，欲打造中国版霍尼韦尔",
-      "url": "https://36kr.com/p/3868030861645058?f=rss",
-      "pubTime": "2026-06-25",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Anthropic 指控阿里巴巴蒸馏其模型",
-      "summary": "Anthropic指控阿里巴巴Qwen实验室非法蒸馏其AI模型",
-      "url": "https://www.solidot.org/story?sid=84670",
-      "pubTime": "2026-06-25",
-      "score": 75
-    }
-  ]
+  "totalSignalsAll": 698,
+  "signalCount": 0,
+  "signals": []
 }
