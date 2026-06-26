@@ -1,31 +1,21 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-26",
-  "time": "08:12",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
   "temperature": 92,
-  "updateTimeStr": "2026-06-26 08:12",
-  "sourceCount": 5,
+  "updateTimeStr": "2026-06-26 12:06",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 708,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
-      "summary": "OpenAI发布首款AI芯片，Anthropic成最高估值独角兽",
-      "url": "https://36kr.com/p/3869243269387269?f=rss",
-      "pubTime": "2026-06-26",
-      "score": 95
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM百亿晶体管芯片，延Moore十年",
+      "summary": "IBM发布千亿晶体管芯片技术有望延续摩尔定律十年",
       "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
       "pubTime": "2026-06-26",
       "score": 90
@@ -34,49 +24,19 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "美国研发光物质混合粒子提升AI算力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "测试新型AI芯片，赋予航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-26",
       "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
-      "summary": "RoboScience发布Visics通用具身大模型，实现跨本体跨任务突破",
-      "url": "https://36kr.com/p/3868276479710466?f=rss",
-      "pubTime": "2026-06-26",
-      "score": 88
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "OpenAI 宣布了专用于推理的自研 AI 芯片 Jalapeño",
-      "summary": "OpenAI推出首款自研推理芯片Jalapeño",
+      "summary": "OpenAI发布首款自研AI推理芯片Japeño，与博通合作",
       "url": "https://www.solidot.org/story?sid=84677",
-      "pubTime": "2026-06-26",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "summary": "IBM发布亚1纳米芯片技术",
-      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "pubTime": "2026-06-26",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "SpaceX拟建太空AI数据中心，科技前沿探索",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
       "pubTime": "2026-06-26",
       "score": 85
     },
@@ -85,7 +45,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发接近绝对零度脑启发芯片，或将变革量子计算技术",
+      "summary": "港大研发脑启发芯片接近绝对零运行，可助量子计算突破",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-26",
       "score": 85
@@ -95,7 +55,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒内解决此前认为不可能的材料问题",
+      "summary": "量子算法突破解决材料科学难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-26",
       "score": 85
@@ -104,11 +64,51 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA太空AI芯片或让航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新动力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-06-26",
-      "score": 85
+      "score": 82
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "summary": "念象科技获近千万元天使轮融资，专注非侵入式神经接口技术",
+      "url": "https://36kr.com/p/3867943030395913?f=rss",
+      "pubTime": "2026-06-26",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+      "summary": "苹果iPad及Mac涨价，黄仁勋计划返还股东现金流，OpenAI发布首款AI芯片",
+      "url": "https://36kr.com/p/3869243269387269?f=rss",
+      "pubTime": "2026-06-26",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+      "summary": "IBM芯片技术突破瞄准摩尔定律，欧洲热浪影响电网",
+      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "pubTime": "2026-06-26",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Repositioning retail for the AI era",
+      "summary": "AI重塑零售业，变革超乎预期",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "pubTime": "2026-06-26",
+      "score": 75
     }
   ]
 }
