@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-26",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-06-26 12:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-26 16:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 708,
@@ -12,101 +12,101 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM发布千亿晶体管芯片技术有望延续摩尔定律十年",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+      "summary": "OpenAI发布首款AI芯片，Anthropic成最高价值独角兽",
+      "url": "https://36kr.com/p/3869243269387269?f=rss",
       "pubTime": "2026-06-26",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "测试新型AI芯片，赋予航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-26",
-      "score": 90
+      "score": 95
     },
     {
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "OpenAI 宣布了专用于推理的自研 AI 芯片 Jalapeño",
-      "summary": "OpenAI发布首款自研AI推理芯片Japeño，与博通合作",
+      "summary": "OpenAI发布首款自研AI推理芯片Jalapeño，与博通合作",
       "url": "https://www.solidot.org/story?sid=84677",
       "pubTime": "2026-06-26",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零运行，可助量子计算突破",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "pubTime": "2026-06-26",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破解决材料科学难题",
+      "summary": "新量子算法几秒解决材料科学难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-26",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "特朗普政府要求 OpenAI 分阶段发布新模型",
+      "summary": "特朗普政府因安全担忧要求OpenAI分阶段发布GPT-5.6模型",
+      "url": "https://www.solidot.org/story?sid=84683",
       "pubTime": "2026-06-26",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新动力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-26",
-      "score": 82
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
-      "summary": "念象科技获近千万元天使轮融资，专注非侵入式神经接口技术",
-      "url": "https://36kr.com/p/3867943030395913?f=rss",
-      "pubTime": "2026-06-26",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
-      "summary": "苹果iPad及Mac涨价，黄仁勋计划返还股东现金流，OpenAI发布首款AI芯片",
-      "url": "https://36kr.com/p/3869243269387269?f=rss",
-      "pubTime": "2026-06-26",
-      "score": 75
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "summary": "IBM芯片技术突破瞄准摩尔定律，欧洲热浪影响电网",
-      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "summary": "发布百亿晶体管芯片或可助延续摩尔定律十年",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
       "pubTime": "2026-06-26",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Repositioning retail for the AI era",
-      "summary": "AI重塑零售业，变革超乎预期",
+      "summary": "AI正以非传统方式重塑零售行业格局",
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "pubTime": "2026-06-26",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "summary": "AI驱动web数据基础设施层兴起，反映技术底层架构新趋势",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "pubTime": "2026-06-26",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "summary": "念象科技获近千万元天使轮融资，专注神经接口技术",
+      "url": "https://36kr.com/p/3867943030395913?f=rss",
+      "pubTime": "2026-06-26",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI芯片，可赋予航天器自主思考能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-26",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
+      "summary": "二手车平台大搜车13年后成功登陆纳斯达克上市",
+      "url": "https://36kr.com/p/3869474592363528?f=rss",
       "pubTime": "2026-06-26",
       "score": 75
     }
