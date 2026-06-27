@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-27",
-  "time": "08:05",
+  "time": "12:05",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-06-27 08:05",
-  "sourceCount": 4,
+  "updateTimeStr": "2026-06-27 12:05",
+  "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 718,
   "signalCount": 10,
@@ -27,6 +27,16 @@
       "title": "对话张亚勤：AI不是泡沫，但AI公司有泡沫",
       "summary": "",
       "url": "https://36kr.com/p/3866837793952769?f=rss",
+      "pubTime": "2026-06-27",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "summary": "",
+      "url": "https://36kr.com/p/3869740772316162?f=rss",
       "pubTime": "2026-06-27",
       "score": 80
     },
@@ -72,41 +82,31 @@
     },
     {
       "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "summary": "",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "pubTime": "2026-06-27",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "AI in mathematics is forcing big questions",
+      "summary": "",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "pubTime": "2026-06-27",
+      "score": 80
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "SpaceX wants to build AI data centers in space. Will it work?",
       "summary": "",
       "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
-      "pubTime": "2026-06-27",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-      "pubTime": "2026-06-27",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-27",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-06-27",
       "score": 80
     }
