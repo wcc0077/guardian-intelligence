@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-27",
-  "time": "16:06",
+  "time": "20:06",
   "label": "LATEST BRIEFING",
   "temperature": 88,
-  "updateTimeStr": "2026-06-27 16:06",
+  "updateTimeStr": "2026-06-27 20:06",
   "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 718,
@@ -12,23 +12,13 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM发布1000亿晶体管芯片，延续摩尔定律十年",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "source": "HackerNews",
+      "sourceUrl": "https://news.ycombinator.com",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "summary": "OpenAI发布GPT-5.6预览，展望下一代AI技术发展",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "pubTime": "2026-06-27",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
-      "summary": "智元灵巧手估值10亿美元，DeepSeek拟规模翻倍扩张",
-      "url": "https://36kr.com/p/3869884559332356?f=rss",
-      "pubTime": "2026-06-27",
-      "score": 85
+      "score": 95
     },
     {
       "section": "highlights",
@@ -38,45 +28,45 @@
       "summary": "特朗普政府因安全担忧要求OpenAI分阶段发布GPT-5.6模型",
       "url": "https://www.solidot.org/story?sid=84683",
       "pubTime": "2026-06-27",
-      "score": 85
+      "score": 90
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "summary": "OpenAI发布下一代GPT-5.6模型预览，标志着AI技术新进展",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "summary": "IBM发布1000亿晶体管芯片，有望延续摩尔定律十年",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
       "pubTime": "2026-06-27",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "summary": "美国政府批准Anthropic向可信美国机构发布Mythos AI模型",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "pubTime": "2026-06-27",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可赋予航天器自主思考能力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-06-27",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法几秒内解决材料科学",
+      "summary": "新量子算法几秒解决此前不可能的材料科学问题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-06-27",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+      "summary": "OpenAI发布GPT-5.6 DeepSeek大规模招聘 苹果链股价大跌",
+      "url": "https://36kr.com/p/3870720040588295?f=rss",
+      "pubTime": "2026-06-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+      "summary": "智元灵巧手估值10亿美元，DeepSeek计划全员规模翻倍",
+      "url": "https://36kr.com/p/3869884559332356?f=rss",
       "pubTime": "2026-06-27",
       "score": 85
     },
@@ -85,30 +75,40 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Repositioning retail for the AI era",
-      "summary": "AI正重塑零售业运作方式，MIT Tech Review分析新趋势",
+      "summary": "AI正重塑零售业，呈现新趋势与挑战",
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "pubTime": "2026-06-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片，接近绝对零度运行，可助力量子计算突破",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-06-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新型AI空间计算机芯片或赋予航天器自主思考能力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-06-27",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+      "summary": "智能驾驶竞争从硬件转向大模型，理想追赶FSD V14",
+      "url": "https://36kr.com/p/3870292939658242?f=rss",
+      "pubTime": "2026-06-27",
       "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-      "summary": "G7易流发布首款货运穿戴式AI硬件",
-      "url": "https://36kr.com/p/3869740772316162?f=rss",
-      "pubTime": "2026-06-27",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "summary": "OpenAI发布GPT-5.6，DeepSeek大规模招聘，果链股价大跌",
-      "url": "https://36kr.com/p/3870720040588295?f=rss",
-      "pubTime": "2026-06-27",
-      "score": 75
     }
   ]
 }
