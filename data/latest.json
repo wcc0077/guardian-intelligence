@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-28",
-  "time": "08:07",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 90,
-  "updateTimeStr": "2026-06-28 08:07",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-28 12:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 728,
@@ -12,30 +12,20 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
-      "summary": "智元灵巧手获10亿美元估值，DeepSeek计划全员扩招一倍",
-      "url": "https://36kr.com/p/3869884559332356?f=rss",
-      "pubTime": "2026-06-28",
-      "score": 92
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM发布新芯片技术，有望再延摩尔定律十年",
+      "summary": "IBM发布1000亿晶体管芯片技术，延展摩尔定律十年",
       "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
       "pubTime": "2026-06-28",
-      "score": 90
+      "score": 95
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破，解决此前无法处理的材料科学难题",
+      "summary": "新量子算法秒解此前不可能的材料科学难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-06-28",
       "score": 88
@@ -44,18 +34,8 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-      "summary": "G7易流发布首款货运穿戴式AI硬件",
-      "url": "https://36kr.com/p/3869740772316162?f=rss",
-      "pubTime": "2026-06-28",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
       "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "summary": "OpenAI发布GPT-5.6 DeepSeek大规模招聘 AI科技行业动态活跃",
+      "summary": "OpenAI推出GPT-5.6，果链股暴跌，星链推新服务",
       "url": "https://36kr.com/p/3870720040588295?f=rss",
       "pubTime": "2026-06-28",
       "score": 85
@@ -64,19 +44,19 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
-      "summary": "智能驾驶竞争从硬件转向AI大模型，理想追赶FSD V14",
-      "url": "https://36kr.com/p/3870292939658242?f=rss",
+      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+      "summary": "G7易流发布首款货运穿戴式AI硬件“拍拍豆”，填补物流最后两米交付空白",
+      "url": "https://36kr.com/p/3869740772316162?f=rss",
       "pubTime": "2026-06-28",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用",
-      "summary": "美国政府要求Anthropic分阶段发布Mythos5模型",
-      "url": "https://www.solidot.org/story?sid=84694",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
+      "summary": "智元灵巧手估值10亿美元，DeepSeek拟将全员规模翻倍",
+      "url": "https://36kr.com/p/3869884559332356?f=rss",
       "pubTime": "2026-06-28",
       "score": 85
     },
@@ -85,7 +65,7 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片接近绝对零度，或将变革量子计算",
+      "summary": "港大研发脑启发芯片接近绝对零度运行，可改变量子计算",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-06-28",
       "score": 85
@@ -94,9 +74,9 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子，为AI供能带来突破",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "研究显示经典注意力测试揭示AI系统重大弱点",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
       "pubTime": "2026-06-28",
       "score": 85
     },
@@ -104,11 +84,31 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可赋予航天器自主思考能力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可显著提升AI性能",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-28",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "美国政府允许 Anthropic 将 Mythos 5 模型提供给少数客户使用",
+      "summary": "美国政府要求Anthropic分阶段发布Mythos 5模型",
+      "url": "https://www.solidot.org/story?sid=84694",
       "pubTime": "2026-06-28",
       "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+      "summary": "理想汽车追赶特斯拉FSD V14，智能驾驶竞争进入大模型时代",
+      "url": "https://36kr.com/p/3870292939658242?f=rss",
+      "pubTime": "2026-06-28",
+      "score": 75
     }
   ]
 }
