@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-30",
-  "time": "00:06",
+  "time": "04:05",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-06-30 00:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-06-30 04:05",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 748,
@@ -12,81 +12,31 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "summary": "IBM发布百亿晶体管芯片，延续摩尔定律",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "因 AI 未能达到预期福特公司重聘人类工程师",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84710",
       "pubTime": "2026-06-30",
-      "score": 95
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
-      "summary": "Sand.ai获超亿美元融资，专注视频通往世界模型技术路径",
+      "summary": "",
       "url": "https://36kr.com/p/3873965241931014?f=rss",
       "pubTime": "2026-06-30",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒内解决此前不可能的材料科学问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-30",
-      "score": 88
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
-      "summary": "百度OCR模型获AI技术突破，登顶HuggingFace和GitHub榜单",
-      "url": "https://36kr.com/p/3873626425332743?f=rss",
-      "pubTime": "2026-06-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "灵晟超算使用的 LX2 处理器",
-      "summary": "中国灵晟超算登顶Top500榜单，使用LX2处理器",
-      "url": "https://www.solidot.org/story?sid=84707",
-      "pubTime": "2026-06-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Agent confidence on the technical frontier",
-      "summary": "AI企业投资热潮兴起，Gartner预测2026年为行业拐点",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "pubTime": "2026-06-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片，接近绝对零度运行，可助力量子计算突破",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "pubTime": "2026-06-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI空间芯片，可让航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+      "summary": "",
+      "url": "https://36kr.com/p/3874015941645570?f=rss",
       "pubTime": "2026-06-30",
       "score": 80
     },
@@ -95,20 +45,70 @@
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "Gartner 预测两年内开发者的 AI token 费用将超过其薪水",
-      "summary": "Gartner预测AI使用成本激增，两年内或超开发者薪资",
+      "summary": "",
       "url": "https://www.solidot.org/story?sid=84706",
       "pubTime": "2026-06-30",
-      "score": 78
+      "score": 80
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
-      "summary": "海思中兴团队创业，数字相控阵芯片厂商获厦门投资",
-      "url": "https://36kr.com/p/3873806295274756?f=rss",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "微软被控为 OpenAI 构建新超算鼓励侵犯版权",
+      "summary": "",
+      "url": "https://www.solidot.org/story?sid=84704",
       "pubTime": "2026-06-30",
-      "score": 75
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "AI agents are not your “coworkers”",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "pubTime": "2026-06-30",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "pubTime": "2026-06-30",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "pubTime": "2026-06-30",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Repositioning retail for the AI era",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "pubTime": "2026-06-30",
+      "score": 80
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "summary": "",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "pubTime": "2026-06-30",
+      "score": 80
     }
   ]
 }
