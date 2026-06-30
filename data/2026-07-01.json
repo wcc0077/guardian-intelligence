@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-01",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 88,
-  "updateTimeStr": "2026-07-01 00:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-07-01 04:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 758,
@@ -14,9 +14,19 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
-      "summary": "百度OCR模型登顶HuggingFace和GitHub四榜，教育十五五规划发布",
-      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
+      "summary": "Kimi估值315亿美元，优艾智合发布具身智能新品，国家建小行星监测体系",
+      "url": "https://36kr.com/p/3873626697470985?f=rss",
+      "pubTime": "2026-07-01",
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "光物质混合粒子突破，助AI算力提升",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-07-01",
       "score": 95
     },
@@ -24,18 +34,38 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
-      "summary": "Kimi估值315亿美元ARR破3亿，优艾智合发布具身智能新品，国家航天局建近地小行星监测体系",
-      "url": "https://36kr.com/p/3873626697470985?f=rss",
+      "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "summary": "前百度高管创具身智能公司，获5000万天使轮融资",
+      "url": "https://36kr.com/p/3875059110221064?f=rss",
       "pubTime": "2026-07-01",
-      "score": 85
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片接近绝对零度运行，可赋能量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-07-01",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破！解决formerly impossible材料科学计算问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-07-01",
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
-      "summary": "中国AI公司提出「端侧原生」解法，2026年物理AI成新趋势",
+      "summary": "聚焦物理AI赛道，中国AI公司提出\\",
       "url": "https://36kr.com/p/3875047283659777?f=rss",
       "pubTime": "2026-07-01",
       "score": 85
@@ -44,19 +74,19 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
-      "summary": "前百度自动驾驶负责人创业获数千万融资，做机器人通用模型",
-      "url": "https://36kr.com/p/3875059110221064?f=rss",
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "summary": "百度OCR模型登顶HuggingFace和GitHub四榜，教育",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
       "pubTime": "2026-07-01",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "summary": "AI同事与平流层互联网趋势探讨",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "国际清算银行警告 AI 泡沫破裂将增加全球经济衰退风险",
+      "summary": "国际清算银行警告AI泡沫破裂风险，警示过度投资可能引发全球经济衰退",
+      "url": "https://www.solidot.org/story?sid=84718",
       "pubTime": "2026-07-01",
       "score": 85
     },
@@ -65,7 +95,7 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Agent confidence on the technical frontier",
-      "summary": "企业AI投资热潮 Gartner预测2026年为AI技术转折点",
+      "summary": "AI代理技术获企业投资热潮，2026年或迎拐点",
       "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
       "pubTime": "2026-07-01",
       "score": 85
@@ -74,41 +104,11 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，为AI硬件带来突破性进展",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试AI芯片，赋能飞船自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-07-01",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
-      "summary": "马斯克宣布Grok4.5开启私测，或超越Claude Opus",
-      "url": "https://36kr.com/p/3874911939482880?f=rss",
-      "pubTime": "2026-07-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "summary": "Zluda 6发布，实现非Nvidia GPU运行CUDA应用",
-      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-      "pubTime": "2026-07-01",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破，解决材料科学",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-07-01",
-      "score": 78
     }
   ]
 }
