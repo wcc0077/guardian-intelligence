@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-06-30",
-  "time": "12:06",
+  "time": "16:06",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-06-30 12:06",
+  "temperature": 92,
+  "updateTimeStr": "2026-06-30 16:06",
   "sourceCount": 5,
   "totalCount": 52,
   "totalSignalsAll": 748,
@@ -12,41 +12,81 @@
   "signals": [
     {
       "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "光物质混合粒子或驱动AI新突破",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-06-30",
+      "score": 95
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "summary": "AI框架助力天文学家测量宇宙膨胀，揭秘暗能量",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "pubTime": "2026-06-30",
+      "score": 90
+    },
+    {
+      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
-      "summary": "百度AI模型登顶四榜+教育十五五规划发布+美养老金300亿美元调仓",
-      "url": "https://36kr.com/p/3873626425332743?f=rss",
-      "pubTime": "2026-06-30",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新量子算法几秒解决",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-06-30",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "SpaceX计划建设太空AI数据中心，探索科技前沿新方向",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+      "summary": "前百度自动驾驶负责人创业获5000万天使轮，做机器人通用模型",
+      "url": "https://36kr.com/p/3875059110221064?f=rss",
       "pubTime": "2026-06-30",
       "score": 88
     },
     {
       "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发脑启发芯片，接近绝对零度或革新量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "pubTime": "2026-06-30",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "万亿市场格局未定：「端侧原生」，一家中国AI公司给物理AI抛了个新解法",
+      "summary": "中国AI公司提出「端侧原生」解法，助力物理AI发展，万亿市场格局生变",
+      "url": "https://36kr.com/p/3875047283659777?f=rss",
+      "pubTime": "2026-06-30",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "summary": "百度OCR模型登顶四榜，教育十五五规划发布，美养老金300亿美元调仓",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "pubTime": "2026-06-30",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+      "summary": "Sand.ai获超亿美元融资，探索视频通往世界模型的AI路径",
+      "url": "https://36kr.com/p/3873965241931014?f=rss",
+      "pubTime": "2026-06-30",
+      "score": 85
+    },
+    {
+      "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Gartner 预测两年内开发者的 AI token 费用将超过其薪水",
-      "summary": "Gartner预测两年内开发者AI token费用将超薪水",
-      "url": "https://www.solidot.org/story?sid=84706",
+      "title": "Rocket Lab 收购铱星",
+      "summary": "Rocket Lab宣布以54美元/股收购卫星运营商铱星",
+      "url": "https://www.solidot.org/story?sid=84712",
       "pubTime": "2026-06-30",
       "score": 85
     },
@@ -55,7 +95,7 @@
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "Agent confidence on the technical frontier",
-      "summary": "Gartner称2026年AI投资迎拐点，企业AI投资热潮持续",
+      "summary": "企业AI投资激增，Gartner称2026年将迎拐点",
       "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
       "pubTime": "2026-06-30",
       "score": 85
@@ -65,50 +105,10 @@
       "source": "HackerNews",
       "sourceUrl": "https://news.ycombinator.com",
       "title": "Rocketlab acquires Iridium",
-      "summary": "火箭实验室收购铱星 强化卫星业务",
+      "summary": "火箭实验室宣布收购铱星，提升卫星通信竞争力",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
       "pubTime": "2026-06-30",
       "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
-      "summary": "AI驱动新框架或改变暗能量测量，助力宇宙膨胀研究",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
-      "pubTime": "2026-06-30",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "因 AI 未能达到预期福特公司重聘人类工程师",
-      "summary": "福特AI质检未达预期，重新雇用人类工程师",
-      "url": "https://www.solidot.org/story?sid=84710",
-      "pubTime": "2026-06-30",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，可为AI提供新动力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-06-30",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
-      "summary": "Moxy摸喜发布首款AI陪伴机器人，采用自研柔性电子皮肤技术",
-      "url": "https://36kr.com/p/3874015941645570?f=rss",
-      "pubTime": "2026-06-30",
-      "score": 78
     }
   ]
 }
