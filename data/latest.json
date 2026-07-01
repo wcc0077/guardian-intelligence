@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-01",
-  "time": "16:06",
+  "time": "20:07",
   "label": "LATEST BRIEFING",
   "temperature": 50,
-  "updateTimeStr": "2026-07-01 16:06",
+  "updateTimeStr": "2026-07-01 20:07",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 758,
@@ -12,91 +12,61 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国将建立近地小行星天地协同监测体系",
-      "summary": "Kimi估值315亿美元ARR破3亿，优艾智合具身智能新品发布，国家航天局建小行星监测体系",
-      "url": "https://36kr.com/p/3873626697470985?f=rss",
-      "pubTime": "2026-07-01",
-      "score": 95
-    },
-    {
-      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "新型量子算法几秒破解不可能材料难题",
+      "summary": "量子算法突破：几秒解决以往不可能的材料科学问题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-07-01",
-      "score": 95
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
-      "summary": "电池安全令施行、苹果文件泄露、OpenAI硬件曝光",
-      "url": "https://36kr.com/p/3876318522077442?f=rss",
+      "title": "硬氪首发 | 中科大系核聚变企业融资5亿，金浦、蚂蚁领投",
+      "summary": "中科大系核聚变企业星能玄光获5亿融资，蚂蚁领投推进FRC技术",
+      "url": "https://36kr.com/p/3877026062839813?f=rss",
       "pubTime": "2026-07-01",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
-      "summary": "苏大教授创立感知纪元科技，获松禾资本千万级天使轮融资，开发机器人触觉系统",
-      "url": "https://36kr.com/p/3874358072710407?f=rss",
+      "title": "硬氪首发 | moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+      "summary": "AI潮玩品牌ZuzuZoos获数千万Pre-A轮融资，进军陪伴机器人领域",
+      "url": "https://36kr.com/p/3877015761039619?f=rss",
       "pubTime": "2026-07-01",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "微软发布 WSL 容器的预览版",
-      "summary": "微软发布WSL容器预览版，支持云原生和AI工作负载",
-      "url": "https://www.solidot.org/story?sid=84726",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪首发 | 清华系脑机接口公司种子轮融资数千万，用超声波做半&非侵入脑机",
+      "summary": "清华系思昇科技获数千万种子轮融资，开发超声波脑机接口技术",
+      "url": "https://36kr.com/p/3877019284631808?f=rss",
       "pubTime": "2026-07-01",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "The first early human eggs from stem cells",
-      "summary": "科学家首次从干细胞培育出早期人类卵子",
-      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-      "pubTime": "2026-07-01",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "summary": "美国商务部解除Claude Fable 5等AI模型出口管制，涉AI行业政策变化",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "pubTime": "2026-07-01",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供动力",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新动力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-07-01",
-      "score": 85
+      "score": 88
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI芯片，可让航天器自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪首发 | 天使轮即获数亿元，高瓴、红杉联手重仓，合肥核聚变跑出新黑马",
+      "summary": "可控核聚变企业聚合聚变获数亿元天使轮融资，高瓴红杉等顶级机构领投",
+      "url": "https://36kr.com/p/3877008638685184?f=rss",
       "pubTime": "2026-07-01",
       "score": 85
     },
@@ -105,10 +75,40 @@
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
       "title": "美国政府解除对 Claude Fable 5 和 Mythos 5 模型的出口限制",
-      "summary": "美国解除AnthropicClaude新模型出口限制，助力AI行业国际发展",
+      "summary": "美国解除Anthropic Claude模型出口限制，AI行业政策变化",
       "url": "https://www.solidot.org/story?sid=84724",
       "pubTime": "2026-07-01",
-      "score": 78
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "Agent confidence on the technical frontier",
+      "summary": "MIT Tech Review：企业AI投资热潮，Gartner称2026年将迎转折点",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "pubTime": "2026-07-01",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "A classic brain test exposed AI's biggest weakness",
+      "summary": "AI注意力测试暴露重大弱点",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
+      "pubTime": "2026-07-01",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新一代AI空间芯片，可让航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
+      "pubTime": "2026-07-01",
+      "score": 80
     }
   ]
 }
