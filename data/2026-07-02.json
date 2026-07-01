@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-02",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-07-02 00:06",
+  "temperature": 50,
+  "updateTimeStr": "2026-07-02 04:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 768,
@@ -12,11 +12,11 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
-      "summary": "北航机器人所团队创业获近亿元融资，首创智能变刚度关节技术",
-      "url": "https://36kr.com/p/3877060559433984?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研脑启发芯片，接近绝对零度或变革量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-07-02",
       "score": 88
     },
@@ -25,7 +25,7 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
-      "summary": "清华系AI初创获数亿元种子轮融资，拒绝标签化",
+      "summary": "清华系AI初创获数亿元种子轮融资，拒绝贴世界模型标签",
       "url": "https://36kr.com/p/3877109751803904?f=rss",
       "pubTime": "2026-07-02",
       "score": 85
@@ -35,18 +35,18 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
-      "summary": "清华系硅基光子企业灵动芯光获数千万融资，研发新技术突破AI算力瓶颈",
+      "summary": "灵动芯光获数千万融资 研发硅基光子技术突破AI算力瓶颈",
       "url": "https://36kr.com/p/3877057215393793?f=rss",
       "pubTime": "2026-07-02",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪前线 | 东昇聚变获数亿元融资，国内唯一布局“氘-氦3”路线核聚变企业",
-      "summary": "核聚变企业东昇聚变获数亿元融资，布局氘-氦3路线",
-      "url": "https://36kr.com/p/3877051217047816?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破，解决先前认为不可能的材料计算问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-07-02",
       "score": 85
     },
@@ -54,61 +54,61 @@
       "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "summary": "Anthropic推出Claude Science AI产品，加州碳排放计算引关注",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "初创公司尝试突破LLMs群体思维技术局限",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "pubTime": "2026-07-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Building tech in the world’s secret R&D hub",
-      "summary": "报道多家科技巨头在秘密研发中心建设技术，涵盖Apple、Google等公司",
-      "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-      "pubTime": "2026-07-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "For first time, a cell built from scratch grows and divides",
-      "summary": "科学家首次从零构建活细胞并实现生长分裂",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "pubTime": "2026-07-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发近绝对零度脑启发芯片，或将革新量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
-      "pubTime": "2026-07-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发光物质混合粒子驱动AI",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-07-02",
-      "score": 85
+      "score": 80
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "硬氪首发 | 牛津博士创业抗衰老药物，Monolith领投，同步研究宠物药和人药",
-      "summary": "AI抗衰药物公司获数千万元融资，推进人宠药物临床",
+      "summary": "AI抗衰药物公司获数千万元融资，Monolith领投推进宠物和人药临床",
       "url": "https://36kr.com/p/3877047915475200?f=rss",
       "pubTime": "2026-07-02",
-      "score": 82
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "研究人员将干细胞转化为人类初级卵母细胞",
+      "summary": "干细胞成功转化为人类卵母细胞，生物科技突破",
+      "url": "https://www.solidot.org/story?sid=84730",
+      "pubTime": "2026-07-02",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "summary": "AI框架或改变宇宙膨胀测量，助力揭示暗能量奥秘",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "pubTime": "2026-07-02",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "summary": "AI驱动太空数据中心建设成新趋势，SpaceX拟布局",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "pubTime": "2026-07-02",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新动力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-07-02",
+      "score": 78
     }
   ]
 }
