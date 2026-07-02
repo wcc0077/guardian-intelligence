@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-02",
-  "time": "16:06",
+  "time": "20:07",
   "label": "LATEST BRIEFING",
-  "temperature": 92,
-  "updateTimeStr": "2026-07-02 16:06",
-  "sourceCount": 5,
+  "temperature": 88,
+  "updateTimeStr": "2026-07-02 20:07",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 768,
   "signalCount": 10,
@@ -14,39 +14,69 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
+      "summary": "前大疆科学家创通用空中智能公司，半年获四轮数亿融资，阿里巴巴等投资",
+      "url": "https://36kr.com/p/3877830625046535?f=rss",
+      "pubTime": "2026-07-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
-      "summary": "北大博士团队获高瓴创投投资，实现国内首个纳开温区量子计算机工程化",
+      "summary": "北大博士团队获高瓴创投领投，实现纳开温区量子计算机工程化",
       "url": "https://36kr.com/p/3877814169530630?f=rss",
       "pubTime": "2026-07-02",
-      "score": 88
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "初创企业尝试突破LLMs群体思维定式",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "pubTime": "2026-07-02",
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发近绝对零度脑启发芯片或革新量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "summary": "AI新框架或改变暗能量测量，助力宇宙膨胀研究",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
       "pubTime": "2026-07-02",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破，解决材料科学计算难题",
+      "summary": "量子算法突破：解决此前被认为不可能的材料科学问题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-07-02",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
-      "summary": "北航团队创业获近亿元融资，首创智能变刚度关节技术",
-      "url": "https://36kr.com/p/3877060559433984?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，或为AI计算提供新动力",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-07-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+      "summary": "NASA测试新型AI芯片 可让航天器自主思考",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-07-02",
       "score": 85
     },
@@ -54,61 +84,31 @@
       "section": "highlights",
       "source": "Solidot",
       "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "索尼 PS 从 2028 年 1 月起不再发售新游戏的光盘版",
-      "summary": "索尼宣布2028年起PS主机停售实体光盘，游戏全面数字化",
-      "url": "https://www.solidot.org/story?sid=84733",
+      "title": "Cloudflare 推动 AI 公司为内容付费",
+      "summary": "Cloudflare推新功能让AI公司为抓取内容付费",
+      "url": "https://www.solidot.org/story?sid=84737",
       "pubTime": "2026-07-02",
-      "score": 85
+      "score": 82
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "summary": "非对称量化技术实现97%存储减少，保持接近无损检索效果",
-      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
-      "pubTime": "2026-07-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "summary": "Anthropic发布面向生物医药的Claude Science AI产品",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "科学家首次利用非生命成分制造出细胞",
+      "summary": "科学家首次用非生物成分制造人工细胞，实现生长分裂",
+      "url": "https://www.solidot.org/story?sid=84736",
       "pubTime": "2026-07-02",
       "score": 80
     },
     {
       "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "AI agents are not your “coworkers”",
-      "summary": "MIT Tech Review探讨AI agents定位，反对将其视为同事",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "pubTime": "2026-07-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
-      "summary": "清华系AI初创获数亿元种子轮融资，未贴\\",
-      "url": "https://36kr.com/p/3877109751803904?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
+      "summary": "港大研发近绝对零度运行的类脑芯片，或将革新量子计算",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-07-02",
       "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
-      "summary": "清华中科院联合华西医院研发康养机器人",
-      "url": "https://36kr.com/p/3877863381741577?f=rss",
-      "pubTime": "2026-07-02",
-      "score": 75
     }
   ]
 }
