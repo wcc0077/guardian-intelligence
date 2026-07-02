@@ -1,22 +1,22 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-02",
-  "time": "04:06",
+  "time": "08:13",
   "label": "LATEST BRIEFING",
-  "temperature": 50,
-  "updateTimeStr": "2026-07-02 04:06",
-  "sourceCount": 4,
+  "temperature": 85,
+  "updateTimeStr": "2026-07-02 08:13",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 768,
   "signalCount": 10,
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研脑启发芯片，接近绝对零度或变革量子计算",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "summary": "清华系AI初创获数亿元种子轮融资，聚焦世界模型技术",
+      "url": "https://36kr.com/p/3877109751803904?f=rss",
       "pubTime": "2026-07-02",
       "score": 88
     },
@@ -24,9 +24,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
-      "summary": "清华系AI初创获数亿元种子轮融资，拒绝贴世界模型标签",
-      "url": "https://36kr.com/p/3877109751803904?f=rss",
+      "title": "硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资",
+      "summary": "北航团队创业获近亿元天使轮融资，首创智能变刚度关节技术",
+      "url": "https://36kr.com/p/3877060559433984?f=rss",
       "pubTime": "2026-07-02",
       "score": 85
     },
@@ -35,7 +35,7 @@
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
-      "summary": "灵动芯光获数千万融资 研发硅基光子技术突破AI算力瓶颈",
+      "summary": "清华系硅基光子企业灵动芯光获数千万融资，致力突破AI算力瓶颈",
       "url": "https://36kr.com/p/3877057215393793?f=rss",
       "pubTime": "2026-07-02",
       "score": 85
@@ -44,71 +44,71 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破，解决先前认为不可能的材料计算问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-07-02",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "初创公司尝试突破LLMs群体思维技术局限",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "pubTime": "2026-07-02",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "硬氪首发 | 牛津博士创业抗衰老药物，Monolith领投，同步研究宠物药和人药",
-      "summary": "AI抗衰药物公司获数千万元融资，Monolith领投推进宠物和人药临床",
-      "url": "https://36kr.com/p/3877047915475200?f=rss",
-      "pubTime": "2026-07-02",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "研究人员将干细胞转化为人类初级卵母细胞",
-      "summary": "干细胞成功转化为人类卵母细胞，生物科技突破",
-      "url": "https://www.solidot.org/story?sid=84730",
-      "pubTime": "2026-07-02",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Millions of exploding stars could soon reveal dark energy's secrets",
-      "summary": "AI框架或改变宇宙膨胀测量，助力揭示暗能量奥秘",
+      "summary": "AI新框架可帮助天文学家测量宇宙膨胀，揭示暗能量秘密",
       "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
       "pubTime": "2026-07-02",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "AI驱动太空数据中心建设成新趋势，SpaceX拟布局",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
-      "pubTime": "2026-07-02",
-      "score": 78
+      "score": 85
     },
     {
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供新动力",
+      "summary": "宾夕法尼亚大学研发混合光物质粒子，可为AI提供动力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-07-02",
-      "score": 78
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：解决此前被认为不可能的材料科学问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
+      "pubTime": "2026-07-02",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪前线 | 东昇聚变获数亿元融资，国内唯一布局“氘-氦3”路线核聚变企业",
+      "summary": "核聚变企业东昇聚变获数亿元融资，布局氘-氦3路线",
+      "url": "https://36kr.com/p/3877051217047816?f=rss",
+      "pubTime": "2026-07-02",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "硬氪首发 | 全球首款近视老花智能变焦眼镜企业融资数千万，韶音、高秉强押注",
+      "summary": "智能眼镜企业众见科技获数千万元融资，韶音、高秉强等投资",
+      "url": "https://36kr.com/p/3877054691930118?f=rss",
+      "pubTime": "2026-07-02",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "索尼 PS 从 2028 年 1 月起不再发售新游戏的光盘版",
+      "summary": "索尼宣布2028年起PS游戏机停止发售实体光盘版，标志着游戏产业全面数字化转型",
+      "url": "https://www.solidot.org/story?sid=84733",
+      "pubTime": "2026-07-02",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "Godot 拒绝接受 AI 生成的代码",
+      "summary": "开源游戏引擎Godot禁止AI生成代码，修订贡献者政策",
+      "url": "https://www.solidot.org/story?sid=84732",
+      "pubTime": "2026-07-02",
+      "score": 75
     }
   ]
 }
