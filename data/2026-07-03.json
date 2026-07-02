@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-03",
-  "time": "00:06",
+  "time": "04:06",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-07-03 00:06",
-  "sourceCount": 4,
+  "temperature": 95,
+  "updateTimeStr": "2026-07-03 04:06",
+  "sourceCount": 3,
   "totalCount": 52,
   "totalSignalsAll": 778,
   "signalCount": 10,
@@ -15,40 +15,60 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破，秒解材料难题",
+      "summary": "新量子算法秒破材料难题",
       "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-07-03",
       "score": 90
     },
     {
       "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "summary": "SpaceX将在太空建AI数据中心，推进技术突破",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "pubTime": "2026-07-03",
+      "score": 88
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+      "summary": "证监会同意宇树科技科创板IPO注册，Meta引发科技股波动",
+      "url": "https://36kr.com/p/3878550357946625?f=rss",
+      "pubTime": "2026-07-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发丨北大博士量子团队获高瓴创投领投，国内唯一实现纳开温区量子计算机工程化",
-      "summary": "北大博士团队获高瓴创投领投，实现国内首个纳开温区量子计算机工程化",
+      "summary": "北大博士团队获高瓴创投领投，实现国内纳开温区量子计算机工程化",
       "url": "https://36kr.com/p/3877814169530630?f=rss",
       "pubTime": "2026-07-03",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "HackerNews",
-      "sourceUrl": "https://news.ycombinator.com",
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "summary": "日本最高法院裁定AI不能作为专利申请发明人",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
+      "summary": "前大疆科学家创硅羽科技，获数亿元融资",
+      "url": "https://36kr.com/p/3877830625046535?f=rss",
       "pubTime": "2026-07-03",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
-      "summary": "AI技术助力天文学研究，通过超新星测量宇宙膨胀和暗能量",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "OpenAI 磋商将 5% 股份送给美国政府",
+      "summary": "OpenAI磋商向美国政府捐赠5%股份以改善政府关系",
+      "url": "https://www.solidot.org/story?sid=84744",
       "pubTime": "2026-07-03",
-      "score": 88
+      "score": 85
     },
     {
       "section": "highlights",
@@ -58,16 +78,6 @@
       "summary": "港大研发脑启发芯片接近绝对零度，或将变革量子计算",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-07-03",
-      "score": 88
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "SpaceX wants to build AI data centers in space. Will it work?",
-      "summary": "SpaceX计划在太空建设AI数据中心，技术创新引关注",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
-      "pubTime": "2026-07-03",
       "score": 85
     },
     {
@@ -75,40 +85,30 @@
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发光物质混合粒子，可显著提升AI计算能效",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子，可为AI供能",
       "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
       "pubTime": "2026-07-03",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "越来越多的儿童使用 AI",
-      "summary": "联合国儿童基金会：全球至少2000万儿童使用AI，青少年采用速度为成人三倍",
-      "url": "https://www.solidot.org/story?sid=84739",
-      "pubTime": "2026-07-03",
-      "score": 80
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
-      "summary": "前大疆科学家创立硅羽科技获数亿融资，阿里巴巴等机构投资",
-      "url": "https://36kr.com/p/3877830625046535?f=rss",
-      "pubTime": "2026-07-03",
-      "score": 78
-    },
-    {
-      "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
-      "summary": "清华中科院联合华西医院研发康养转运机器人，完成战略融资布局居家养老",
+      "summary": "清华中科院联手华西医院研发康养转运机器人，获战略融资布局居家养老",
       "url": "https://36kr.com/p/3877863381741577?f=rss",
       "pubTime": "2026-07-03",
-      "score": 78
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "轨道数据中心的炒作和现实",
+      "summary": "SpaceX创始人称三年内实现轨道数据中心并申请FCC发射",
+      "url": "https://www.solidot.org/story?sid=84743",
+      "pubTime": "2026-07-03",
+      "score": 75
     }
   ]
 }
