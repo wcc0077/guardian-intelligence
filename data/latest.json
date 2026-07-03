@@ -1,10 +1,10 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-03",
-  "time": "08:11",
+  "time": "12:06",
   "label": "LATEST BRIEFING",
-  "temperature": 85,
-  "updateTimeStr": "2026-07-03 08:11",
+  "temperature": 50,
+  "updateTimeStr": "2026-07-03 12:06",
   "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 778,
@@ -12,40 +12,50 @@
   "signals": [
     {
       "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破解决材料科学难题，几秒内完成计算",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-07-03",
-      "score": 90
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "研究人员研发光物质粒子 可大幅提升AI算力效率",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-07-03",
-      "score": 90
-    },
-    {
-      "section": "highlights",
       "source": "MIT Tech Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "AI大语言模型存在群体思维局限，初创公司试图突破",
+      "summary": "AI大语言模型存在群体思维问题，初创公司尝试突破",
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "pubTime": "2026-07-03",
       "score": 88
     },
     {
       "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+      "summary": "具身智能第一股宇树科技IPO获批，SK海力士市值蒸发万亿",
+      "url": "https://36kr.com/p/3879158039834629?f=rss",
+      "pubTime": "2026-07-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "OpenAI 磋商将 5% 股份送给美国政府",
+      "summary": "OpenAI协商向美国政府捐赠5%股份以改善政府关系",
+      "url": "https://www.solidot.org/story?sid=84744",
+      "pubTime": "2026-07-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "summary": "SpaceX拟在太空建AI数据中心，探索数据处理新方向",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "pubTime": "2026-07-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研脑启发芯片，接近绝对零度助力量子计算",
+      "summary": "港大研发脑启发芯片接近绝对零度，或将革新量子计算",
       "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
       "pubTime": "2026-07-03",
       "score": 85
@@ -54,29 +64,39 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "研究利用光物质混合粒子为AI硬件提供动力，或将突破现有计算瓶颈",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-07-03",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
       "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA测试新一代AI芯片，可让航天器自主思考",
+      "summary": "NASA测试新一代AI太空芯片，可赋予航天器自主思考能力",
       "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
       "pubTime": "2026-07-03",
       "score": 85
     },
     {
       "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 前大疆科学家创业，半年内连获四轮数亿融资，耀途资本、锦秋基金等押注",
-      "summary": "前大疆科学家创立硅羽科技，半年获四轮数亿融资，阿里巴巴等投资",
-      "url": "https://36kr.com/p/3877830625046535?f=rss",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "量子算法突破：秒解此前无法计算的材料问题",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-07-03",
-      "score": 80
+      "score": 82
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-      "summary": "具身智能第一股宇树科技IPO获批，SK海力士市值蒸发万亿，AI版支付宝上线",
-      "url": "https://36kr.com/p/3879158039834629?f=rss",
+      "title": "氪星晚报｜证监会同意宇树科技科创板IPO注册；Meta“带崩”科技股？业内人士：算力过剩系误读",
+      "summary": "证监会同意宇树科技科创板IPO注册，Meta算力过剩引关注",
+      "url": "https://36kr.com/p/3878550357946625?f=rss",
       "pubTime": "2026-07-03",
       "score": 75
     },
@@ -84,29 +104,9 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "36氪首发 | 清华、中科院团队联合华西医院研发康养转运机器人，进一步布局居家养老场景",
-      "summary": "清华中科院联合华西医院研发康养转运机器人，完成战略融资布局居家养老",
-      "url": "https://36kr.com/p/3877863381741577?f=rss",
-      "pubTime": "2026-07-03",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "Google 的 2025 年用电量增长了 37%",
-      "summary": "Google用电量激增反映AI发展隐忧，能源消耗成行业焦点",
-      "url": "https://www.solidot.org/story?sid=84745",
-      "pubTime": "2026-07-03",
-      "score": 75
-    },
-    {
-      "section": "highlights",
-      "source": "Solidot",
-      "sourceUrl": "https://www.solidot.org/index.rss",
-      "title": "轨道数据中心的炒作和现实",
-      "summary": "SpaceX创始人宣称三年内实现轨道数据中心，已向FCC申请发射",
-      "url": "https://www.solidot.org/story?sid=84743",
+      "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
+      "summary": "宁德时代基金领投数千万美元，OMOWAY成印尼电摩订单第一",
+      "url": "https://36kr.com/p/3877990989819909?f=rss",
       "pubTime": "2026-07-03",
       "score": 75
     }
