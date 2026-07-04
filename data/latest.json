@@ -1,11 +1,11 @@
 {
   "title": "AI科技情报简报",
   "date": "2026-07-04",
-  "time": "16:06",
+  "time": "20:07",
   "label": "LATEST BRIEFING",
-  "temperature": 74,
-  "updateTimeStr": "2026-07-04 16:06",
-  "sourceCount": 3,
+  "temperature": 50,
+  "updateTimeStr": "2026-07-04 20:07",
+  "sourceCount": 4,
   "totalCount": 52,
   "totalSignalsAll": 788,
   "signalCount": 10,
@@ -14,18 +14,18 @@
       "section": "highlights",
       "source": "ScienceDaily AI",
       "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-      "summary": "港大研发脑启发芯片，接近绝对零度运行，可助力量子计算突破",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm",
+      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
+      "summary": "新型量子算法秒解材料难题，突破技术前沿全球",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
       "pubTime": "2026-07-04",
-      "score": 88
+      "score": 90
     },
     {
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
       "title": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
-      "summary": "剑桥教授创硅光芯片企业获1亿融资，牵手欧莱雅华为",
+      "summary": "剑桥副教授创硅光芯片企业获1亿融资，已与欧莱雅华为合作",
       "url": "https://36kr.com/p/3879991356157952?f=rss",
       "pubTime": "2026-07-04",
       "score": 85
@@ -34,71 +34,11 @@
       "section": "highlights",
       "source": "36氪",
       "sourceUrl": "https://36kr.com/feed",
-      "title": "秋声 | 袁进辉新公司冲港股IPO，成立不到三年",
-      "summary": "袁进辉新公司冲刺港股IPO，AI行业上市潮持续",
-      "url": "https://36kr.com/p/3879814941437956?f=rss",
-      "pubTime": "2026-07-04",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-      "summary": "宾大研发混合光物质粒子，可为AI提供动力",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-      "pubTime": "2026-07-04",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "A classic brain test exposed AI's biggest weakness",
-      "summary": "研究发现顶级AI模型在经典注意力测试中暴露重大缺陷",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm",
-      "pubTime": "2026-07-04",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-      "summary": "量子算法突破：几秒解决此前不可能的材料科学问题",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-      "pubTime": "2026-07-04",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "ScienceDaily AI",
-      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "title": "NASA’s new AI space chip could let spacecraft think for themselves",
-      "summary": "NASA研发AI芯片，航天器或具自主思考",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm",
-      "pubTime": "2026-07-04",
-      "score": 85
-    },
-    {
-      "section": "highlights",
-      "source": "MIT Tech Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "summary": "MIT Tech Review报道初创公司尝试解决LLMs群体思维问题",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "pubTime": "2026-07-04",
-      "score": 78
-    },
-    {
-      "section": "highlights",
-      "source": "36氪",
-      "sourceUrl": "https://36kr.com/feed",
       "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
-      "summary": "阿里禁用Claude Code，微软25亿建AI公司",
+      "summary": "微软斥25亿美元建AI公司，阿里全面禁用Claude Code",
       "url": "https://36kr.com/p/3880629882679301?f=rss",
       "pubTime": "2026-07-04",
-      "score": 75
+      "score": 85
     },
     {
       "section": "highlights",
@@ -107,6 +47,66 @@
       "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
       "summary": "宁德时代基金领投OMOWAY数千万美元，印尼电摩订单第一",
       "url": "https://36kr.com/p/3877990989819909?f=rss",
+      "pubTime": "2026-07-04",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+      "summary": "宾夕法尼亚大学研发光物质混合粒子驱动AI技术",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+      "pubTime": "2026-07-04",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "ScienceDaily AI",
+      "sourceUrl": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+      "summary": "AI框架助天文测量宇宙膨胀，揭示暗能量之谜",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm",
+      "pubTime": "2026-07-04",
+      "score": 85
+    },
+    {
+      "section": "highlights",
+      "source": "MIT Tech Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "MIT Tech Review：LLMs存在群体思维局限，初创公司尝试突破",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "pubTime": "2026-07-04",
+      "score": 78
+    },
+    {
+      "section": "highlights",
+      "source": "36氪",
+      "sourceUrl": "https://36kr.com/feed",
+      "title": "氪星晚报｜西贝餐饮集团退出小女当家；FF洛杉矶总部人去楼空？公司回应：不实",
+      "summary": "Meta AI云业务潜力千亿美元，2027年收入或增300亿美元",
+      "url": "https://36kr.com/p/3879796756754694?f=rss",
+      "pubTime": "2026-07-04",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "阿里巴巴禁止员工使用 Claude Code",
+      "summary": "阿里禁止员工用Claude Code，推自家Qoder平台",
+      "url": "https://www.solidot.org/story?sid=84751",
+      "pubTime": "2026-07-04",
+      "score": 75
+    },
+    {
+      "section": "highlights",
+      "source": "Solidot",
+      "sourceUrl": "https://www.solidot.org/index.rss",
+      "title": "日本最高法院裁决 AI 不能被列为专利申请的发明人",
+      "summary": "日本最高法院裁定AI不能作为专利发明人，必须为自然人",
+      "url": "https://www.solidot.org/story?sid=84748",
       "pubTime": "2026-07-04",
       "score": 75
     }
